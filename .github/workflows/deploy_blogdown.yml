@@ -47,7 +47,7 @@ jobs:
        with:
         # build dir
         build_dir: public/
-        cname: https://computationales.github.io
+        cname: https://computationales.github.io/geco_website/
         email: koen.hufkens@gmail.com
         jekyll: no
        env:
