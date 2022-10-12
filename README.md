@@ -11,3 +11,6 @@
 - stop the server using `blogdown::stop_server()`
 
 Note: changes to the theme are not automatically updated.
+
+To link to a bought domain set the cname parameter in the github actions
+workflow to the correct domain instead of a github location.
