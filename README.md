@@ -16,3 +16,5 @@ To link to a bought domain set a cname parameter in the github actions
 workflow at the build stage to the correct domain instead of a github location.
 
 Change the `config/_default/*.yaml` files to change site parameters.
+
+See webhooks for netlify support.
