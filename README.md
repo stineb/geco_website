@@ -12,5 +12,7 @@
 
 Note: changes to the theme are not automatically updated.
 
-To link to a bought domain set the cname parameter in the github actions
-workflow to the correct domain instead of a github location.
+To link to a bought domain set a cname parameter in the github actions
+workflow at the build stage to the correct domain instead of a github location.
+
+Change the `config/_default/*.yaml` files to change site parameters.
