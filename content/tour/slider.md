@@ -9,7 +9,7 @@ content:
       media: coders.jpg
       position: right
     content: Take a look at what we're working on...
-    title: "\U0001F44B Welcome to the group"
+    title: "We're the GECO group"
   - align: left
     background:
       brightness: 0.7
