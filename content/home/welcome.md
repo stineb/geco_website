@@ -22,7 +22,5 @@ design:
 
 <br>
 
-We are climate and ecosystem scientists with a special interest in interactions between global environmental change and terrestrial ecology and biogeochemistry. 
-
-Our research takes place at the intersection of Earth system science, terrestrial ecology, biogeochemistry, hydrology, and data science and is carried out along the following lines:
+We are climate and ecosystem scientists with a special interest in interactions between global environmental change and terrestrial ecology and biogeochemistry.
 
