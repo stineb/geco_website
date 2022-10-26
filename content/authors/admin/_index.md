@@ -1,4 +1,8 @@
 ---
+authors:
+- Benjamin Stocker, Prof. PhD.
+user_groups:
+- Principal Investigators
 title: Benjamin Stocker
 role: Group leader, Asst. Prof.
 avatar_filename: stocker-benjamin_q.jpg
