@@ -7,21 +7,24 @@ main:
   - name: About us
     url: tour
     weight: 10
-  - name: Posts
-    url: post
-    weight: 20
-  - name: People
-    url: people
-    weight: 30
-  - name: Talks
-    url: event
-    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
   - name: Projects
     url: project
+    weight: 20
+  - name: Data & code
+    url: data_code
+    weight: 30
+  - name: Posts
+    url: post
+    weight: 40
+  - name: People
+    url: people
+    weight: 50
+  - name: Talks
+    url: event
+    weight: 60
+  - name: Publications
+    url: publication
     weight: 70
+  - name: Contact
+    url: contact
+    weight: 80
