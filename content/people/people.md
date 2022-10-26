@@ -2,9 +2,9 @@
 content:
   user_groups:
   - Principal Investigators
-  - Researchers
-  - Grad Students
-  - Administration
+  - Postdoctoral Researchers
+  - PhD Students
+  - Staff
   - Visitors
   - Alumni
 design:
