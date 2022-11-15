@@ -1,19 +1,19 @@
 ---
 content:
   address:
-    city: Stanford
-    country: United States
-    country_code: US
-    postcode: "94305"
-    region: CA
-    street: 450 Serra Mall
+    city: Bern
+    country: Switzerland
+    country_code: CH
+    postcode: "3012"
+    region: BE
+    street: Hallerstrasse 12
   appointment_url: https://calendly.com
   autolink: true
   coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  email: test@example.org
+    latitude: "46.95276"
+    longitude: "7.43523"
+  directions: Enter the Geographisches Institute and take the stairs to Floor 4
+  email: benjamin.stocker@giub.unibe.ch
   form:
     formspree:
       id: null
@@ -23,7 +23,7 @@ content:
   office_hours:
   - Monday 10:00 to 13:00
   - Wednesday 09:00 to 10:00
-  phone: 888 888 88 88
+  phone: +41 44 632 48 90
 design:
   columns: "1"
 headless: true

@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: []
 email: "koen.hufkens@giub.unibe.ch"
 highlight_name: false
 interests:
@@ -12,7 +11,7 @@ interests:
 - Data Science & Rescue
 - Open Science Advocacy
 organizations:
-- name: University of Bern
+- name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
   url: ""
 role: Senior Scientist
 social:
@@ -34,4 +33,4 @@ user_groups:
 - Researchers
 ---
 
-As an earth system scientist and ecologist dr. Hufkens models ecosystem processes, such as vegetation growth or drought / disturbance resistance, using various -retrospective- proxy measurements in a model data fusion approach, including among others remote sensing, dendrochronology and recovered historical data records. Throughout his career he worked interdisciplinary borrowing heavily from fields, outside of ecology, such as image vision processing (computer science), remote sensing and engineering to assist in either field measurements and/or model driven analysis.
+As an earth system scientist and ecologist Dr. Hufkens models ecosystem processes, such as vegetation growth or drought / disturbance resistance, using various -retrospective- proxy measurements in a model data fusion approach, including among others remote sensing, dendrochronology and recovered historical data records. Throughout his career he worked interdisciplinary borrowing heavily from fields, outside of ecology, such as image vision processing (computer science), remote sensing and engineering to assist in either field measurements and/or model driven analysis.
