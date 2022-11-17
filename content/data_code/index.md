@@ -100,14 +100,6 @@ A light R package for deriving cumulative water deficits, given time series of e
 
 ---
 
-## More code
-
-More of my open source code and open access model outputs:
-
-- [rbeni](https://github.com/stineb/rbeni): An eclectic collection of functions used in Beni's daily life, implemented as an R package.
-
----
-
 # Data and outputs
 
 - [fLUE](https://doi.org/10.5281/zenodo.1158524): Fractional reduction in light use efficiency due to soil moisture stress, estimated at FLUXNET2015 Tier 1 sites, as described in Stocker et al., (2018) *New Phytologist*.
