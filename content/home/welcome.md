@@ -22,5 +22,8 @@ design:
 
 <br>
 
-We are climate and ecosystem scientists with a special interest in interactions between global environmental change and terrestrial ecology and biogeochemistry.
+We are a team of researchers driven by our curiosity to understand how the terrestrial biosphere operates. 
 
+We develop capacity to detect, quantify, and predict responses of plants and ecosystems to climate change and forecast the impact of extremes.
+
+Our science enables a better understanding of the integrity and function of the natural world under pressure - key to creating a sustainable future.

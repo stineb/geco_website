@@ -2,6 +2,6 @@
 banner:
   caption: ""
   image: ""
-title: Posts
+title: Blog
 view: compact
 ---
