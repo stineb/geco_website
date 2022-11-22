@@ -13,13 +13,13 @@ main:
   - name: Data & code
     url: data_code
     weight: 30
-  - name: Posts
+  - name: Blog
     url: post
     weight: 40
   - name: People
     url: people
     weight: 50
-  - name: Talks
+  - name: Join us
     url: event
     weight: 60
   - name: Publications
