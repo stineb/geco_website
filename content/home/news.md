@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 40
 
-title: Recent posts
+title: Recent Posts
 subtitle:
 
 content:
