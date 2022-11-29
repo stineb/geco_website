@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sara Vicca | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/sara-vicca/</link>
+      <atom:link href="https://geco-website.netlify.app/author/sara-vicca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sara Vicca</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Sara Vicca</title>
+      <link>https://geco-website.netlify.app/author/sara-vicca/</link>
+    </image>
+    
+    <item>
+      <title>A trade-off between plant and soil carbon storage under elevated CO2</title>
+      <link>https://geco-website.netlify.app/publication/terrer-21-nat/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-21-nat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass (vol 21, pg 561, 2020)</title>
+      <link>https://geco-website.netlify.app/publication/keenan-x-xnat/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/keenan-x-xnat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass (vol 21, pg 561, 2020)</title>
+      <link>https://geco-website.netlify.app/publication/terrer-20-natcc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-20-natcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass</title>
+      <link>https://geco-website.netlify.app/publication/terrer-19-natcc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-19-natcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass</title>
+      <link>https://geco-website.netlify.app/publication/terrer-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecosystem responses to elevated CO2 governed by plant–soil interactions and the cost of nitrogen acquisition</title>
+      <link>https://geco-website.netlify.app/publication/terrer-18-newphyt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-18-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using research networks to create the comprehensive datasets needed to assess nutrient availability as a key determinant of terrestrial carbon cycling</title>
+      <link>https://geco-website.netlify.app/publication/vicca-18-erl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/vicca-18-erl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to Comment on “Mycorrhizal association as a primary control of the CO2 fertilization effect”</title>
+      <link>https://geco-website.netlify.app/publication/terrer-17-sci/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-17-sci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terrestrial nitrogen cycling in Earth system models revisited</title>
+      <link>https://geco-website.netlify.app/publication/stocker-16-newphyt/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-16-newphyt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

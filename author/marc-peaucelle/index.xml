@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Peaucelle | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/marc-peaucelle/</link>
+      <atom:link href="https://geco-website.netlify.app/author/marc-peaucelle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Peaucelle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Marc Peaucelle</title>
+      <link>https://geco-website.netlify.app/author/marc-peaucelle/</link>
+    </image>
+    
+    <item>
+      <title>Spatial variance of spring phenology in temperate deciduous forests is constrained by background climatic conditions</title>
+      <link>https://geco-website.netlify.app/publication/peaucelle-19-natcomm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/peaucelle-19-natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of Global Change on Mediterranean Forests and Their Services</title>
+      <link>https://geco-website.netlify.app/publication/penuelas-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/penuelas-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

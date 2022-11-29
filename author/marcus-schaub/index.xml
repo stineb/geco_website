@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcus Schaub | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/marcus-schaub/</link>
+      <atom:link href="https://geco-website.netlify.app/author/marcus-schaub/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcus Schaub</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Marcus Schaub</title>
+      <link>https://geco-website.netlify.app/author/marcus-schaub/</link>
+    </image>
+    
+    <item>
+      <title>Photosynthetic acclimation and sensitivity to short- and long-term environmental changes in a drought-prone forest</title>
+      <link>https://geco-website.netlify.app/publication/schoenbeck-22-jeb/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/schoenbeck-22-jeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photosynthetic acclimation and sensitivity to short- and long-term environmental changes</title>
+      <link>https://geco-website.netlify.app/publication/schoenbeck-21-newphyt/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/schoenbeck-21-newphyt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

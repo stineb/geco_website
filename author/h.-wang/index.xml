@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Wang | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/h.-wang/</link>
+      <atom:link href="https://geco-website.netlify.app/author/h.-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>H. Wang</title>
+      <link>https://geco-website.netlify.app/author/h.-wang/</link>
+    </image>
+    
+    <item>
+      <title>Retraction Note: A constraint on historic growth in global photosynthesis due to increasing CO2</title>
+      <link>https://geco-website.netlify.app/publication/keenan-22-nat-retraction/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/keenan-22-nat-retraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A constraint on historic growth in global photosynthesis due to increasing CO2</title>
+      <link>https://geco-website.netlify.app/publication/keenan-21-nat/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/keenan-21-nat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P-model v1.0: an optimality-based light use efficiency model for simulating ecosystem gross primary production</title>
+      <link>https://geco-website.netlify.app/publication/stocker-20-gmd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-20-gmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P-model v1.0: An optimality-based light use efficiency model for simulating ecosystem gross primary production</title>
+      <link>https://geco-website.netlify.app/publication/stocker-19-gmdd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-19-gmdd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

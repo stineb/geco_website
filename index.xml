@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/</link>
+      <atom:link href="https://geco-website.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geocomputation and Earth Observation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 14:25:03 +0200</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Geocomputation and Earth Observation</title>
+      <link>https://geco-website.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title>Qiu 22 Oneearth</title>
+      <link>https://geco-website.netlify.app/publication/qiu-22-oneearth/</link>
+      <pubDate>Sat, 17 Sep 2022 14:25:03 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/publication/qiu-22-oneearth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retraction Note: A constraint on historic growth in global photosynthesis due to increasing CO2</title>
+      <link>https://geco-website.netlify.app/publication/keenan-22-nat-retraction/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/keenan-22-nat-retraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Drought impact prediction</title>
+      <link>https://geco-website.netlify.app/event/droughtimpact/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/event/droughtimpact/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Thomas Brunschwiler&lt;/p&gt;
+&lt;p&gt;Recent hot and dry summers in Europe have led to impacts on the functioning and structure of forests. Combined heat and drought stress led to wide-spread canopy defoliation (&amp;lsquo;browning&amp;rsquo; or &amp;rsquo;early wilting&amp;rsquo;) and tree mortality. The challenge facing multiple stakeholders now is to understand where and when impact thresholds were exceeded in the past years and to anticipate forest responses to future climatic extreme events.&lt;/p&gt;
+&lt;p&gt;Earth observation data has yielded a wealth of information about the state of vegetation and browning events at a resolution of tens of meters. These data have revealed patterns of a distinct heterogeneity of impacts across space and have yielded information about the timing of impacts over the past decades and effects of repeated stress by droughts in consecutive years. This data-richness, combined with novel machine learning methods, opens a potential for building predictive models, learning from observed impacts and their relationship with environmental drivers. But the combination of temporal and spatial dependencies in the data calls for specifically tailored model architectures, informed by knowledge of ecosystem processes across varying environmental conditions across the landscape.&lt;/p&gt;
+&lt;p&gt;You will will develop new solutions to address this challenge. The project will be conducted in collaboration with the IBM AI &amp;amp; Physics for Climate Impact group, based in Rüschlikon, Switzerland, and you work within their cloud computing and data infrastructure. This thesis will set the basis for an online early warning platform that will enable periodically updated near-term drought-impact forecasts beyond the project&amp;rsquo;s lifetime. The prediction target is vegetation greenness, measured by the normalized difference vegetation index (NDVI). You will proceed by combining multiple data sets for analysis-readiness; developing a suitable method for predicting NDVI time series across space; and developing a reusable workflow and online platform as the basis for an operational near-term impact forecasting and early warning, implemented in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Global ecosystem flux modelling</title>
+      <link>https://geco-website.netlify.app/event/eeo_fluxes/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/event/eeo_fluxes/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Francesco Giardina&lt;/p&gt;
+&lt;p&gt;As a result of the higher CO2 concentration in the atmosphere, plants have adapted their stomatal regulation to increase the water-use efficiency (WUE) at the leaf level. Another driver of plant transpiration is foliage surface area, and trends in land surface greenness are thus partly linked by enhanced WUE under elevated CO2. As climate change progresses, it is critical to understand the responses of terrestrial ecosystems and surface-atmosphere exchanges of CO2 and water vapour to global environmental change.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to model spatial and seasonal variations in WUE to predict evapotranspiration (ET) within an established global photosynthesis and acclimation model (productivity model or simply P-model; Stocker et al. 2020). The core of this model employs a principle of eco-evolutionary optimality to simulate acclimation of photosynthesis and transpiration based on the trade-off between costs and benefits from water loss and C assimilation. You will use observed root zone moisture storage capacity (SR) to model ET at FLUXNET sites and investigate predictions under progressing droughts. We expect that using the combination of the two key quantities WUE and SR, which are under plant-control and subject to different acclimation and adaptation across the Earth?s climate zones, will improve global ET predictions. It has been demonstrated that rooting zone adapts its extent as a function of the phase lag between peak seasonal radiation and precipitation. Following this framework, we will investigate the effect of a spatially varying rooting depth on the ratio of actual ET over precipitation.&lt;/p&gt;
+&lt;p&gt;This thesis is a great starting point for mechanistic ecosystem modelling and working with large datasets of the terrestrial biosphere. Basic experience with working with R, Python, Fortran, or other programming languages are a requirement. You may start as soon as you like. Please contact me directly if you&amp;rsquo;re interested.&lt;/p&gt;
+&lt;p&gt;It is possible to carry out this thesis in teamwork, where the partner thesis would implement a predictive model based on machine-learning instead of a mechanistic model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Preindustrial land use change</title>
+      <link>https://geco-website.netlify.app/event/landcover6k/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/event/landcover6k/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Prof. Dr. Fortunat Joos, Climate and Environmental Physics, Universität Bern&lt;/p&gt;
+&lt;p&gt;Human land use and land use change (LULUC) has transformed the Earth surface and is contributing to the rise in atmospheric greenhouse gas concentrations and climate change. In contrast to fossil fuel combustion, LULUC has potentially been an agent of Earth system transformation already before the Industrial period. Indeed, several prominent features in ice core records of the past 10,000 years have been linked to the rise and collapse of civilizations. However, establishing causal links and understanding the role of pre-industrial human societies in the Earth system has been challenging. Emerging past LULUC reconstructions combine insights from multiple disciplines (Archaeology, Earth system science, Land use Science and Geography) and provide a new basis for simulating impacts with Earth System Models. This is where you step in.&lt;/p&gt;
+&lt;p&gt;You will use the latest reconstructions of Holocene LULUC from the PAGES Landcover6K working group (&lt;a href=&#34;http://pastglobalchanges.org/science/wg/landcover6k/intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://pastglobalchanges.org/science/wg/landcover6k/intro,&lt;/a&gt; &lt;a href=&#34;https://stineb.github.io/holoLU_lc6k/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stineb.github.io/holoLU_lc6k/index.html&lt;/a&gt;) to run a set of global model simulations for evaluating impacts of pre-industrial LULUC on the terrestrial carbon balance.&lt;/p&gt;
+&lt;p&gt;This thesis is a great starting point for working with global Earth system and vegetation models and large spatial datasets, and for linking disciplines. Experience with programming is an advantage and your eagerness to learn a prerequisite. You may start as soon as you like.
+&lt;a href=&#34;https://stineb.github.io/holoLU_lc6k/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stineb.github.io/holoLU_lc6k/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photosynthetic acclimation and sensitivity to short- and long-term environmental changes in a drought-prone forest</title>
+      <link>https://geco-website.netlify.app/publication/schoenbeck-22-jeb/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/schoenbeck-22-jeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acclimation of phenology relieves leaf longevity constraints in deciduous forests</title>
+      <link>https://geco-website.netlify.app/publication/marques-22-biorxiv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/marques-22-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Land-Use Change Emissions in Southeast Asia Decreasing or Increasing?</title>
+      <link>https://geco-website.netlify.app/publication/kondo-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/kondo-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting drought legacy effects on gross primary productivity in a mixed versus pure beech forest</title>
+      <link>https://geco-website.netlify.app/publication/yu-22-bg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/yu-22-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for satellite image forecasting of vegetation greenness</title>
+      <link>https://geco-website.netlify.app/publication/kladny-22-biorxiv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/kladny-22-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A constraint on historic growth in global photosynthesis due to increasing CO2</title>
+      <link>https://geco-website.netlify.app/publication/keenan-21-nat/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/keenan-21-nat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global leaf N and P</title>
+      <link>https://geco-website.netlify.app/project/leafnp/</link>
+      <pubDate>Sat, 25 Sep 2021 13:50:03 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/leafnp/</guid>
+      <description>&lt;p&gt;This research is led by Dr. Di Tian, former postdoc in my group for Computational Ecosystem Science, ETH Zurich, now at Beijing Forestry University.&lt;/p&gt;
+&lt;p&gt;We want to understand what drives leaf nitrogen and phosphorous contents and their variations across the globe. To investigate this, we use a large dataset of plant-level observations by &lt;a href=&#34;https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2812&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tian et al. (2019)&lt;/a&gt;, and complement it with environmental covariates. In constrast to earlier reports, we find that our environmental covariates explain about half of the variations observed in the data - an astonishingly high portion for an ecological dataset where covariates were not actually measured in the field but extracted from other global datasets.&lt;/p&gt;
+&lt;p&gt;Here is our preliminary result for a global leaf N map (gN/m2):&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/leafn.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;More on this to come very soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensing drought stress</title>
+      <link>https://geco-website.netlify.app/project/martina/</link>
+      <pubDate>Sat, 25 Sep 2021 11:57:45 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/martina/</guid>
+      <description>&lt;p&gt;This project is led by Martina Buck, a MSc student in my group for Compuational Ecosystem Science.&lt;/p&gt;
+&lt;p&gt;Satellite remote sensing data of surface reflectance is widely used to measure vegetation structure and green foliage area and quantify indices such as the NDVI (normalized difference vegetation index). However, effects of abiotic stress (e.g. droughts) and physiological responses are not directly measured or insufficiently captured by such indices and other available surface reflectance-based satellite products. We know, however, that additional information is contained in certain spectral bands and provides insights into the physiological part of plant responses (beyond structural responses).&lt;/p&gt;
+&lt;p&gt;In this project, we develop new methods for making more fully use of remote sensing data for monitoring drought stress and plant physiological responses across. For this, we&amp;rsquo;re applying machine learning on the full spectral information of surface reflectance and ancillary obtained from remote sensing and climate reanalysis. The target for algorithms of supervised machine learning are new estimates for the physiological (-only) response to water stress, developed by &lt;a href=&#34;https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2018 &lt;em&gt;New Phytologist&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecological data assimilation</title>
+      <link>https://geco-website.netlify.app/project/diego/</link>
+      <pubDate>Sat, 25 Sep 2021 11:57:26 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/diego/</guid>
+      <description>&lt;p&gt;In several projects, we are working towards assimilating diverse data into mechanistic ecosystem models.&lt;/p&gt;
+&lt;p&gt;Currently, we are using forest inventory data, in combination with eddy covariance flux measurements from an intensive monitoring site in Switzerland (&lt;a href=&#34;http://sites.fluxdata.org/CH-Lae/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lägern&lt;/a&gt;) for calibrating our model (rsofun with LM3-PPA, see &lt;a href=&#34;https://geco-website.netlify.app/data_code/index.md&#34;&gt;Data and code&lt;/a&gt;) using Bayesian statistical methods.&lt;/p&gt;
+&lt;p&gt;A MSc thesis by Ana Roldan is scheduled to start in November 2021 that extends this model-data integration framework. The research question of this thesis will be to investigate feedbacks between photosynthesis and growth, and in particular whether cold-limitation on growth feeds back on photosynthesis and thus induces a temperature-driven sink limitation in forests. To investigate this, we are using data from the intensive monitoring sites at &lt;a href=&#34;http://sites.fluxdata.org/CH-Lae/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lägern&lt;/a&gt; and &lt;a href=&#34;http://sites.fluxdata.org/CH-Dav/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Davos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With planned research, we are aiming to extend model-data integration on the basis of diverse ecological data further. The aim is to accurately simulate impacts of drought and heat stress on CO2 assimilation, transpiration, tree growth, and mortality. Using complementary observations and mechanistically accounting for the links between processes will yield new insights - key for forecasting climate extreme event impacts in Swiss (and other) forests.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phenology and photosynthesis</title>
+      <link>https://geco-website.netlify.app/project/pheno/</link>
+      <pubDate>Sat, 25 Sep 2021 11:57:12 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/pheno/</guid>
+      <description>&lt;p&gt;We are interested in the links between autumn phenology and photosynthesis. In contrast to a recently published study by &lt;a href=&#34;https://www.science.org/doi/10.1126/science.abd8911&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zani et al. (2020)&lt;/a&gt;, we find that increasing photosynthesis does &lt;em&gt;not&lt;/em&gt; lead to an earlier leaf-shedding in autumn. While a such a relationship appears at the short (inter-annual) time scale (driven probably by variations in the spring phenology and a constrained leaf longevity), it does not hold when evaluating relationships at the decadal time scale and across space. This challenges the interpretation of Zani et al. about the drivers of autumn phenology. It&amp;rsquo;s probably not about a C sink saturation (once plants have assimilated enough C, they go to sleep for winter). Rather, long-term trends in climate and CO2 enables plants to extend their growing season, wherebey they overcome the leaf-longevity constraint and a trend towards earlier leaf-out does not lead to a corresponding trend towards earlier leaf-off. The opposite is observed - both for decadal-scale temporal trends and trends across space!&lt;/p&gt;
+&lt;p&gt;This is research I designed and is being led now by &lt;a href=&#34;https://usys.ethz.ch/en/people/profile.MjY5NTUz.TGlzdC82MzcsMzIwMTk3MjIy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Laura Marques&lt;/a&gt; (postdoc in my group).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimality and plant hydraulics</title>
+      <link>https://geco-website.netlify.app/project/jaideep/</link>
+      <pubDate>Sat, 25 Sep 2021 11:57:05 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/jaideep/</guid>
+      <description>&lt;p&gt;This is an important step for developing theory for how plant hydraulics determine stomatal regulation and photosynthetic capacity in response to water stress. The research led by Dr. Jaideep Joshi, IIASA, Austria, is published as a pre-print on BiorXiv (&lt;a href=&#34;https://doi.org/10.1101/2020.12.17.423132&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshi et al. 2020&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The model presented here offers a solution to resolve measurable plant hydraulic traits withing the theoretical approach for eco-evolutionary optimality implemented by the P-model (&lt;a href=&#34;https://doi.org/10.5194/gmd-13-1545-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2020 &lt;em&gt;GMD&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cold acclimation effects on photosynthesis</title>
+      <link>https://geco-website.netlify.app/project/photocold/</link>
+      <pubDate>Sat, 25 Sep 2021 11:56:58 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/photocold/</guid>
+      <description>&lt;p&gt;Ecosystem-level photosynthesis (gross primary production: GPP) can be predicted using remotely sensed information on vegetation cover, local measurements of solar radiation and relatively simple models for the efficiency of photosynthesis (Ryu et al., 2019; Stocker et al., 2019). But one aspect of model-data mismatch stands out: The early-season increase in GPP is typically simulated to be around a month too early at some sites but not at others (Fig. 1). It will be your challenge to find out why and how to resolve this model deficiency.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/photocold.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 1 Mean seasonal cycle of GPP aggregated for 14 sites where without early season overestimation of modelled GPP (a) and 13 sites with an apparent overestimation of early season modelled GPP (b).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A hypothesis that may explain this phenomenon is that the photosynthetic apparatus is acclimated to the risk of frost damage in early spring, caused by conditions of low temperature and simultaneously high solar radiation. To prevent excessive light harvesting, photoprotective mechanisms are deployed by plants and lead to reduced photosynthetic carbon assimilation, and hence GPP. At locations with relatively mild winters and limited risk of frost, photoprotection may be less prevalent and photosynthesis rates are high already in the early season.&lt;/p&gt;
+&lt;p&gt;We are using ecosystem flux data in combination with our photosynthesis model to understand and resolve its ominous early season GPP bias at some sites in some years.&lt;/p&gt;
+&lt;p&gt;This research is led by Dr. Yunpeng Luo, a postdoc in my group and co-supervised by Prof. Arthur Gessler, WSL Birmensdorf.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning for GPP</title>
+      <link>https://geco-website.netlify.app/project/mlflx/</link>
+      <pubDate>Sat, 25 Sep 2021 11:56:58 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/mlflx/</guid>
+      <description>&lt;p&gt;This research emerges from a semester project for the Data Science Lab at ETH Zürich, a course of the Computer Science study programme. I supervised students Alexandru Meterez, Piersilvio de Bartolomeis, and Zixin Shelley Shu, all MSc students in Computer Scince at ETHZ. The results are currently written up as a manuscript.&lt;/p&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Ecosystem-atmosphere exchange fluxes of water vapour and CO2 are continuously measured at several hundred of sites, distributed across the globe. The oldest running sites have been recording data since over twenty years. Thanks to the international FLUXNET initiative, these time series data are made openly accessible from over hundred sites and provided in a standardized format and complemented with measurements of several meteorological variables, plus soil temperature and moisture, measured in parallel. These data provide an opportunity for understanding ecosystem fluxes and how they are affected by environmental covariates. The challenge is to build models that are sufficiently generalisable in space. That is, temporally resolved relationships learned from one subset of sites should be used effectively to predict time series, given environmental covariates, at new sites (spatial upscaling).&lt;/p&gt;
+&lt;p&gt;This is a challenge as previous research has shown that relatively powerful site-specific models can be trained, but predictions to new sites have been found wanting. This may be due to site-specific characteristics (e.g. vegetation type) that have thus far not been satisfactorily encoded in models. In other words, factors that would typically be regarded as random factors in mixed effects modelling, continue to undermine effective learning in machine learning models.&lt;/p&gt;
+&lt;h2 id=&#34;approach&#34;&gt;Approach&lt;/h2&gt;
+&lt;p&gt;We found that deep neural networks that learn temporal dependencies in the data (Long-Short Term Memory, LSTM) are well-suited for this prediction task.&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary results&lt;/h2&gt;
+&lt;p&gt;Our results indicate that spatially generalisable LSTM models outperform our mechanistic model (the P-model) in predicting GPP.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mlflx.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Benchmarking of the LSTM versus a &amp;ldquo;physical model&amp;rdquo; - the P-model. This shows the coefficient of determination for out-of-sample predictions at individual sites. Points above the 1:1 line (dashed) indicate that the LSTM outperforms the physical model.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DGVM linearity</title>
+      <link>https://geco-website.netlify.app/project/dgvmlin/</link>
+      <pubDate>Sat, 25 Sep 2021 11:56:38 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/dgvmlin/</guid>
+      <description>&lt;p&gt;This research is led by &lt;a href=&#34;https://www.geog.ox.ac.uk/graduate/research/hzhang.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huanyuan Zhan&lt;/a&gt;, PhD student under the main supervision of Prof. Yadvinder Malhi at the University of Oxford, GB. I designed this study and am collaborating closely with Huanyuan on this project.&lt;/p&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Many processes that determine the links between C (input) fluxes and C pool sizes in DGVMs are formulated in a linear way, or at least in such a way as to imply &amp;ldquo;linear&amp;rdquo; model behavior. As a consequence, the relative change in fluxes should be equal to the relative change in pool size. Such model formulations are also termed as &amp;ldquo;source-driven&amp;rdquo;. In contrast, &amp;ldquo;sink-driven&amp;rdquo; would imply that it&amp;rsquo;s not the (input) fluxes that determine the change in pool sizes, but other limiting factors that are independent of input fluxes. This has also been formulated as a fundamental critique in the way current DGVMs are conceived and thus, at least partly, predetermine their projected land C balance changes in climate change scenarios.&lt;/p&gt;
+&lt;p&gt;The question is: How close are models actually from being fully sink-driven? Or in other words: How linear is their dynamics?&lt;/p&gt;
+&lt;p&gt;DGVMs have evolved over several generations, starting from C-only models with a big-leaf representation and average individuals in a stand, to models that represent a coupled C-nutrient cycling, and now to models that combine explicit representations of forest stand dynamics with biochemical cycling. All these modifications should increase the importance of feedbacks within the system that leads to deviations from a linear, strictly source-driven behavior.&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary results&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/dgvmlin.png&#34; alt=&#34;Relatinship of the relantive enhancement in NPP versus the relative enhancement in GPP, derived from CO2-only simulations of a set of Dynamic Global Vegetation Models. This shows a point density of data points representing individual gridcells of all models pooled. Their clustering around the 1:1 line indicates linearity in the relationship between GPP and NPP and implies a constant ratio of NPP:GPP.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Relatinship of the relantive enhancement in NPP versus the relative enhancement in GPP, derived from CO2-only simulations of a set of Dynamic Global Vegetation Models. This shows a point density of data points representing individual gridcells of all models pooled. Their clustering around the 1:1 line indicates linearity in the relationship between GPP and NPP and implies a constant ratio of NPP:GPP.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rooting zone water storage capacity</title>
+      <link>https://geco-website.netlify.app/project/rootingdepth/</link>
+      <pubDate>Sat, 25 Sep 2021 11:56:38 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/rootingdepth/</guid>
+      <description>&lt;p&gt;A pre-print is published on BiorXiv: &lt;a href=&#34;https://doi.org/10.1101/2021.09.17.460332&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al. (2021)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Global maps of estimated rooting zone water storage capacity and rooting depth is available on &lt;a href=&#34;https://doi.org/10.5281/zenodo.5515246&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Link my vEGU2020 presentation on this project &lt;a href=&#34;https://presentations.copernicus.org/EGU2020/EGU2020-7019_presentation.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Rooting depth governs plants&amp;rsquo; access to water during dry (rain-free) periods and is thus a key variable determining the sensitivity of transpiration and carbon assimilation to soil moisture drought and land-climate coupling during drought and heat events. Plant rooting depth variations of two orders of magnitude have been recorded across the globe and a substantial portion of this variation appears within species and functional groups. This suggests that plant rooting depth is a relatively plastic “trait” that may adjust to the local environment and soil hydrology and possibly also to temporally changing climatic conditions. Yet, plant rooting depth is commonly treated as a fixed parameter in global vegetation and climate models, specified for each plant functional type. How can respective trait flexibility be introduced in such models?&lt;/p&gt;
+&lt;p&gt;Approaches to explain these large variations have focussed on the depth of the local water table as a constraint on the maximum rooting depth (Fan et al., 2017), on the mean seasonality and synchrony of precipitation and radiation (Gao et al., 2014; Schenk et al., 2005), or on optimality principles for balancing the trade-offs between the benefits of deep rooting and their associated costs (carbon used for root construction and respiration and maintaining water transport along the entire soil-root-leaf pathway) (Kleidon and Heimann, 1998; Schymanski et al., 2009).&lt;/p&gt;
+&lt;p&gt;Here, we follow the approach by Gao et al. (2014), assuming that plants’ rooting depth is adjusted to sustain cumulative water deficits (precipitation minus evapotranspiration: P - ET) of a magnitude, corresponding to an event with a return period of N years, where N is a global constant. The water deficit is determined using daily reanalysis data of precipitation, while ET is estimated from remotely sensed vegetation cover and observed radiation, and from simulated stomatal responses to observed vapour pressure deficit across the globe for the past 35 years. Cumulative water deficits are translated into a “soil drying depth” using information on soil texture and its estimated water holding capacity.&lt;/p&gt;
+&lt;p&gt;Our results reveal a global pattern of plant rooting depth, adjusted to the apparent cumulative water deficit during rain-free periods, peaking at intermediate aridity, where dry periods are long, radiation is high, and vegetation cover is substantial. A comparison to biome-level distributions of observed rooting depths indicates that the control by the cumulative water deficit, embodied in our model, is a powerful driver of variations between biomes. Shallowest rooting depths are observed and modelled in boreal forests and alpine meadows, while deepest rooting is observed and modelled in xeric forests. Stomatal response to dry conditions appears to be an important mechanism that mitigates the necessity for deep rooting, particularly in broadleaved tropical and temperate forests. Our analysis also revealed challenges in bridging the scales of observations and our global-scale model, possibly due to small-scale heterogeneity in soil water availability driven by the topographic setting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Greening of the Earth and its drivers</title>
+      <link>https://geco-website.netlify.app/publication/zhu-16/</link>
+      <pubDate>Sat, 25 Sep 2021 08:12:42 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/zhu-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global distribution of the rooting zone water storage capacity reflects plant adaptation to the environment</title>
+      <link>https://geco-website.netlify.app/publication/stocker-21-biorxiv/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-21-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cwd v1.0: R package for cumulative water deficit  calculation</title>
+      <link>https://geco-website.netlify.app/publication/cwd/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/cwd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DYPTOP v1.0: Demo code for dynamical global  peatland modelling</title>
+      <link>https://geco-website.netlify.app/publication/dyptop/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/dyptop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ingestr v1.3: R package for environmental data  ingest</title>
+      <link>https://geco-website.netlify.app/publication/ingestr/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ingestr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml4ec_workshop: v1: Initial version</title>
+      <link>https://geco-website.netlify.app/publication/ml-4-ec-workshop/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ml-4-ec-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCWDX80 and zCWDX80</title>
+      <link>https://geco-website.netlify.app/publication/scwdx-80/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/scwdx-80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The global distribution and environmental drivers of aboveground versus belowground plant biomass</title>
+      <link>https://geco-website.netlify.app/publication/ma-2021-natee/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ma-2021-natee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No support for carbon storage of &gt;1,000 GtC in northern peatlands</title>
+      <link>https://geco-website.netlify.app/publication/yu-21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/yu-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stineb/rpmodel: v1.2.0 Vectorization fixed.  Refactored code.</title>
+      <link>https://geco-website.netlify.app/publication/rpmodel/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/rpmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A trade-off between plant and soil carbon storage under elevated CO2</title>
+      <link>https://geco-website.netlify.app/publication/terrer-21-nat/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-21-nat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the long-term interactions of climate change and timber markets on forest land and carbon storage</title>
+      <link>https://geco-website.netlify.app/publication/favero-21-erl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/favero-21-erl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eco-evolutionary optimality as a means to improve vegetation and land-surface models</title>
+      <link>https://geco-website.netlify.app/publication/harrison-21-newphyt/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/harrison-21-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of nitrogen deposition on centennial forest water-use efficiency</title>
+      <link>https://geco-website.netlify.app/publication/gharun-21-erl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/gharun-21-erl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photosynthetic acclimation and sensitivity to short- and long-term environmental changes</title>
+      <link>https://geco-website.netlify.app/publication/schoenbeck-21-newphyt/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/schoenbeck-21-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizing principles for vegetation dynamics</title>
+      <link>https://geco-website.netlify.app/publication/franklin-20-natplants/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/franklin-20-natplants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stineb/rsofun: LM3-PPA implemented</title>
+      <link>https://geco-website.netlify.app/publication/rsofun/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/rsofun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New constraints on terrestrial photosynthesis</title>
+      <link>https://geco-website.netlify.app/project/terrphoto/</link>
+      <pubDate>Tue, 11 Feb 2020 09:36:01 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/project/terrphoto/</guid>
+      <description>&lt;p&gt;Photosynthesis of the terrestrial biosphere drives the land carbon cycle. For example, year-to-year variations in terrestrial photosynthesis are the dominant cause for year-to-year changes in land carbon uptake and the rate of increase in atmospheric CO2. Understanding terrestrial photosynthesis is thus important for understanding the fate of anthropogenic CO2 emissions and their effect on driving climate change.&lt;/p&gt;
+&lt;p&gt;Unfortunately, terrestrial photosynthesis cannot be measured directly. Most available estimates are based on remote sensing observations of the vegetation cover, combined with models for the efficiency by which absorbed light is used for carbon assimilation. Recently, new methods have been developed to use alternative remotely sensed observations (e.g., sun-induced fluorescence) to estimate terrestrial photosynthesis. Also Dynamic Global Vegetation Models (DGVMs) provide estimates of terrestrial photosynthesis, but they don&amp;rsquo;t use remotely sensed observations directly.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/terrphoto.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Above: (left) spatial distribution of annual mean sun-induced fluorescence (SiF), a proxy for GPP; (right) spatial distribution of annual total GPP, mean across multiple remote sensing-based models. This illustrates the inconsisten spatial distribution (particularly the tropics-extratropics gradient) of remote sensing-based GPP estimates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Research in our group has revealed that these approaches yield inconsistent estimates in terms of (i) the spatial distribution of photosynthesis rates and (ii) the magnitude of year-to-year variability. The challenge that you will address in this project is to find new constraints to resolve this inconsistency. The use of atmospheric CO2 measurements holds great promise as a constraint, but requires an estimate of the net carbon balance (including gains by photosynthesis and losses by respiration and disturbance). In this project, you will establish this link. You will develop a reduced-complexity representation of the terrestrial carbon balance, based on DGVM outputs and a pulse-response representation of terrestrial carbon storage. This will be used to &amp;ldquo;translate&amp;rdquo; remote-sensing based terrestrial photosynthesis estimates into implied effects on atmospheric CO2 and its spatial and year-by-year variations. Like this, we will be able to subject  the contrasting remote sensing based estimates of terrestrial photosynthesis to a new test and find out which ones are more wrong than others.&lt;/p&gt;
+&lt;p&gt;This thesis is a great starting point for working with large datasets of the terrestrial biosphere and modelling. Experience with working with R, Python or other data science tools are an advantage. You may start as soon as you like.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development and testing scenarios for implementing land use and land cover changes during the Holocene in Earth system model experiments</title>
+      <link>https://geco-website.netlify.app/publication/harrison-20-gmd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/harrison-20-gmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eval_pmodel</title>
+      <link>https://geco-website.netlify.app/publication/eval-pmodel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/eval-pmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N2O changes from the Last Glacial Maximum to the preindustrial -- Part 2: terrestrial N2O emissions and carbon--nitrogen cycle interactions</title>
+      <link>https://geco-website.netlify.app/publication/joos-20-bg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/joos-20-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass (vol 21, pg 561, 2020)</title>
+      <link>https://geco-website.netlify.app/publication/keenan-x-xnat/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/keenan-x-xnat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass (vol 21, pg 561, 2020)</title>
+      <link>https://geco-website.netlify.app/publication/terrer-20-natcc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-20-natcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P-model v1.0: an optimality-based light use efficiency model for simulating ecosystem gross primary production</title>
+      <link>https://geco-website.netlify.app/publication/stocker-20-gmd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-20-gmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a unified theory of plant photosynthesis and hydraulics</title>
+      <link>https://geco-website.netlify.app/publication/joshi-20-bioarxiv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/joshi-20-bioarxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No support for carbon storage of more than 1000 GtC in northern peatlands</title>
+      <link>https://geco-website.netlify.app/publication/yu-19-arxiv/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/yu-19-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stineb/sofun: Stocker et al. (2019) GMD</title>
+      <link>https://geco-website.netlify.app/publication/sofun/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/sofun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPP at FLUXNET Tier 1 sites from P-model</title>
+      <link>https://geco-website.netlify.app/publication/gpp-pmodel/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/gpp-pmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LSD Heatscatter with ggplot</title>
+      <link>https://geco-website.netlify.app/post/lsd/</link>
+      <pubDate>Mon, 13 May 2019 23:19:08 -0700</pubDate>
+      <guid>https://geco-website.netlify.app/post/lsd/</guid>
+      <description>&lt;p&gt;I love the &lt;a href=&#34;https://www.rdocumentation.org/packages/LSD/versions/4.0-0/topics/heatscatter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;heatscatter()&lt;/code&gt;&lt;/a&gt; function from the &lt;a href=&#34;https://cran.r-project.org/web/packages/LSD/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LSD R package&lt;/a&gt;. I&amp;rsquo;ve even used it for my own publications (see Figs. 2 and 7 in &lt;a href=&#34;https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al. 2017&lt;/a&gt;). Since having written this paper and creating the figures I&amp;rsquo;ve (finally) moved to using ggplot. Unfortunately, &lt;code&gt;heatscatter()&lt;/code&gt; creates a plot in base R.&lt;/p&gt;
+&lt;p&gt;Googling, I found no satisfying solution. What is described on &lt;a href=&#34;http://auguga.blogspot.com/2015/10/r-heat-scatter-plot.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this blog&lt;/a&gt; does&amp;rsquo;t really do the trick.&lt;/p&gt;
+&lt;p&gt;I tried another approach. I forked the &lt;a href=&#34;https://github.com/stineb/LSD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LSD library into my github&lt;/a&gt; and hacked an additional argument into the &lt;code&gt;heatscatter()&lt;/code&gt; function as:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ggplot&lt;/code&gt; a logical: if &lt;code&gt;TRUE&lt;/code&gt; uses the ggplot2 library to create plots. Defaults to &lt;code&gt;FALSE&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;When set to &lt;code&gt;TRUE&lt;/code&gt;, the function returns a ggplot object. For example the following bit of code &amp;hellip;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gg &amp;lt;- heatscatter(mdf$lue_mod, mdf$lue_obs, xlab = &amp;#34;Modelled&amp;#34;, ylab = &amp;#34;Observed&amp;#34;, ggplot = TRUE)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gg + lab(title = &amp;#34;Example&amp;#34;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&amp;hellip; prints a simple plot, by default (and hard-coded), using ggplot&amp;rsquo;s &lt;code&gt;theme_classic()&lt;/code&gt;. This looks like this:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/ggplot_heatscatter_example.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s it. A direct link to the hacked &lt;code&gt;heatscatter()&lt;/code&gt; function is &lt;a href=&#34;https://github.com/stineb/LSD/blob/master/R/LSD.heatscatter.R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Credits to the halluzinogenic LSD package developer Bjoern Schwalb!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landcover6K model intercomparison</title>
+      <link>https://geco-website.netlify.app/project/hololu_lc6k/</link>
+      <pubDate>Fri, 08 Mar 2019 13:51:42 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/project/hololu_lc6k/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;title: Landcover6K
+summary: An example of using the in-built project page.&lt;/p&gt;
+&lt;!-- tags: --&gt;
+&lt;!-- - Deep Learning --&gt;
+&lt;p&gt;date: &amp;ldquo;2016-04-27T00:00:00Z&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
+&lt;p&gt;external_link: &amp;ldquo;&lt;a href=&#34;https://stineb.github.io/holoLU_lc6k/%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stineb.github.io/holoLU_lc6k/&#34;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;image:
+caption:
+focal_point: Smart&lt;/p&gt;
+&lt;p&gt;links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;icon: twitter
+icon_pack: fab
+name: Follow
+url: &lt;a href=&#34;https://twitter.com/georgecushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/georgecushen&lt;/a&gt;
+url_code: &amp;ldquo;&lt;a href=&#34;https://stineb.github.io/holoLU_lc6k/%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stineb.github.io/holoLU_lc6k/&#34;&lt;/a&gt;
+url_pdf: &amp;quot;&amp;rdquo;
+url_slides: &amp;quot;&amp;rdquo;
+url_video: &amp;quot;&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-project-with-markdown-slides&#34;&gt;Associate this project with Markdown slides.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-slides--example-slides-references-contentslidesexample-slidesmd&#34;&gt;E.g. &lt;code&gt;slides = &amp;quot;example-slides&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example-slides.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-slides--&#34;&gt;Otherwise, set &lt;code&gt;slides = &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;!-- slides: example --&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identifying drought impacts in a data-rich world</title>
+      <link>https://geco-website.netlify.app/post/soilm_global/</link>
+      <pubDate>Fri, 08 Mar 2019 11:56:10 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/post/soilm_global/</guid>
+      <description>&lt;p&gt;We live in a data-rich world. Satellites are collecting information about the state of the Earth surface in ever more fine-grained resolution. CO2 and water exchange fluxes between the vegetation and the atmosphere are continuously measured at several hundred sites across the globe. And (almost) all of this data is being made easily accessible to researchers from any institution or country. This data revolution has created a playground for data analysis and a testbed for models with an unprecedented potential for addressing scientific challenges and resolving pressing questions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How do droughts affect photosynthesis, vegetation productivity and the global carbon cycle?&lt;/em&gt; is one such question. Remote-sensing based models are widely used for estimating terrestrial photosynthesis. These commonly use information about the greenness of the Earth surface, incoming solar radiation and some measure of dryness. Due to the limitation that soil moisture is particularly challenging to observe from satellites, these models have commonly resorted to using information only on the atmospheric dryness (vapour pressure deficit). In view of known physiological mechanisms by which plants respond to drying soils, the question is: Does vapour pressure deficit alone provide enough information to simulate drought impacts on vegetation? &lt;/p&gt;
+&lt;p&gt;The advantage of our world’s data richness is that we now have more precise insights from observations to better uncover weaknesses in models. One such insight we gained in an earlier study (Stocker et al., 2018), where we isolated the soil moisture effect on photosynthesis from other drivers, including the (partly co-varying) vapour pressure deficit. By analysing patterns in the data from flux measurements and satellites, we found a clear additional effect by soil moisture that substantially reduces photosynthesis during “soil moisture droughts” - an effect that cannot be estimated when solely relying on information on vapour pressure deficit. It was an obvious question to ask whether the remote sensing-based terrestrial photosynthesis models, which do not account for soil moisture directly, can still accurately simulate photosynthesis during these, now well-defined drought periods. Freely accessible data and an open data sharing philosophy of the research community made it possible that within a short amount of time, we had all the necessary resources to start investigating. And soon thereafter, we had our Eureka moment: Indeed, all the models we investigated had a very clear relationship with the timing and magnitude of the apparent soil moisture stress we identified earlier. This is what we show in the paper, now published in &lt;em&gt;Nature Geoscience&lt;/em&gt; (Stocker et al., 2019).&lt;/p&gt;
+&lt;p&gt;This finding has implications not only for simulating vegetation productivity, but also for estimating the impacts of extreme events and the year-to-year variations of the terrestrial carbon balance. Dry and hot periods like last year’s summer in northern Europe can negatively affect the C balance of a whole continent and thereby accelerate the man-made increase in atmospheric CO2. Our new paper shows that the size of such anomalies, and therefore the magnitude of disruption of the C cycle, is substantially underestimated when the additional effect by soil moisture stress is neglected. This clearly points to the need for revising satellite-based monitoring of vegetation productivity and to develop new methods for including information on how soil moisture varies across space and time and how this affects vegetation productivity. Our findings come at a time when several groups are developing new methods to use remotely sensed information to estimate soil moisture. Resolving this challenge is important as with a changing climate, periods of drought may become more frequent, intense and prolonged and we need to have a better grasp of how this affects ecosystems and the carbon cycle.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Stocker, B. D.&lt;/strong&gt;, Zscheischler, J. , Keenan, T. F., Prentice, I. C., Peñuelas, J. and Seneviratne, S. I. (2018), Quantifying soil moisture impacts on light use efficiency across biomes. &lt;em&gt;New Phytologist&lt;/em&gt;, 218: 1430-1449. doi:10.1111/nph.15123&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stocker, B. D.&lt;/strong&gt;, Zscheischler, J. , Keenan, T. F., Prentice, I. C., Seneviratne, S. I. and Peñuelas, J. (2019), Drought impacts on terrestrial primary production underestimated by satellite monitoring. &lt;em&gt;Nature Geosci.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carbon-water coupling across scales</title>
+      <link>https://geco-website.netlify.app/project/soilm_global/</link>
+      <pubDate>Fri, 08 Mar 2019 11:46:14 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/project/soilm_global/</guid>
+      <description>&lt;h2 id=&#34;summary-of-our-research&#34;&gt;Summary of our research&lt;/h2&gt;
+&lt;p&gt;In our &lt;a href=&#34;https://www.nature.com/articles/s41561-019-0318-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new paper published in &lt;em&gt;Nature Geoscience&lt;/em&gt;&lt;/a&gt; (view it &lt;a href=&#34;https://www.nature.com/articles/s41561-019-0318-6.epdf?author_access_token=BGVLWmElvocQ1pE62QCTW9RgN0jAjWel9jnR3ZoTv0OyhWonkp6GWFgymRIu-XiwzwuX2z2Y2LYuKXkpzWa99FZSDRcHEaLWYZDRcaio1Et-soqame00xLPa-MvXHz_RVj455cGThJ-86CjHA2XimQ%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), we identified a common bias in different state-of-the-art satellite-based estimates of terrestrial photosynthesis, and found that this bias is closely related to droughts and their apparent impact on the functioning of vegetation. In other words, common satellite-based vegetation monitoring methods underestimate the impact of droughts.&lt;/p&gt;
+&lt;p&gt;What are the implications of this bias for our understanding of the terrestrial C cycle and its year-to-year variability? We investigated this question using a new global implementation of the P-model (open-access code available &lt;a href=&#34;https://github.com/stineb/sofun&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;). Our results suggest that accurately capturing soil moisture stress in photosynthesis modelling is  crucial for estimating the year-to-year variability in vegetation productivity and the impacts of drought extreme events. Not capturing this effect accurately leads to a substantial underestimation of this variability and to a systematic underestimation of drought extreme event impacts on vegetation productivity.&lt;/p&gt;
+&lt;p&gt;However, in our simulations, the locally strong soil moisture effect on vegetation productivity and its variability does not translate into a similarly strong water-control on the global-scale variability in terrestrial gross primary productivity. This is due to the compensating effects of different continents that are not synchronously drought-stressed and tend to compensate each other.&lt;/p&gt;
+&lt;p&gt;In view of a recent study by &lt;a href=&#34;https://www.nature.com/articles/s41586-018-0424-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humphrey et al. (2018)&lt;/a&gt; who found a clear relationship between terrestrial water storage and the atmospheric CO2 growth rate, this raises a fundamental question about the evident water-carbon coupling at the global scale: Is it  an apparent phenomenon where terrestrial water storage is a proxy for some other factor that controls vegetation functioning? Or are we missing some element of plant access to water that has a longer memory and stronger year-to-year variability, so that the simulated compensating effects from different continents that we found would no longer neatly compensate each other at the global scale? This is an exciting lead for future research&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;further-links&#34;&gt;Further links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;a href=&#34;https://geco-website.netlify.app/post/soilm_global/&#34;&gt;blogpost&lt;/a&gt; written for &lt;a href=&#34;https://natureecoevocommunity.nature.com/channels/521-behind-the-paper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Nature Ecology and Evolution - Behind the Paper&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;A &lt;a href=&#34;https://geco-website.netlify.app/files/pressrelease_soilm_global.pdf&#34;&gt;press release&lt;/a&gt; written in collaboration with Natalie Sanders, Imperial College&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-and-code&#34;&gt;Data and code&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Model output data from site-scale and global P-model simulations are available on &lt;a href=&#34;https://zenodo.org/record/1423484#.XIJNAlNKjOQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Code for the entire analysis and producing figures is available on &lt;a href=&#34;https://zenodo.org/record/2543324#.XIJNTVNKjOQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt; and on &lt;a href=&#34;https://github.com/stineb/soilm_global&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;. Compile (knit) RMarkdown file &lt;code&gt;knit_soilm_global.Rmd&lt;/code&gt; for a full reproduction of results or &lt;code&gt;si_soilm_global.Rmd&lt;/code&gt; for re-creating the Supplementary Information to our paper.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contrasting CO2 emissions from different Holocene land-use reconstructions: Does the carbon budget add up?</title>
+      <link>https://geco-website.netlify.app/post/hololu/</link>
+      <pubDate>Thu, 31 Jan 2019 20:02:29 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/post/hololu/</guid>
+      <description>&lt;p&gt;Reliable reconstructions of past land-use change are essential to address several key challenges in understanding the role of humans in the Earth’s environmental history. Here we discuss how to integrate our understanding of past carbon cycle changes within constraints of the land carbon budget.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(This article was published in the &lt;a href=&#34;https://boris.unibe.ch/119602/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PAGES Magazine Special Issue on Past Land Use and Land Cover Change&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Particular features in the ice-core CO2 and CH4 records have been hypothesized to be linked to the rise and fall of agriculture and societies (Ruddiman 2003) and have been used to serve as stratigraphic markers for the Anthropocene (Lewis and Maslin 2015). The trend reversals in atmospheric CO2 around 7000 yr BP and in CH4 around 5000 yr BP and their continuous increase thereafter have been linked to the expansion of early agriculture, associated deforestation and CO2 emissions, and the establishment of wet rice cultivation with high CH4 emissions. The apparent downturn in atmospheric CO2 after 1500 CE falls into the period following the arrival of Europeans in the Americas and the subsequent dramatic collapse of native populations. However, these proposed hypotheses, claiming a causal link between the history of civilizations and greenhouse gas changes, critically rest on the plausibility of land-use and land-cover change (LULC) reconstructions and the magnitude of associated greenhouse gas emissions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contrasting land use reconstructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LULC has reduced the land area covered by forest throughout much of the Holocene. Today, about a third of the Earth’s surface area is — more or less intensively — in use for agriculture. This estimate of modern land use is derived from national statistics and satellite data. However, such precise information is only available for the last few decades. Proxy records of past vegetation cover from pollen recorded in lake sediments or bogs have only just begun to be used for quantitative land cover reconstructions (Editorial, this issue). Instead, reconstructions of past LULC are typically based on estimates of historical population size and assumptions on the per-capita requirement of cropland and pasture area over the Holocene. These values are highly uncertain, and the most widely used land-use reconstructions provide conflicting results (see Harrison et al., this issue).&lt;/p&gt;
+&lt;p&gt;Replacement of forests by agricultural land also affects the energy balance at the land surface, reduces evapotranspiration where trees have been replaced by crops and grasses, and increases evapotranspiration where lands are being irrigated. It further increases the surface albedo, especially in northern latitudes when snow is present. This effect has contributed to a cooling in the mid-latitudes that counteracted LULC-induced warming due to greenhouse-gas emissions, and may have exacerbated cold conditions during the Little Ice Age (Betts et al. 2007). Reducing the large uncertainties in reconstructions of past LULC is therefore important to define a reliable land surface forcing as a boundary condition for climate model simulations covering past centuries and millennia and for other earth system simulations that use preindustrial (commonly taken as year 1850) boundary conditions (see also Harrison et al., this issue).&lt;/p&gt;
+&lt;p&gt;Land conversion also impacts carbon (C) storage in the soil. The long residence time of soil carbon entails legacy effects of past land use on the land carbon balance, even decades after land conversion. Conflicting land-use reconstructions underpin the ongoing debate about the extent and impact of preindustrial human activities on the carbon cycle and climate. However, there are two constraints that help narrow the range of possible land-use histories in the past (Stocker et al. 2017) and the influence of past LULC on climate and the carbon cycle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints on LULC histories&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;First, the present-day state of land use and the biomass density of vegetation across space is relatively well-known. The difference between C storage in actual vegetation and in potential natural vegetation is equal to cumulative CO2 emissions from past LULC since the first agriculturalists. Hence, cumulative LULC CO2 emissions are relatively well-constrained, which implies that uncertainty in past LULC emissions becomes mainly a problem of distributing their cumulative total through time. More emissions in distant millennia imply that less is left for the more recent past. Emissions have to converge to within the constrained range of estimates for cumulative emissions. Quantitatively, Stocker et al. (2017) found relatively small differences in cumulative LULC-induced CO2 emissions when applying different LULC histories in their model (Figure 1). However, further research is needed to reduce remaining uncertainty in cumulative emissions and differences between satellite and model-based estimates (Erb et al. 2018).&lt;/p&gt;
+&lt;p&gt;The second constraint comes from the total C budget of the terrestrial biosphere. Ice-core data on past CO2 concentrations and carbon-isotopic composition have been successfully used to reconstruct the net C balance of the land biosphere, as well as the C balance of the ocean (Elsig et al. 2009). Knowing all natural contributions to land C inventory changes, we can isolate anthropogenic sources by difference. Despite imperfect knowledge on C sources and sinks from all ecosystems, this approach provides a way to integrate our understanding of past C cycle changes within the budget constraint. Two examples below illustrate this point.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unprecedented terrestrial C release after 1850 CE: very likely anthropogenic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During the period 1850-1920 CE, ice-core data suggest a substantial terrestrial C source of 45 PgC in total. This is on average 0.64 PgC/yr, or around half the current annual CO2 emissions from modern LULC and by far the most rapid land C balance change ever recorded in all preceding periods of the Holocene. Is this the anthropogenic signal? One reconstruction of past LULC (HYDE 3.2) suggests emissions that fall right into the same magnitude as this apparent land C source (Figure 1). The alternative reconstruction (KK10) suggests a much larger land area under use in 1850 CE than HYDE 3.2. This necessarily leaves less room for further land-use expansion after that and resulting emissions cannot explain the net C source derived from the ice-core data. Additional natural C loss from land in response to the slight warming trend was likely counteracted by the fertilising effect of slowly rising CO2 between 1850 and 1920 CE, assuming that our estimates of these feedback strengths are accurate. Taken together, the land C budget suggests that the KK10 scenario, featuring extensive deforestation before 1850 CE, leaves a C source of 31 PgC unexplained and therefore appears less likely than a more moderate extent of pre-1850 CE deforestation as suggested by HYDE 3.2. However, KK10 is more in line with pollen-based quantitative vegetation reconstructions in northwestern Europe (Kaplan et al. 2017) than HYDE 3.2. Nonetheless, these considerations of the land C budget and timing of emissions illustrate the relevance of improving preindustrial land-use reconstructions to understand terrestrial C sources and sinks and climate-carbon cycle feedbacks also in the most recent decades.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/holoLU_fig1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 1 (a) Time series of global total land area under agricultural land use for HYDE and KK10 (total of pasture and croplands in HYDE 3.2). The time axis is broken at 1700 CE, showing a different scale before (ka = 1000 cal yr BP) and after. Total expansion for the two scenarios between 1850 and 1920 CE is illustrated by arrows on the right. (b) The terrestrial C budget for the period 1850 to 1920 CE. Cumulative CO2 emissions from LULC for HYDE 3.2 (magenta) match within uncertainties the total terrestrial C stock change inferred from the atmospheric CO2 record (green), whereas LULC emissions for KK10 (cyan) are much smaller. C uptake by peat (blue) is small. LULC emissions are from simulations with the LPX-Bern vegetation model (Stocker et al. 2017).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ice-core CO2 and its isotopic composition suggest no significant change in terrestrial C storage between 5 and 3 ka BP. Could large anthropogenic emissions have been masked by an equally large and contemporaneous natural C sink? Indeed, the build-up of northern peatlands, initiated after ice-age conditions, was a major C sink at these time scales. Through large-scale data synthesis (Loisel et al. 2014) and global modelling (Stocker et al., 2014), it is now possible to estimate the C sequestration in peatlands throughout the Holocene. This allows us to subtract their contribution from the total land C balance and reveals a large terrestrial non-peatland C source that must have contributed to the near-neutral land C balance (Figure 2). Can anthropogenic emissions close the budget? Probably not. A comparison of the inferred natural non-peatland C source with LULC emission estimates based on available LULC reconstructions suggests that other still unknown natural sources must have contributed to C cycle changes during this period.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/holoLU_fig2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 2 Terrestrial C budget in the period 5-3 ka BP. The total terrestrial net change (green) is derived from from ice core CO2 and δ13C data. The difference between the total net change and peat uptake (blue) provides a top-down constraint on the sum of CO2 emissions from LULC and other natural sources (grey bars). LULC emissions are estimated based on two alternative scenarios, HYDE 3.2 (magenta) and KK10 (turquoise).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Other gradual changes in the land C cycle amount to substantial sinks or sources at these long time scales. Examples include permafrost changes, the continuous build-up of soil C after the retreat of ice sheets, biome shifts in response to monsoon weakening in Africa and summer cooling in the boreal zone after the Mid-Holocene. It would be fruitful to specifically target and reduce uncertainties in these less well quantified but important components of the land C cycle through multi-model studies, constrained by data from paleoecological archives. This would allow us to isolate additional components of the terrestrial C budget and further narrow the range of possible land-use histories. This range will additionally be reduced by integrating information from pollen-based vegetation reconstructions and archaeology-based land use characteristics as produced by the PAGES LandCover6k Working Group (&lt;a href=&#34;http://www.pages-igbp.org/ini/wg/landcover6k/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pages-igbp.org/ini/wg/landcover6k/&lt;/a&gt;, see also Editorial and Harrison et al., this issue). The combination of such bottom-up and top-down constraints for the land C budget will improve our understanding of the Earth’s environmental history and the role of humans therein.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Betts, Richard A., Peter D. Falloon, Kees Klein Goldewijk, and Navin Ramankutty. 2007. “Biogeophysical Effects of Land Use on Climate: Model Simulations of Radiative Forcing and Large-Scale Temperature Change.” Agricultural and Forest Meteorology 142 (2-4):216–33.&lt;/p&gt;
+&lt;p&gt;Elsig, Joachim, Jochen Schmitt, Daiana Leuenberger, Robert Schneider, Marc Eyer, Markus Leuenberger, Fortunat Joos, Hubertus Fischer, and Thomas F. Stocker. 2009. “Stable Isotope Constraints on Holocene Carbon Cycle Changes from an Antarctic Ice Core.” Nature 461 (7263):507–10.&lt;/p&gt;
+&lt;p&gt;Erb, Karl-Heinz, Thomas Kastner, Christoph Plutzar, Anna Liza S. Bais, Nuno Carvalhais, Tamara Fetzel, Simone Gingrich, et al. 2018. “Unexpectedly Large Impact of Forest Management and Grazing on Global Vegetation Biomass.” Nature 553 (7686):73–76.&lt;/p&gt;
+&lt;p&gt;Kaplan, Jed O., Kristen M. Krumhardt, and Niklaus Zimmermann. 2009. “The Prehistoric and Preindustrial Deforestation of Europe.” Quaternary Science Reviews 28 (27-28):3016–34.&lt;/p&gt;
+&lt;p&gt;Kaplan, Jed O.; Krumhardt, Kristen M.; Gaillard, Marie-José; Sugita, Shinya; Trondman, Anna-Kari; Fyfe, Ralph; Marquer, Laurent; Mazier, Florence; Nielsen, Anne B. 2017. “Constraining the Deforestation History of Europe: Evaluation of Historical Land Use Scenarios with Pollen-Based Land Cover Reconstructions.” Land 6, (4): 91.&lt;/p&gt;
+&lt;p&gt;Klein Goldewijk, Kees. 2016. “A Historical Land Use Data Set for the Holocene, HYDE 3.2.” A Historical Land Use Data Set for the Holocene; HYDE 3.2. DANS. &lt;a href=&#34;https://doi.org/10.17026/dans-znk-cfy3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.17026/dans-znk-cfy3&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lewis, Simon L., and Mark A. Maslin. 2015. “Defining the Anthropocene.” Nature 519 (7542). Nature Publishing Group:171–80.&lt;/p&gt;
+&lt;p&gt;Loisel, J., Z. Yu, D. W. Beilman, P. Camill, J. Alm, M. J. Amesbury, D. Anderson, et al. 2014. “A Database and Synthesis of Northern Peatland Soil Properties and Holocene Carbon and Nitrogen Accumulation.” Holocene 24 (9):1028–42.&lt;/p&gt;
+&lt;p&gt;Ruddiman, Wf. 2003. “The Anthropogenic Greenhouse Era Began Thousands of Years Ago.” Climatic Change 61:261–93.&lt;/p&gt;
+&lt;p&gt;Stocker, B. D., R. Spahni, and F. Joos. 2014. “DYPTOP: A Cost-Efficient TOPMODEL Implementation to Simulate Sub-Grid Spatio-Temporal Dynamics of Global Wetlands and Peatlands.” Geoscientific Model Development 7 (6):3089–3110.&lt;/p&gt;
+&lt;p&gt;Stocker, Benjamin David, Zicheng Yu, Charly Massa, and Fortunat Joos. 2017. “Holocene Peatland and Ice-Core Data Constraints on the Timing and Magnitude of CO2 Emissions from Past Land Use.” Proceedings of the National Academy of Sciences 114 (7):1492–97&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIND</title>
+      <link>https://geco-website.netlify.app/project/mind/</link>
+      <pubDate>Thu, 31 Jan 2019 19:19:32 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/project/mind/</guid>
+      <description>&lt;h2 id=&#34;next-generation-modelling-of-the-biosphere--including-new-data-streams-and-optimality-approaches&#34;&gt;Next-generation modelling of the biosphere – Including new data streams and optimality approaches&lt;/h2&gt;
+&lt;p&gt;My 5-year &lt;em&gt;Eccellenza&lt;/em&gt; Professorial Fellowship, funded by the Swiss National Science Foundation&lt;/p&gt;
+&lt;!-- Professorship for Computational Ecosystem Science, co-hosted at the [Institute of Agricultural Sciences, ETH Zürich](http://www.ias.ethz.ch/) and [Forest Dynamics, WSL Birmensdorf](https://www.wsl.ch/en/about-wsl/research-units/forest-dynamics.html)
+ --&gt;
+&lt;p&gt;Co-hosted at the &lt;a href=&#34;http://www.ias.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Agricultural Sciences, ETH Zürich&lt;/a&gt; and &lt;a href=&#34;https://www.wsl.ch/en/about-wsl/research-units/forest-dynamics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forest Dynamics, WSL Birmensdorf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;started September 2019&lt;/p&gt;
+&lt;!-- The overarching aim of MIND and the new ETH/WSL Group for Computational Ecosystem Science is to develop new model and data fusion approaches to gain a mechanistic understanding of biogeochemical cycling in ecosystems, water-carbon coupling, and forest responses to climate change. We work at the intersection of Earth system science, ecophysiology, ecology, applied statistics, and high-performance computing and use the widest possible diversity of observational data.
+ --&gt;
+&lt;p&gt;The overarching aim of MIND is to develop new model and data fusion approaches to gain a mechanistic understanding of biogeochemical cycling in ecosystems, water-carbon coupling, and forest responses to climate change. We work at the intersection of Earth system science, ecophysiology, ecology, applied statistics, and high-performance computing and use the widest possible diversity of observational data.&lt;/p&gt;
+&lt;p&gt;A postdoc position to work with me on this project (see below &amp;lsquo;Postdoc: Scaling from trees to the forest&amp;rsquo;) is open now. A link to the ad and application is &lt;a href=&#34;https://apply.refline.ch/845721/7239/pub/1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- ![MIND Eccellenza across scales](/img/dreamstime_m_76702519_verysmall.jpg) --&gt;
+&lt;!-- ![](/img/tree_root_allocation2_small.jpg) --&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales.png&#34; alt=&#34;MIND Eccellenza across scales&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;key-questions&#34;&gt;Key questions&lt;/h2&gt;
+&lt;p&gt;The functioning and structure of land ecosystems are fundamentally altered by a changing climate, increasing CO2, and altered in nutrient cycling. Yet, we are lacking robust predictions of impacts caused by expected global environmental change. This project addresses a set of key scientific challenges with the aim to develop novel predictive methods based on fundamental ecological principles, and to make use of the widest possible diversity of data streams to inform our predictions.&lt;/p&gt;
+&lt;p&gt;We are trying to answer three key questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Will nutrients limit the land C uptake?&lt;/li&gt;
+&lt;li&gt;What is the sensitivity of ecosystems to drought?&lt;/li&gt;
+&lt;li&gt;How is tree growth and forest dynamics affected by changing resource limitations today?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;allocation-and-resource-limitations&#34;&gt;Allocation and resource limitations&lt;/h2&gt;
+&lt;p&gt;Our primary target is to better understand and model &lt;strong&gt;allocation&lt;/strong&gt;, that is the distribution of carbon assimilated by photosynthesis into growth in different plant organs (foliage, wood, roots), reserves, or export into the soil rhizosphere. Changes in CO2, nutrient, and water availability cause shifts in allocation, which in turn has important repercussions on ecosystem carbon cycling and, if general patterns exist, affects the functioning of the terrestrial biosphere and feeds back to man-made climate change.&lt;/p&gt;
+&lt;p&gt;What we can observe at the small scale (from experiments, forest inventories, flux measurements, etc.) determines what is happening at the global scale. By addressing allocation from all angles, and by systematically integrating models and observational data, MIND targets a better understanding of the controls on allocation and improves our predictive ability to simulate  general patterns in allocation and its response to shifting in resource limitations and how this affects ecoystem dynamics and the terrestrial carbon balance.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_obs.png&#34; alt=&#34;MIND Eccellenza across scales&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;approach&#34;&gt;Approach&lt;/h2&gt;
+&lt;p&gt;We develop new modelling approaches for simulating vegetation functioning and structure, funded in &lt;strong&gt;optimality principles&lt;/strong&gt;. Such principles predict, for example, how allocation and plant traits are governed by the environment under the premise that a given fitness criterion is optimised. Hence, optimality principles serve to simulate how key model parameters vary with the environment, rather than relying on fixed values for a pre-defined set of plant functional types - the common approach followed in first-generation vegetation models.&lt;/p&gt;
+&lt;p&gt;For code development, we work with a new modular vegetation modelling framework (&lt;a href=&#34;stineb.github.io/sofun&#34;&gt;SOFUN&lt;/a&gt;) and with the vegetation demography model &lt;a href=&#34;xxx&#34;&gt;LM3-PPA&lt;/a&gt; (collaboration with Dr. Ensheng Weng, NASA, USA).&lt;/p&gt;
+&lt;p&gt;We are devoted to an open science philosophy. For us, this means that we&amp;rsquo;ll make all code and other outputs&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Findable&lt;/strong&gt; by publishing on &lt;a href=&#34;zenodo.org/stineb&#34;&gt;&lt;em&gt;Zenodo&lt;/em&gt;&lt;/a&gt; and other premanent repositories,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Openly accessible&lt;/strong&gt; through &lt;a href=&#34;github.com/stineb/mindproject&#34;&gt;&lt;em&gt;github&lt;/em&gt;&lt;/a&gt;, and&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reusable&lt;/strong&gt; through free open-source software packages (see for example &lt;a href=&#34;computationales.github.io/rpmodel&#34;&gt;rpmodel&lt;/a&gt;) and comprehensive documentation (see for example &lt;a href=&#34;stineb.github.io/sofun&#34;&gt;SOFUN&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-project&#34;&gt;The project&lt;/h2&gt;
+&lt;p&gt;This project will offer three fully funded positions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One postdoc, 3 years, started 2020&lt;/li&gt;
+&lt;li&gt;Two PhD students, 4 years, started Summer 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;hellip; addressing three objectives:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_projectorg.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;phd-1-the-nature-of-nutrient-limitation&#34;&gt;PhD 1: The nature of nutrient limitation&lt;/h3&gt;
+&lt;p&gt;Research will address three key questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How does optimal allocation affect C and N cycling?&lt;/li&gt;
+&lt;li&gt;How does soil fertility influence the carbon cycle?&lt;/li&gt;
+&lt;li&gt;What controls the rates of N fixation and loss?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_nutrients.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We will use the Global Change Manipulation Experiments database (under development, collaboration with &lt;a href=&#34;https://www.uantwerpen.be/en/staff/sara-vicca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sara Vicca, PLECO, University of Antwerp&lt;/a&gt;) and explore the observational constraints on alternative model formulations for simulating coupled carbon and nitrogen dynamics in terrestrial ecoystems. This work will make important advances on several fronts: Generating fundamental insights into ecosystem dynamics and biogeochemical cycles, exploring new territory in model-data fusion on the basis of observations from manipulation experiments, and developing a reusable and scalable model testbed as the basis of future community-driven model intercomparisons.&lt;/p&gt;
+&lt;h3 id=&#34;phd-2-water-carbon-coupling&#34;&gt;PhD 2: Water-carbon coupling&lt;/h3&gt;
+&lt;p&gt;The following key questions will be addressed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Will water-limited regions continue their greening trend?&lt;/li&gt;
+&lt;li&gt;How can we simulate stomatal and biochemical limitations on photosynthesis during droughts?&lt;/li&gt;
+&lt;li&gt;What is the apparent rooting zone water capacity and how is it controlled by climate and groundwater depth?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will use data from ecosystem flux measurements and remotely sensed green vegetation cover to constrain new modelling approaches that are funded in ecohydrology and plant hydraulics. Research will lay the foundations for extending current-generation vegetation models beyond simulating the water balance in the topsoil: groundwater access and a varying rooting depth across climatic gradients are a key target for our predictions and are important quantities for understanding carbon-water couplings in the Earth system. For this research line, we will collaborate with &lt;a href=&#34;https://www.list.lu/en/research/project/wave/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stan Schymanski (LIST, Luxembourg)&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;postdoc-scaling-from-trees-to-the-forest&#34;&gt;Postdoc: Scaling from trees to the forest&lt;/h3&gt;
+&lt;p&gt;Our target questions are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are forests thickening?&lt;/li&gt;
+&lt;li&gt;How can we estimate forest growth from individual-based data (forest inventories and tree ring records)?&lt;/li&gt;
+&lt;li&gt;How can we combine multiple data streams to detect allocation changes in forests today?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_objectiveC.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;How does climate change alter forest dynamics and what are implications for the global carbon cycle and local ecosystem services? Increasing CO2, trends in nutrient inputs from atmospheric deposition, extending growing seasons and changing drought patterns affect tree growth and forest biomass in myriad ways. One of the open key questions is whether stimulated growth in a high-CO2 world is compensated by an accelerated tree life cycle and higher mortality.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Vor lauter Bäumen den Wald nicht mehr sehen&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;hellip; is a serios challenge (German for &lt;em&gt;Not seeing the wood for the trees&lt;/em&gt;). Our research will find new solutions with a new generation of models and statistical approaches to keep the overview and distill the fundamental mechanisms.&lt;/p&gt;
+&lt;p&gt;Forest inventories and other (typically individual-based) forest datasets hold an enormous amount of information. However, the connection from observable quantities to insights into tree-level processes and how these affect forest dynamics is difficult to make when relying on common statistical approaches. A new generation of Vegetation Demography Models connect a mechanistic resolution of photosynthesis, respiration, growth, and resource limitations with explicit age-structured forest dynamics. This opens new possibilities for combining data with our process-understanding in a Bayesian statistical approach - an opportunity that MIND will make use of.&lt;/p&gt;
+&lt;p&gt;For this research, we will use the LM3-PPA Vegetation Demography Model, in collaboration with &lt;a href=&#34;https://www.giss.nasa.gov/staff/eweng.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ensheng Weng (NASA GISS)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development and testing of scenarios for implementing Holocene LULC in Earth System Model Experiments</title>
+      <link>https://geco-website.netlify.app/publication/harrison-19-gmdd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/harrison-19-gmdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling the role of photosynthesis and stomatal conductance on rising forest water-use efficiency</title>
+      <link>https://geco-website.netlify.app/publication/guerrieri-19-pnas/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/guerrieri-19-pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drought impacts on terrestrial primary production underestimated by satellite monitoring</title>
+      <link>https://geco-website.netlify.app/publication/stocker-19-natgeo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-19-natgeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPP at FLUXNET Tier 1 sites from P-model</title>
+      <link>https://geco-website.netlify.app/publication/pmodel-output-fluxnet-2015-stocker-19-gmd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/pmodel-output-fluxnet-2015-stocker-19-gmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ḩemN_2O changes from the Last Glacial Maximum to the preindustrial -- Part 1: Quantitative reconstruction of terrestrial and marine emissions using ȩmN_2O stable isotopes in ice cores</title>
+      <link>https://geco-website.netlify.app/publication/fischer-19-bgd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/fischer-19-bgd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Spatial and Temporal Variabilities of Gross Primary Production Using MAIAC MODIS Data</title>
+      <link>https://geco-website.netlify.app/publication/fernandezmartinez-19-rs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/fernandezmartinez-19-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N$_ퟐ$O changes from the Last Glacial Maximum to the preindustrial -- Part II: Terrestrial N$_ퟐ$O emissions constrain carbon-nitrogen interactions</title>
+      <link>https://geco-website.netlify.app/publication/joos-19-bgd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/joos-19-bgd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N2O changes from the Last Glacial Maximum to the preindustrial -- Part 1: Quantitative reconstruction of terrestrial and marine emissions using N2O stable isotopes in ice cores</title>
+      <link>https://geco-website.netlify.app/publication/fischer-19-bg/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/fischer-19-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass</title>
+      <link>https://geco-website.netlify.app/publication/terrer-19-natcc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-19-natcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass</title>
+      <link>https://geco-website.netlify.app/publication/terrer-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P-model v1.0: An optimality-based light use efficiency model for simulating ecosystem gross primary production</title>
+      <link>https://geco-website.netlify.app/publication/stocker-19-gmdd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-19-gmdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial variance of spring phenology in temperate deciduous forests is constrained by background climatic conditions</title>
+      <link>https://geco-website.netlify.app/publication/peaucelle-19-natcomm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/peaucelle-19-natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data and code</title>
+      <link>https://geco-website.netlify.app/data_code/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/data_code/</guid>
+      <description>&lt;p&gt;A complete and up-to-date overview of our open source products is on GitHub &lt;a href=&#34;https://github.com/computationales&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As a group, we are committed to an Open Science Practice. We&amp;rsquo;re building an environment of open source tools for ecosystem data and modelling. This should empower the community to use latest methodological innovations, developed in our group. Here is a list of our most important contributions:&lt;/p&gt;
+&lt;h1 id=&#34;code&#34;&gt;Code&lt;/h1&gt;
+&lt;h2 id=&#34;rpmodelhttpscomputationalesgithubiorpmodel&#34;&gt;&lt;a href=&#34;https://computationales.github.io/rpmodel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rpmodel&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;An implementation of the &lt;em&gt;P-model&lt;/em&gt; for leaf-level acclimation of photosynthesis &lt;a href=&#34;https://gmd.copernicus.org/articles/13/1545/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2019 &lt;em&gt;GMD&lt;/em&gt;&lt;/a&gt;). Implemented as an R package (fully in R). This is used as reference code for P-model implementations in other modelling frameworks and for experimental model development. For efficient time series simulations use its implementation within &lt;a href=&#34;https://computationales.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsofun&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://computationales.github.io/rpmodel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/rpmodel/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code on CRAN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/computationales/rpmodel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development code&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;rsofunhttpscomputationalesgithubiorsofun&#34;&gt;&lt;a href=&#34;https://computationales.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsofun&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A modelling framework for site-scale simulations of ecosystem processes, implemented as an R package (back-end in Fortran 90). Implements the following models:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P-model&lt;/em&gt; for leaf-level acclimation of photosynthesis, &lt;a href=&#34;https://gmd.copernicus.org/articles/13/1545/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2019 &lt;em&gt;GMD&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;SPLASH&lt;/em&gt; for bioclimatic variables, including the surface radiation budget and the soil water balance, &lt;a href=&#34;https://gmd.copernicus.org/articles/10/689/2017/gmd-10-689-2017.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Davis et al., 2017 &lt;em&gt;GMD&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;LM3-PPA&lt;/em&gt; for comprehensive simulations of ecosystem carbon and water cycling, tree growth, and tree cohort-explicit forest dynamics following the Perfect Plasticity Approximation, &lt;a href=&#34;www.biogeosciences.net/12/2655/2015/doi:10.5194/bg-12-2655-2015&#34;&gt;Weng et al., 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://computationales.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.3759405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/computationales/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development code&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ingestrhttpscomputationalesgithubioingestr&#34;&gt;&lt;a href=&#34;https://computationales.github.io/ingestr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ingestr&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Functions to extract (ingest) environmental point data from large global files or remote data servers and create time series at user-specified temporal resolution. Facilitates forcing and evaluation data preparation for &lt;a href=&#34;https://computationales.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsofun&lt;/a&gt;. The main functionalities are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Temporal downscaling from montly to daily resolution&lt;/li&gt;
+&lt;li&gt;Quality filtering, temporal interpolation and smoothing of remote sensing data&lt;/li&gt;
+&lt;li&gt;Handling of different APIs and file formats, returning ingested data in tidy format.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://computationales.github.io/ingestr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.4495563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/computationales/ingestr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development code&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;sofunhttpsstinebgithubiosofun&#34;&gt;&lt;a href=&#34;https://stineb.github.io/sofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOFUN&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A modular modelling framework for global-scale simulations of ecosystem processes, implemented in Fortran 90. . Implements the following models:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P-model&lt;/em&gt; for leaf-level acclimation of photosynthesis, &lt;a href=&#34;https://gmd.copernicus.org/articles/13/1545/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2019 &lt;em&gt;GMD&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;SPLASH&lt;/em&gt; for bioclimatic variables, including the surface radiation budget and the soil water balance, &lt;a href=&#34;https://gmd.copernicus.org/articles/10/689/2017/gmd-10-689-2017.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Davis et al., 2017 &lt;em&gt;GMD&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://stineb.github.io/sofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.3529466&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/stineb/sofun&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development code&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dyptop&#34;&gt;DYPTOP&lt;/h2&gt;
+&lt;p&gt;A cost-efficient TOPMODEL implementation to simulate sub-grid spatio-temporal dynamics of global wetlands and peatlands (&lt;a href=&#34;https://gmd.copernicus.org/articles/7/3089/2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2014 &lt;em&gt;GMD&lt;/em&gt;&lt;/a&gt;). Written in Fortran.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/stineb/dyptop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development code&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cwd&#34;&gt;cwd&lt;/h2&gt;
+&lt;p&gt;A light R package for deriving cumulative water deficits, given time series of evapotranspiration and precipitation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stineb.github.io/cwd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.5359053&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/stineb/cwd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development code&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;more-code&#34;&gt;More code&lt;/h2&gt;
+&lt;p&gt;More of my open source code and open access model outputs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stineb/rbeni&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rbeni&lt;/a&gt;: An eclectic collection of functions used in Beni&amp;rsquo;s daily life, implemented as an R package.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;data-and-outputs&#34;&gt;Data and outputs&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.1158524&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fLUE&lt;/a&gt;: Fractional reduction in light use efficiency due to soil moisture stress, estimated at FLUXNET2015 Tier 1 sites, as described in Stocker et al., (2018) &lt;em&gt;New Phytologist&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.5515246&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCWDX80 and zCWDX80&lt;/a&gt;: Global rooting zone water storage capacity (SCWDX80, mm) and rooting depth (zCWDX80, mm) estimates from Stocker et al., (2021) &lt;em&gt;BiorXiv&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.3559850&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPP at FLUXNET Tier 1 sites from P-model&lt;/a&gt;: Gross primary production, simulated by the P-model for each FLUXNET 2015 Tier 1 site. From stocker et al. (2020) &lt;em&gt;GMD&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://geco-website.netlify.app/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://geco-website.netlify.app/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecosystem responses to elevated CO2 governed by plant–soil interactions and the cost of nitrogen acquisition</title>
+      <link>https://geco-website.netlify.app/publication/terrer-18-newphyt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-18-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fLUE</title>
+      <link>https://geco-website.netlify.app/publication/flue/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/flue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Carbon Budget 2017</title>
+      <link>https://geco-website.netlify.app/publication/lequere-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GOLUM-CNP v1.0: a data-driven modeling of carbon, nitrogen and phosphorus cycles in major terrestrial biomes</title>
+      <link>https://geco-website.netlify.app/publication/wang-18-gmd/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/wang-18-gmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPP: Site-scale and global model outputs from  P-model used for Stocker et al. (2019) Nature Geosci.</title>
+      <link>https://geco-website.netlify.app/publication/soilm-global-output-fluxnet-2015-stocker-19-natgeo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/soilm-global-output-fluxnet-2015-stocker-19-natgeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nn_fluxnet</title>
+      <link>https://geco-website.netlify.app/publication/nn-fluxnet-2015/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/nn-fluxnet-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying soil moisture impacts on light use efficiency across biomes</title>
+      <link>https://geco-website.netlify.app/publication/stocker-18-nphyt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-18-nphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using research networks to create the comprehensive datasets needed to assess nutrient availability as a key determinant of terrestrial carbon cycling</title>
+      <link>https://geco-website.netlify.app/publication/vicca-18-erl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/vicca-18-erl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why we need ecosystem manipulation experiments to reveal the coupled C-N system’s behaviour</title>
+      <link>https://geco-website.netlify.app/post/cn_experiments/</link>
+      <pubDate>Fri, 06 Oct 2017 13:17:30 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/post/cn_experiments/</guid>
+      <description>&lt;p&gt;In this blog, I’m going to argue why it is crucial to use observational data from ecosystem manipulation experiments (EME) for model evaluation and calibration. And I’m going to make this case using the example of nitrogen limitation and how EMEs guided the development of Dynamic Global Vegetation Models (DGVMs) over the last one-and-a-half decades and repeatedly exposed their deficiencies. This, I hope, will convince you that there is a great future in a close relationship between modellers and experimentalists around the data from EMEs.&lt;/p&gt;
+&lt;p&gt;First, a brief clarification about the relationship between models, in particular DGVMs, and data. DGVMs are process-based representations of ecosystem functioning and provide a bottom-up description of vegetation and biogeochemical cycles by explicitly simulating stand-level processes such as photosynthesis, growth, carbon allocation, mortality, fire, etc. This type of model contrasts statistical models, for example species distribution models, where statistical relationships, determined from data, are used to relate environmental variables to the model’s state variables of interest. In DGVMs, explicit processes are described by equations and parameters that can be directly measured. The simulated interplay of these processes finally governs higher-levels variables, such as NPP (see Fig. 1). Therefore, just to clarify, DGVMs don’t directly “use” data. Instead, data can be used indirectly to constrain or calibrate the parameters in DGVMs.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/modeltypes.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The relationship of models and data in DGVMs and statistical models.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Now, why is the data from manipulation experiments so particularly interesting?&lt;/p&gt;
+&lt;p&gt;From looking at a range of observational benchmarking datasets, one may conclude that DGVMs are a good representation of the functioning of the terrestrial biosphere. They do a fairly good job at capturing the current state and reliably simulate the global distributions of biomes, biomass, soil C stocks, and GPP. One may also look at the seasonality of C uptake and release fluxes: (One of the success stories of DGVMs is that they simulate the “breathing of the biosphere”) and even at the mean of the net terrestrial C balance and conclude that these models up to the job (Le Quere et al., 2016). And they have been up to that job since more than a decade.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/cbalance_trendy.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 2 Terrestrial C balance from the global carbon budget (black) and a set of DGVMs (figure from Le Quere et al., 2016).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Back then, about a decade ago, the first generation of DGVMs predicted that the land biosphere will act as a large and persistent C sink under continuously rising CO2 (Cramer et al., 2001; Friedlingstein et al., 2006). This prediction made it into the IPCC AR4 (Prentice et al., 2007) and these types of vegetation models were adopted as components in coupled Earth System Models that are used for climate projections still today. But at around the same time appeared the first results from long-term ecosystem manipulation experiments. Their results suggested that this sustained land C sink is no longer supported by insights from Free-Air-CO2-Enrichment (FACE) experiments and multiple studies found that N is the dominant factor limiting plant growth (Schneider et al., 2004; Norby et al., 2010; Reich &amp;amp; Hobbie, 2012). None of the DGVMs yet accounted for such limiting effects. Therefore, speculations were made about the mechanisms that would lead to such an outcome that develops over several years. The Progressive Nitrogen Limitation (PNL) hypothesis was proposed (Luo et al., 2004) which suggests that upon a (e.g. CO2-induced) stimulation of growth, N gets locked up in live biomass and depleted in the soil. This would lead to an increase in the tissue C:N ratio which, when added to litter, would further reduce soil net N mineralisation and N availability. The initial growth stimulation would progressively disappear. However, observational evidence for the PNL was not clear and an alternative hypothesis, stating that increased belowground C inputs would stimulate N mineralisation, could not be excluded either (Reich &amp;amp; Hobbie, 2012). A key point I want to make here is that evidence for such mechanisms coming from the a few experiments is to some degree anecdotal and we’re sometimes faced with counterintuitive results that fit none of the popular hypotheses (see e.g. Feng et al., 2015). Our understanding of the systems’ functioning has to be coded up in the form of a quantitative, process-based model. Only this gives us predictive capabilities.&lt;/p&gt;
+&lt;p&gt;Anyway, what stuck regarding N limitation was the Perspectives paper by Hungate et al. (2013) in Science where they argued that the C sequestration simulated by C-only DGVMs implies that an amount of N would become available that was far beyond their estimate.&lt;/p&gt;
+&lt;p&gt;This set the target for the modelling community: “We need a N cycle”. And what should it do? Limit something. For example GPP (see CLM model) or NPP (see most other models). Liebig’s Law of the Minimum sounds like a reasonable approach and in Fortran there is even a function: MIN( potential_X, limited_X ). And if the assimilated C cannot be matched by N taken up from the soil, excess C is respired back to the atmosphere. Finally, we probably want to increase tissue C:N ratios when N is limiting so we would get something like the PNL with the model (although there is no observational evidence for it). A few years later, the first modelling groups proclaimed: “We now have a nitrogen cycle in our model”.&lt;/p&gt;
+&lt;p&gt;Of course, these models had to pass the usual tests against observational data: C stocks and fluxes. And now, that loads of data has become available, systematic benchmarking and model parameter calibration using Bayesian statistics was by now high on the agenda of modellers. With a few necessary tweaks, the models still performed well when faced with the benchmarks and after all, the models were now a good deal more realistic.&lt;/p&gt;
+&lt;p&gt;But something fundamental changed. By the time IPCC AR5 was published only two ESMs with a land component simulating the interactions between C and N cycles were included. These showed a strongly muted response to both CO2 and climate (Fig. 3). Over the years, as more models came along, the muted response to CO2 and climate was corroborated (Achat et al., 2016). A strong N limitation is simulated by these types of models. This, in general, satisfied Hungate’s objection. That gave the community enough confidence to take on the next step as the next big resource limitation was looming: phosphorous. The predictions of these latest types of DGVMs that account for both N and P limitation is hardly surprising: An even stronger reduction of the simulated land C uptake under scenarios of rising CO2 (Wieder et al., 2015, Achat et al., 2016).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/landfeedbacks_ipcc.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 3 Carbon cycle feedbacks with climate. Models where the land component includes coupled C-N cycling are highlighted by red circles. Figure from Ciais et al. (2013), IPCC AR5, Chapter 6.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;However, there is a problem with these models. And this problem was revealed by an in-depth model evaluation against two ecosystem manipulation experiments (Zaehle et al., 2014; De Kauwe et al., 2014). A suite of models with interactive C and N cycles were evaluated against observational data from the Duke and ORNL FACE experiments. The importance of what this evaluation revealed cannot be overstated. In brief, it showed that all models get the right response (NPP stimulation under elevated CO2) for the wrong reasons (increasing tissue C:N instead of increasing N uptake, Fig. 4). And it did so by evaluating the sensitivities of mechanisms and their interactions in response to a large perturbation. The system is hit hard enough to reveal the relevant mechanism that finally determine the strength and persistence of the CO2 fertilisation effect. The important lesson from this is that none of the other typical benchmarking datasets would not enable such insights. Sensitivities are only becoming apparent if the system is pushed to a completely different state. Only by looking at data from ecosystem manipulation experiments.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/zaehlefig.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 4 Observed (red) and simulated (blue) relative change in N uptake (top) and nitrogen use efficiency (N-uptake/NPP, bottom) in experiments Duke FACE (left) and ORNL FACE (right). Figure from Zaehle et al. (2014)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We have a problem and where do we go from here?&lt;/p&gt;
+&lt;p&gt;An essential insight from the analysis by Zaehle et al. (2014) is that the increase in N uptake under elevated CO2 was massively underestimated. In other words, there must be mechanisms by which plants can acquire additional N if needed and that these mechanisms are missing in models. How does this relate to the indusputable effect of N limitation? How can ecosystems be limited by N, yet get addtional N under elevated CO2? What are the limits to this? How flexible are these bounds of N and P availability that underlie the argument by Hungate and Penuelas? And can we model this?&lt;/p&gt;
+&lt;p&gt;The theory is there to resolve this apparent contradiction. It may all make sense in the view of a evolution and the tendency for optimal functioning. In that sense, optimal growth tends to achieve a functional balance (Davidson, 1969). The underlying hypothesis is that plants optimise their growth strategy and C allocation in the face of multiple limiting resources. They thereby achieve a functional balance between aboveground and belowground growth and stimulation of the rhizosphere. Hence, plants may get additional N but it comes at the cost of root growth and exudation of labile C into the rhizosphere. This may seem all too reasonable, if not obvious to you but it’s important to note that currently available DGVMs do not embody this theory. They do not simulate the essential trade-offs and sufficient flexibility in allocation. But such an approach is arguably a much cleverer way to simulate plants than to assume that excess assimilated C that is not matched by N uptake is pointlessly respired into the air. And simplified models, typically applied at the point-scale are available and have shown that this approach works. But what about observational evidence for such trade-offs?&lt;/p&gt;
+&lt;p&gt;Again, ecosystem manipulation experiments hold the answer. Here are some new results. To investigate the data, we adopted what one may call a “modelling perspective” and investigated just this trade-off. Cesar Terrer led this research where we posed the question “At what cost does the additional N uptake come?” Comparing data from plots under ambient and elevated CO2, we quantified the ratio of the relative increase in N uptake divided by the relative increase in belowground biomass or productivity. Here are the results that are soon going to be published in New Phytologist (Fig. 5):&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;terrerfig.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig 5. (a) Relationship between the eCO2-induced relative change (%) in belowground C allocation (“investments”) and aboveground N-acquisition (“returns”) . (b) Mean, standard error, max and min return on investment (ΨN-1, Eq. 1). Figure from Terrer et al. (accepted).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It would be too nice to evaluate a range of C-N models against such data. Unfortunately, such detailed model-data analyses as done by the FACE-MDS project are extremely laborious. But we can identify a robust observation, for example a shift towards more belowground C allocation as CO2 increases and have a quick look at the TRENDY models to see whether they simulate such a response (Fig. 6).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/dfroot_trendy.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 6 Relative change in the ratio of root-to-leaf biomass in TRENDY models, derived from the CO2-only simulation (end vs. start period).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;No. They’re not. But that’s hardly surprising since these models typically rely on formulations of allocation that are relatively rigid and do not properly simulate growth plasticity in response to shifts in resource availability.&lt;/p&gt;
+&lt;p&gt;In my own research, I’ve been working towards building a new type of DGVM that addresses this shortcoming. Inspired by the simpler models that simulate optimal allocation, I’ve put the necessary components together to simulate the coupled cycling of C and N in a grassland ecosystem, based on a functional balance approach. I’ve applied this model, forced by meteorological data and info on management (cutting, N fertilisation) from SwissFACE experiment. The comparison to observational data looks promising (Fig. 7):&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/swissfaceresults.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 7 Response in harvested aboveground biomass (left), root carbon (middle), and the fraction of N derived from biological N fixation (left). Simulated (black lines) and observed (boxes). Treatments are 0: control, C: elevated CO2, N: N fertilisation, CN: elevated CO2 and N fertilisation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The model reproduces the strong N limitation of aboveground productivity and – what’s not known from the field measurements, but consistent with data from separate pot measurements – simulates a shift to more belowground C allocation. It also successfully simulates the controls on N fixation rates and captures its responses to elevated CO2 and N fertiliser additions.&lt;/p&gt;
+&lt;p&gt;So if we believe that with such a model we have robust predictive capabilities, we can start looking into the long-term response of the coupled system. And there are some interesting features regarding N limitation. The same model that reproduces the strong N limitation of the aboveground growth stimulation under elevated CO2 simulates a trajectory of progressive release from N limitation (Fig. 8). This indicates that N limitation is not a strict cap, but affects vegetation functioning so that growth comes at an additional cost, but there is flexibility in accessing additional N if required. This is even without any N fixation in the system. However, these mechanisms play out only in the long run. Here, according to the model, at time scales of decades. Ecosystem manipulation experiments cannot usually be maintained that long.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/swissfacelongterm.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 8 Long term evolution of NPP and N uptake in response to a step increase in CO2 (red) and a gradual increase (blue).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;What is the conclusion of this? We need manipulation experiments. They are absolutely essential for understanding how the system responds to global environmental change and to evaluate models. But here, I might be preaching to the choir (This here is presented to a conference of ecosystem manipulators). I hope I also convinced you that we need models along with the data, and even more importantly: a strong interaction between modelers and experimentalists. From observations alone we cannot directly make predictions for a highly coupled system. Anecdotal systems understanding (e.g. PNL, …) is too often faced with seemingly counterintuitive systems behaviour. Neither should modellers treat confrontation of model results with data as a “end-of-the-pipe” exercise that can only lead to the conclusion that “the model does a reasonable job” (when looking at it from a save distance) [citing Colin Prentice]. Instead, we should embrace a model-data-circle, as advocated by the FACE-MDS team and published by Medlyn et al. (2015). Assumption-centered model evaluation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/modeldataciricle.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 9 Assumption-driven model-data-circle. Adopted based on Medlyn et al. (2015).&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global Peatland Carbon Balance and Land Use Change CO2 Emissions Through the Holocene</title>
+      <link>https://geco-website.netlify.app/publication/dyptop-outputs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/dyptop-outputs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical carbon dioxide emissions caused by land-use changes are possibly larger than assumed</title>
+      <link>https://geco-website.netlify.app/publication/arneth-17-natgeo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/arneth-17-natgeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holocene peatland and ice-core data constraints on the timing and magnitude of CO2 emissions from past land use</title>
+      <link>https://geco-website.netlify.app/publication/stocker-17-pnas/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-17-pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of Global Change on Mediterranean Forests and Their Services</title>
+      <link>https://geco-website.netlify.app/publication/penuelas-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/penuelas-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land-use and land-cover change carbon emissions between 1901 and 2012 constrained by biomass observations</title>
+      <link>https://geco-website.netlify.app/publication/li-17-bg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/li-17-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to Comment on “Mycorrhizal association as a primary control of the CO2 fertilization effect”</title>
+      <link>https://geco-website.netlify.app/publication/terrer-17-sci/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-17-sci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple process-led algorithms for simulating habitats (SPLASH v.1.0): robust indices of radiation, evapotranspiration and plant-available moisture</title>
+      <link>https://geco-website.netlify.app/publication/davis-17-gmd/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/davis-17-gmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Carbon Budget 2016</title>
+      <link>https://geco-website.netlify.app/publication/lequere-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precipitation and carbon-water coupling jointly control the interannual variability of global land gross primary production</title>
+      <link>https://geco-website.netlify.app/publication/yao-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/yao-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional carbon fluxes from land use and land cover change in Asia, 1980-2009</title>
+      <link>https://geco-website.netlify.app/publication/calle-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/calle-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of CO2, climate and land use in regulating the seasonal amplitude increase of carbon fluxes in terrestrial ecosystems: a multimodel analysis</title>
+      <link>https://geco-website.netlify.app/publication/zhao-16-bg/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/zhao-16-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terrestrial nitrogen cycling in Earth system models revisited</title>
+      <link>https://geco-website.netlify.app/publication/stocker-16-newphyt/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-16-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The carbon cycle in Mexico: past, present and future of C stocks and fluxes</title>
+      <link>https://geco-website.netlify.app/publication/murray-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/murray-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ecosystem Impacts of Severe Warming</title>
+      <link>https://geco-website.netlify.app/publication/mendelsohn-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/mendelsohn-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The terrestrial carbon budget of South and Southeast Asia</title>
+      <link>https://geco-website.netlify.app/publication/cervarich-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/cervarich-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Fertility Question: How do soil nutrients influence the carbon cycle?</title>
+      <link>https://geco-website.netlify.app/post/fertilityquestion/</link>
+      <pubDate>Fri, 05 Jun 2015 13:31:09 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/post/fertilityquestion/</guid>
+      <description>&lt;p&gt;A general notion of “soil fertility” is commonly left unaccounted for in models of the terrestrial biosphere and has received relatively little attention in carbon cycle science. This changed since the presentation of results by Vicca et al. (2012) and Fernandez-Martinez et al. (2014).&lt;/p&gt;
+&lt;p&gt;Using data from forests around the globe where gross primary productivity (GPP) has been measured in parallel to changes in ecosystem biomass storage, these authors showed that forests produce biomass more efficiently on fertile soils.
+This efficiency can be quantified as the ratio of biomass production (BP) to GPP. Two factors affect this ratio. First, autotrophic respiration (Ra) – the C cost of maintaining cellular function (maintenance respiration) and synthesising new tissue (growth respiration). This factor has been shown previously to cause relatively large variations in CUE (= NPP/GPP = (GPP-Ra)/GPP) due to effects of forest stand age, climate, and forest type. However, Ra doesn’t appear to vary with soil fertility (Fernandez-Martinez et al., 2014). The second factor that determines the ratio of BP:GPP is the amount of C exported to the soil (Cex). There is also a third factor, the production of volatile organic compounds, VOCs, that has been shown to significantly affect the plant’s C budget, especially under heat stress. Let’s ignore this for now. Traditionally, Cex hasn’t commonly been separated out from NPP, and is often left unquantified in field studies. However, more recent research has shown that up to around 20% of NPP may be consumed by Cex.&lt;/p&gt;
+&lt;p&gt;We can now write:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;new&lt;/em&gt;:    BP = GPP – Ra – Cex – VOC&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;old&lt;/em&gt;:    NPP = GPP – Ra&lt;/p&gt;
+&lt;p&gt;In parallel to the observed variations on BP:GPP by Vicca et al. (2012) and Fernandez-Martinez et al. (2014), they also found that the ratio of fine root to total biomass was almost three times higher in nutrient poor than in nutrient rich forest, and that the LAI per unit fine-root biomass is twice as large in nutrient rich forests. This is perfectly in line with earlier studies reporting general and strong variations of these allocation patterns along soil fertility gradients (Poorter et al., 2012). Apparently, on low-fertility soils, plants invest more C below-ground. C allocation thus dynamically adjusts in response to soil fertility – a mechanism ignored by today’s generation of global vegetation and terrestrial carbon cycle models altogether.&lt;/p&gt;
+&lt;p&gt;But where does Cex go and what is its function? Clearly, growing more roots serves a better soil exploration in the search for nutrients required for plant growth (apart from accessing soil moisture and maybe even ground water). In contrast, the exuded C (Cex) may be consumed by an array of soil organisms with the pleasant effect of improving nutrient availability for the plant – either directly (N2-fixing bacteria in root nodules; mycorrhizal fungi living on the root tips) or indirectly (free-living N2-fixing bacteria in the soil; other heterotrophs that accelerate soil turnover and N mineralization, so called priming). The importance of these effects are only now becoming to be fully appreciated and integrated into models of the terrestrial C budget, and a quantitative and mechanistic link to soil fertility is yet to be established – the goal of my work here in the group of Colin Prentice.&lt;/p&gt;
+&lt;p&gt;The lesson from all this (relatively new) research described above is that the nutrient availability appears to be under clear biological control, but that their acquisition comes at a cost to the plant: C used below-ground (root production and Cex) is missing for above-ground growth and the competition for light. We can say that this cost is dependent on the soil fertility and implies that there must be a soil fertility-dependent balance of above- versus below-ground allocation that is optimal for the plant with respect to maximizing its “fitness”. Such considerations are the target of theoretical studies that bear great potential in providing quantitative predictions of C allocation (Mäkelä et al., 2008; Franklin et al., 2014).&lt;/p&gt;
+&lt;p&gt;Now two more points that need clarification: 1. What is soil fertility? and 2. How does the concept of soil fertility relate to the classical view of nutrient limitation?&lt;/p&gt;
+&lt;p&gt;Soil fertility is often indirectly defined by “where plants grow well”. This may also be expressed as “where nutrients are easily available” a condition affected by the soil chemistry and structure in ways that are difficult to describe and predict mechanistically, especially at a global scale. However, there is a set of parameters often measured, directly or indirectly, in the field that appear to determine “soil fertility”. These include pH, the cation exchange capacity, available N and P, C:N ratio of soil organic matter, C content, and the texture (fractions of sand, clay, loam, silt). The soil type itself is something like a “syndrome” expressed by typical values of these measurable parameters, but may also provide readily accessible information. Soil formation is determined by climate, parent material, and time. This is reflected by large scale gradients of soil fertility across different biomes – from infertile, acidic soils in boreal regions; fertile, C rich soils in seasonally cold grasslands where decomposition is inhibited; N-poor but otherwise relatively fertile young soils in temperate region; to highly weathered, i.e. P-poor, old soils in tropical lowlands. Sorption of P to surfaces in the particular soil matrix in tropical soils, leaching of mobile P under high precipitation, and very small inputs through atmospheric deposition gradually deplete soils of P over time in the tropics, while N is gradually added by abundant N fixing organisms. As opposed to such old tropical lowland soils, soils at high latitudes are younger (previous glaciation!) and P is still more readily available, whereas constraints to N fixation prevent its accumulation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/hwsd.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Figure HWSD Global Soil Quality – constraints on nutrient availability (Fisher et al., 2008). Accessed from &lt;a href=&#34;http://databasin.org/datasets/20dcb500682c4ec891e2fc881c2ed65c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://databasin.org/&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The dominant pattern of N limitation in boreal and temperate biomes and P limitation in tropical biomes is also revealed by classical fertilization experiments. Added N generally stimulates plant growth at higher latitudes (but not so for added P), and vice versa at low latitudes. Such a nutrient limitation concept is implemented in different ESMs: Either GPP or NPP is capped and further plant growth is halted if nutrients (usually just N, sometimes also P) becomes unavailable. This leads to substantially lower predictions of C uptake under rising CO2 and the important negative feedback to anthropogenic climate change (through CO2 emissions) disappears almost completely when applying such models (Wieder et al., 2015). But doesn’t this disagree with the widely observed, and theoretically plausible biological control on nutrient availability as discussed above? I would argue that yes indeed, these predictions are add odds with them! This Liebig Law-type view of nutrient limitation also fails to explain the clear CO2 stimulation of growth under high-N as well as low-N conditions. So how can the observed variations of BP:GPP with soil fertility and nutrient limitation be reconciled?&lt;/p&gt;
+&lt;p&gt;In my understanding (following the understanding of others of course), nutrient limitation is not a fixed cap, but under biological control, expressable as a “C cost for nutrient uptake”. On infertile soils, this cost is generally higher. Be it because of low pH (which directly affects soil chemistry, nutrient availability and microbial activity) or because of soil texture (affecting nutrient retention, resistance to root growth, etc.) or other parameters. If an ecosystem is “limited” by, for example, N (i.e., no growth stimulation by adding P or elevating CO2), then the cost for taking up N is infinite. In that respect, the concept of a C cost (reflected in Cex and BP:GPP) is a generalization of the Liebig-type limitation concept, and is also able to integrate other factors that determine soil fertility (cost is as a function of pH, …).&lt;/p&gt;
+&lt;p&gt;So is nutrient limitation just a question of C cost and thus energy availability? (Radiation energy is converted by photosynthesis to labile C, the fuel for any plant function). Maybe this is indeed the case for limitation by N. Obviously, there is no limit (other than energy) to biological control of N availability through converting N2 into reactive forms. In view of the ever-increasing N inputs through atmospheric deposition, reactive N, previously created by fossil fuel combustion, N limitation even seems to be relieved “for free” in affected ecosystems. This is different for P limitation. P doesn’t have a gaseous phase and is merely rock-derived. Also atmospheric deposition is very small, and the acceleration of anthropogenic inputs of reactive P lags behind the one for N (Penuelas et al., 2013). Once made available to plants, P recycling in ecosystems is highly conservative: only very small losses occur because it’s very costly for plants to accrue new P once it’s lost. The N cycle is much more leaky – N seems to be cheaper. Up to 25% of BP is fuelled by new inputs in the tropics (Cleveland et al., 2013). Taken together, it seems like enhanced demand for N under increasing CO2 should be met. No? On the other hand, P may impose much more of a limitation to future C uptake.&lt;/p&gt;
+&lt;p&gt;The goal of my research is to investigate the C cost for nutrient uptake. What soil fertility parameters have to be taken into account to accurately predict observed gradients in biomass production efficiency and above- versus below-ground allocation patterns. And what is the implication of biological control – taking into account such C cost effects – on the future of the land C sink? Please stay tuned …&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Vicca, S.; Luyssaert, S.; Peñuelas, J.; Campioli, M.; Chapin, F. S.; Ciais, P.; Heinemeyer, A.; Högberg, P.; Kutsch, W. L.; Law, B. E.; Malhi, Y.; Papale, D.; Piao, S. L.; Reichstein, M.; Schulze, E. D. &amp;amp; Janssens, I. A.Fertile forests produce biomass more efficiently Ecology Letters, Blackwell Publishing Ltd, 2012, 15, 520-526&lt;/p&gt;
+&lt;p&gt;Fernandez-Martinez, M.; Vicca, S.; Janssens, I. A.; Sardans, J.; Luyssaert, S.; Campioli, M.; Chapin III, F. S.; Ciais, P.; Malhi, Y.; Obersteiner, M.; Papale, D.; Piao, S. L.; Reichstein, M.; Roda, F. &amp;amp; Penuelas, J. Nutrient availability as the key regulator of global forest carbon balance Nature Climate Change, 2014, 4, 471-476&lt;/p&gt;
+&lt;p&gt;Poorter, H.; Niklas, K. J.; Reich, P. B.; Oleksyn, J.; Poot, P. &amp;amp; Mommer, L. Biomass allocation to leaves, stems and roots: meta-analyses of interspecific variation and environmental control New Phytologist, 2012, 193, 30-50&lt;/p&gt;
+&lt;p&gt;Mäkelä, A.; Valentine, H. T. &amp;amp; Helmisaari, H.-S. Optimal co-allocation of carbon and nitrogen in a forest stand at steady state New Phytologist, 2008, 180, 114-123&lt;/p&gt;
+&lt;p&gt;Franklin, O.; Näsholm, T.; Högberg, P. &amp;amp; Högberg, M. N. Forests trapped in nitrogen limitation – an ecological market perspective on ectomycorrhizal symbiosis New Phytologist, 2014, 203, 657-666&lt;/p&gt;
+&lt;p&gt;Wieder, W. R.; Cleveland, C. C.; Smith, W. K. &amp;amp; Todd-Brown, K. Future productivity and carbon storage limited by terrestrial nutrient availability  Nature Geosci, 2015, 8, 441-444&lt;/p&gt;
+&lt;p&gt;Peñuelas, J.; Poulter, B.; Sardans, J.; Ciais, P.; van der Velde, M.; Bopp, L.; Boucher, O.; Godderis, Y.; Hinsinger, P.; Llusia, J.; Nardin, E.; Vicca, S.; Obersteiner, M. &amp;amp; Janssens, I. A. Human-induced nitrogen–phosphorus imbalances alter natural and managed ecosystems across the globe Nat Commun, 2013, 4&lt;/p&gt;
+&lt;p&gt;Cleveland, C. C.; Houlton, B. Z.; Smith, W. K.; Marklein, A. R.; Reed, S. C.; Parton, W.; Del Grosso, S. J. &amp;amp; Running, S. W. Patterns of new versus recycled primary production in the terrestrial biosphere Proceedings of the National Academy of Sciences, 2013, 110, 12733-12737&lt;/p&gt;
+&lt;p&gt;Fischer, G., F. Nachtergaele, S. Prieler, H.T. van Velthuizen, L. Verelst, D. Wiberg, 2008. Global Agro-ecological Zones Assessment for Agriculture (GAEZ 2008). IIASA, Laxenburg, Austria and FAO, Rome, Italy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Big N Question: What controls rates of nitrogen fixation and losses?</title>
+      <link>https://geco-website.netlify.app/post/nquestion/</link>
+      <pubDate>Sat, 17 Jan 2015 13:35:04 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/post/nquestion/</guid>
+      <description>&lt;p&gt;To address this question, we have to start with the notion that, on the long term, N losses from ecosystems via gaseous and leaching pathways have to be compensated by N inputs. Natural, that is non-human affected, N inputs are small and have been shown not to be sufficient to explain the measured N balance. Biological N fixation (BNF) must account for the remainder. However, drawing a complete picture of the N budget in terrestrial ecosystems has been notoriously difficult, because BNF is practically impossible to measure and estimated rates of global BNF range from around 200 TgN (Cleveland et al., 1999) to 58 TgN (Vitousek et al., 2013). Today, research is stuck.&lt;/p&gt;
+&lt;p&gt;This lack of understanding of the amount, but also of the controls on BNF introduces a “wildcard” for carbon (C) cycle projections under future climate change. Early C-only vegetation models suggested massive C sequestration under rising atmospheric CO2. However, for every C fixed into organic compounds, a relatively tightly constrained amount of N is required. But where does this N come from? Hungate et al. (2003) argued that these C-only model’s predictions were unrealistic because the implied additional N required for C sequestration would have to be provided by additional BNF, and that the required amounts of additional BNF were not “realistic”. But what is realistic?&lt;/p&gt;
+&lt;p&gt;More recently, vegetation models have been developed with the aim of introducing more “realism”. One such aspect is the coupling of C and N cycles. Indeed, this new generation of models generally does suggest less C sequestration, mostly for reasons of progressive N limitation (PNL) (Luo et al., 2004), meaning that additional N fixed in organic compounds leads to a depletion of N availability in soils because ecosystems can’t bring in enough N and thus run into a PNL. Is this realistic?&lt;/p&gt;
+&lt;p&gt;Ecosystem manipulation experiments and observations along gradients of varying N availability draw a different picture. The C allocation of plants appears to be flexible and responding to the availability of nutrients in the soil. Symbiotic associations between plants and mycorrhiza (root fungi) and N-fixing bacteria are away for plants to overcome nutrient shortage. However, these come at a cost of feeding C to symbionts. Also the “blind” exudation of labile C by plants into the soil stimulates microbial soil decomposition and N mineralisation and thus improves N availability. Apparently, getting enough N is not impossible but is also not free.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/ncycle_state0_col.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;N cycling in land ecosystems. Reference state.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/ncycle_state_tight.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;N cycling in land ecosystems. N-limited state.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hence, a way of advancing the mechanistic understanding of the controls on N fixation could be by looking at the ecosystem energy economy – that is the C economy. N fixation is a particularly costly option to acquire N. Feeding the nitrogenase enzyme to break up the sturdy N2 bond is expensive. Modeling these trade-offs is one of the big goals of my work here at Colin Prentice’s lab.&lt;/p&gt;
+&lt;p&gt;What observations can be used to test such modeling approaches? Free Air CO2Enrichment (FACE) experiments have generated plenty of data to gain a better insight into C allocation changes under rising CO2. And indeed, more N appears to get bound into plant biomass when photosynthesis increases. However, knowing where this additional N is coming from remains unresolved. Either, it’s provided by accelerated soil organic matter decomposition, stimulated by more below-ground plant C allocation, or it’s brought in from the atmosphere via BNF.&lt;/p&gt;
+&lt;p&gt;If the first option is the case, then what happens to soil organic matter (SOM) stocks under continuing CO2 increase in the decades and centuries to come? A way to gain a better understanding of ecosystem responses to large-scale environmental change is to look into the past. The shift from the last ice age to the present warm period provides an analogue for future climate change (although from a different background and at a much slower pace). Again, if no additional N was brought into ecosystems back then, SOM stocks would have had to be tapped. Did they decrease indeed? Also, if no additional N was brought in, then ecosystems would indeed have run into a progressive N limitation. This would also imply that inorganic N stocks were depleted and lead to much less gaseous N losses and hence N2O emissions. Is this the case?&lt;/p&gt;
+&lt;p&gt;Spahni et al. (in prep.) now show that terrestrial N2O emissions did indeed increase as CO2went up after the last ice age. This may be interpreted as a strong indication that no such PNL occurred. Hence, BNF must have increased along with the demand for N as ecosystems sequestered more C.&lt;/p&gt;
+&lt;p&gt;The bottom line is that measurements of BNF are notoriously difficult but there are other, indirect constraints on how ecosystems respond to changes in N availability. Apart from manipulation experiments, analyses along environmental gradients, and evidence from palaeo-information, also the isotopic composition of 15N/14N may be used to estimate rates BNF. All this data has to be exploited to constrain models and get a better understanding of whether BNF increases in the future and permits more C to be sequestered in land ecosystems.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Cleveland, C., Townsend, A., Schimel, D., Fisher, H., Howarth, R., Hedin, L., Perakis, S., Latty, E., Von Fischer, J., Elseroad, A., and Wasson, M.: Global patterns of terrestrial biological nitrogen (N-2) fixation in natural ecosystems, Global Biogeochem. Cycles, 13, 623–645, doi:{10.1029/1999GB900014}, 1999.&lt;/p&gt;
+&lt;p&gt;Vitousek, P. M., Menge, D. N. L., Reed, S. C., and Cleveland, C. C.: Biological nitrogen fixation: rates, patterns and ecological controls in terrestrial ecosystems, Philos. T. Roy. Soc. B, 368, doi:{10.1098/rstb.2013.0119}, 2013.&lt;/p&gt;
+&lt;p&gt;Hungate, B., Dukes, J., Shaw, M., Luo, Y., and Field, C.: Nitrogen and climate change, Science, 302, 1512–1513, doi:{10.1126/science.1091390}, 2003&lt;/p&gt;
+&lt;p&gt;Luo, Y., Su, B., Currie, W., Dukes, J., Finzi, A., Hartwig, U., Hungate, B., McMurtrie, R., Oren, R., Parton, W., Pataki, D., Shaw, M., Zak, D., and Field, C.: Progressive nitrogen limitation of ecosystem responses to rising atmospheric carbon dioxide, Bioscience, 54, 731–739, 2004.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agriculture,     Forestry and Other Land Use (AFOLU)</title>
+      <link>https://geco-website.netlify.app/publication/ipcc-wg-iii/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ipcc-wg-iii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audit of the global carbon budget: estimate errors and their impact on uptake uncertainty</title>
+      <link>https://geco-website.netlify.app/publication/ballantyne-15-bg/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ballantyne-15-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of global change during the 21st century on the nitrogen cycle</title>
+      <link>https://geco-website.netlify.app/publication/fowler-15-acp/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/fowler-15-acp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global carbon budget 2014</title>
+      <link>https://geco-website.netlify.app/publication/lequere-15-gcp-14/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-15-gcp-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Carbon Budget 2015</title>
+      <link>https://geco-website.netlify.app/publication/lequere-15-gcp-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-15-gcp-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural and anthropogenic methane fluxes in Eurasia: a mesoscale quantification by generalized atmospheric inversion</title>
+      <link>https://geco-website.netlify.app/publication/berchet-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/berchet-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying differences in land use emission estimates implied by definition discrepancies</title>
+      <link>https://geco-website.netlify.app/publication/stocker-15-esd/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-15-esd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling Precipitation with Runoff: Observed Hydrological Change in the Midlatitudes</title>
+      <link>https://geco-website.netlify.app/publication/osborne-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/osborne-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil carbon management in large-scale Earth system modelling: implications for crop yields and nitrogen leaching</title>
+      <link>https://geco-website.netlify.app/publication/olin-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/olin-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dominant role of semi-arid ecosystems in the trend and variability of the land CO2 sink</title>
+      <link>https://geco-website.netlify.app/publication/ahlstroem-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ahlstroem-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WETCHIMP-WSL: intercomparison of wetland methane emissions models over West Siberia</title>
+      <link>https://geco-website.netlify.app/publication/bohn-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/bohn-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DYPTOP: a cost-efficient TOPMODEL implementation to simulate sub-grid spatio-temporal dynamics of global wetlands and peatlands</title>
+      <link>https://geco-website.netlify.app/publication/stocker-14-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-14-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global carbon budget 2013</title>
+      <link>https://geco-website.netlify.app/publication/lequere-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Past and future carbon fluxes from land use change, shifting cultivation and wood harvest</title>
+      <link>https://geco-website.netlify.app/publication/stocker-14-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-14-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon and Other Biogeochemical Cycles</title>
+      <link>https://geco-website.netlify.app/publication/ipcc-wg-i/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ipcc-wg-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Forcings and Feedbacks from the Terrestrial Biosphere: From Greenhouse-gas Emissions to Anthropogenic Land Use Change</title>
+      <link>https://geco-website.netlify.app/publication/stocker-2013-climate/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-2013-climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple greenhouse-gas feedbacks from the land biosphere under future climate change scenarios</title>
+      <link>https://geco-website.netlify.app/publication/stocker-13-natcc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-13-natcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The global carbon budget 1959-2011</title>
+      <link>https://geco-website.netlify.app/publication/lequere-13-essd/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-13-essd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transient simulations of the carbon and nitrogen dynamics in northern peatlands: from the Last Glacial Maximum to the 21st century</title>
+      <link>https://geco-website.netlify.app/publication/spahni-13-cp/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/spahni-13-cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity of Holocene atmospheric CO$_2$ and the modern carbon budget to early human land use: analyses with a process-based model</title>
+      <link>https://geco-website.netlify.app/publication/stocker-11-bg/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-11-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble reconstruction constraints on the global carbon cycle sensitivity to climate</title>
+      <link>https://geco-website.netlify.app/publication/frank-10-nat/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/frank-10-nat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geco-website.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geco-website.netlify.app/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geco-website.netlify.app/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About us</title>
+      <link>https://geco-website.netlify.app/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/tour/</guid>
+      <description>&lt;p&gt;Research in the GECO group takes place at the intersection of Earth system science, terrestrial ecology, biogeochemistry, hydrology, and data science and is carried out along the following lines:&lt;/p&gt;
+&lt;h4 id=&#34;developing-data-driven-methods-to-detect-and-predict-impacts-of-climate-extremes-and-patterns-of-vegetation-atmosphere-exchange-of-water-and-co2&#34;&gt;Developing data-driven methods to detect and predict impacts of climate extremes and patterns of vegetation-atmosphere exchange of water and CO2.&lt;/h4&gt;
+&lt;p&gt;In our research, we use large volumes of Earth Observation and ecosystem data and machine learning methods to (i) infer information about the properties of the Critical Zone in controlling land-atmosphere exchange and land-climate feedbacks with a particular focus on the sensitivity of vegetation to water stress, (ii) forecast impacts of extreme heat and drought events on forests and pastures. With our data-driven research, we provide information of climate impacts at scales that are relevant to diverse stakeholders, and inform open questions underpinning bias and divergence in global models.&lt;/p&gt;
+&lt;h4 id=&#34;developing-mechanistic-models-for-robust-simulations-of-terrestrial-biosphere-processes-and-their-reposes-to-a-changing-environment&#34;&gt;Developing mechanistic models for robust simulations of terrestrial biosphere processes and their reposes to a changing environment.&lt;/h4&gt;
+&lt;p&gt;Our development of mechanistic ecosystem and terrestrial carbon cycle models is focused (i) on the implementation of eco-evolutionary optimality principles for simulating acclimating and adapting vegetation responses to environmental change; (ii) on resolving heterogeneity of vegetation structure (age and height) and the landscape (topography and hydrology) for continental-to-global scale model simulations; and (iii) integrating diverse ecosystem and Earth observation data for model calibration and predictions. Particular research challenges we currently address include effects of climate change and rising CO2 on plant growth, stoichiometry and carbon allocation, and on forest structure and stand dynamics; and the impacts of droughts across heterogenous landscapes and vegetation types. With this research, we contribute to building a next generation of terrestrial biosphere models for simulating climate change effects and Earth system dynamics across a range of time scales (from the past to the future).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

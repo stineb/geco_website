@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/publication-type/0/</link>
+      <atom:link href="https://geco-website.netlify.app/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>https://geco-website.netlify.app/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>cwd v1.0: R package for cumulative water deficit  calculation</title>
+      <link>https://geco-website.netlify.app/publication/cwd/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/cwd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DYPTOP v1.0: Demo code for dynamical global  peatland modelling</title>
+      <link>https://geco-website.netlify.app/publication/dyptop/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/dyptop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ingestr v1.3: R package for environmental data  ingest</title>
+      <link>https://geco-website.netlify.app/publication/ingestr/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ingestr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml4ec_workshop: v1: Initial version</title>
+      <link>https://geco-website.netlify.app/publication/ml-4-ec-workshop/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ml-4-ec-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCWDX80 and zCWDX80</title>
+      <link>https://geco-website.netlify.app/publication/scwdx-80/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/scwdx-80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stineb/rpmodel: v1.2.0 Vectorization fixed.  Refactored code.</title>
+      <link>https://geco-website.netlify.app/publication/rpmodel/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/rpmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stineb/rsofun: LM3-PPA implemented</title>
+      <link>https://geco-website.netlify.app/publication/rsofun/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/rsofun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eval_pmodel</title>
+      <link>https://geco-website.netlify.app/publication/eval-pmodel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/eval-pmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stineb/sofun: Stocker et al. (2019) GMD</title>
+      <link>https://geco-website.netlify.app/publication/sofun/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/sofun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPP at FLUXNET Tier 1 sites from P-model</title>
+      <link>https://geco-website.netlify.app/publication/gpp-pmodel/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/gpp-pmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPP at FLUXNET Tier 1 sites from P-model</title>
+      <link>https://geco-website.netlify.app/publication/pmodel-output-fluxnet-2015-stocker-19-gmd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/pmodel-output-fluxnet-2015-stocker-19-gmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fLUE</title>
+      <link>https://geco-website.netlify.app/publication/flue/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/flue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPP: Site-scale and global model outputs from  P-model used for Stocker et al. (2019) Nature Geosci.</title>
+      <link>https://geco-website.netlify.app/publication/soilm-global-output-fluxnet-2015-stocker-19-natgeo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/soilm-global-output-fluxnet-2015-stocker-19-natgeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nn_fluxnet</title>
+      <link>https://geco-website.netlify.app/publication/nn-fluxnet-2015/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/nn-fluxnet-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Peatland Carbon Balance and Land Use Change CO2 Emissions Through the Holocene</title>
+      <link>https://geco-website.netlify.app/publication/dyptop-outputs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/dyptop-outputs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

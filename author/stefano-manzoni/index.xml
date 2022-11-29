@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefano Manzoni | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/stefano-manzoni/</link>
+      <atom:link href="https://geco-website.netlify.app/author/stefano-manzoni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefano Manzoni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Stefano Manzoni</title>
+      <link>https://geco-website.netlify.app/author/stefano-manzoni/</link>
+    </image>
+    
+    <item>
+      <title>Eco-evolutionary optimality as a means to improve vegetation and land-surface models</title>
+      <link>https://geco-website.netlify.app/publication/harrison-21-newphyt/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/harrison-21-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizing principles for vegetation dynamics</title>
+      <link>https://geco-website.netlify.app/publication/franklin-20-natplants/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/franklin-20-natplants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terrestrial nitrogen cycling in Earth system models revisited</title>
+      <link>https://geco-website.netlify.app/publication/stocker-16-newphyt/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-16-newphyt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

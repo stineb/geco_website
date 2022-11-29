@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. R. van der Werf | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/g.-r.-van-der-werf/</link>
+      <atom:link href="https://geco-website.netlify.app/author/g.-r.-van-der-werf/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. R. van der Werf</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>G. R. van der Werf</title>
+      <link>https://geco-website.netlify.app/author/g.-r.-van-der-werf/</link>
+    </image>
+    
+    <item>
+      <title>Global Carbon Budget 2017</title>
+      <link>https://geco-website.netlify.app/publication/lequere-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Carbon Budget 2016</title>
+      <link>https://geco-website.netlify.app/publication/lequere-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global carbon budget 2014</title>
+      <link>https://geco-website.netlify.app/publication/lequere-15-gcp-14/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-15-gcp-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Carbon Budget 2015</title>
+      <link>https://geco-website.netlify.app/publication/lequere-15-gcp-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-15-gcp-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The global carbon budget 1959-2011</title>
+      <link>https://geco-website.netlify.app/publication/lequere-13-essd/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/lequere-13-essd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

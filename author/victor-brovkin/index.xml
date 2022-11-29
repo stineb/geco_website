@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Brovkin | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/victor-brovkin/</link>
+      <atom:link href="https://geco-website.netlify.app/author/victor-brovkin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Victor Brovkin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Victor Brovkin</title>
+      <link>https://geco-website.netlify.app/author/victor-brovkin/</link>
+    </image>
+    
+    <item>
+      <title>No support for carbon storage of &gt;1,000 GtC in northern peatlands</title>
+      <link>https://geco-website.netlify.app/publication/yu-21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/yu-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No support for carbon storage of more than 1000 GtC in northern peatlands</title>
+      <link>https://geco-website.netlify.app/publication/yu-19-arxiv/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/yu-19-arxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

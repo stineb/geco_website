@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas A. M. Pugh | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/thomas-a.-m.-pugh/</link>
+      <atom:link href="https://geco-website.netlify.app/author/thomas-a.-m.-pugh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas A. M. Pugh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Thomas A. M. Pugh</title>
+      <link>https://geco-website.netlify.app/author/thomas-a.-m.-pugh/</link>
+    </image>
+    
+    <item>
+      <title>Are Land-Use Change Emissions in Southeast Asia Decreasing or Increasing?</title>
+      <link>https://geco-website.netlify.app/publication/kondo-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/kondo-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greening of the Earth and its drivers</title>
+      <link>https://geco-website.netlify.app/publication/zhu-16/</link>
+      <pubDate>Sat, 25 Sep 2021 08:12:42 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/zhu-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling Precipitation with Runoff: Observed Hydrological Change in the Midlatitudes</title>
+      <link>https://geco-website.netlify.app/publication/osborne-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/osborne-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

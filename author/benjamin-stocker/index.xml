@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin Stocker | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/benjamin-stocker/</link>
+      <atom:link href="https://geco-website.netlify.app/author/benjamin-stocker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjamin Stocker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Benjamin Stocker</title>
+      <link>https://geco-website.netlify.app/author/benjamin-stocker/</link>
+    </image>
+    
+    <item>
+      <title>Are Land-Use Change Emissions in Southeast Asia Decreasing or Increasing?</title>
+      <link>https://geco-website.netlify.app/publication/kondo-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/kondo-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cwd v1.0: R package for cumulative water deficit  calculation</title>
+      <link>https://geco-website.netlify.app/publication/cwd/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/cwd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DYPTOP v1.0: Demo code for dynamical global  peatland modelling</title>
+      <link>https://geco-website.netlify.app/publication/dyptop/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/dyptop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ingestr v1.3: R package for environmental data  ingest</title>
+      <link>https://geco-website.netlify.app/publication/ingestr/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ingestr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml4ec_workshop: v1: Initial version</title>
+      <link>https://geco-website.netlify.app/publication/ml-4-ec-workshop/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ml-4-ec-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stineb/rpmodel: v1.2.0 Vectorization fixed.  Refactored code.</title>
+      <link>https://geco-website.netlify.app/publication/rpmodel/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/rpmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the long-term interactions of climate change and timber markets on forest land and carbon storage</title>
+      <link>https://geco-website.netlify.app/publication/favero-21-erl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/favero-21-erl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of nitrogen deposition on centennial forest water-use efficiency</title>
+      <link>https://geco-website.netlify.app/publication/gharun-21-erl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/gharun-21-erl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stineb/rsofun: LM3-PPA implemented</title>
+      <link>https://geco-website.netlify.app/publication/rsofun/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/rsofun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eval_pmodel</title>
+      <link>https://geco-website.netlify.app/publication/eval-pmodel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/eval-pmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stineb/sofun: Stocker et al. (2019) GMD</title>
+      <link>https://geco-website.netlify.app/publication/sofun/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/sofun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Spatial and Temporal Variabilities of Gross Primary Production Using MAIAC MODIS Data</title>
+      <link>https://geco-website.netlify.app/publication/fernandezmartinez-19-rs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/fernandezmartinez-19-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fLUE</title>
+      <link>https://geco-website.netlify.app/publication/flue/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/flue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPP: Site-scale and global model outputs from  P-model used for Stocker et al. (2019) Nature Geosci.</title>
+      <link>https://geco-website.netlify.app/publication/soilm-global-output-fluxnet-2015-stocker-19-natgeo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/soilm-global-output-fluxnet-2015-stocker-19-natgeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nn_fluxnet</title>
+      <link>https://geco-website.netlify.app/publication/nn-fluxnet-2015/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/nn-fluxnet-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using research networks to create the comprehensive datasets needed to assess nutrient availability as a key determinant of terrestrial carbon cycling</title>
+      <link>https://geco-website.netlify.app/publication/vicca-18-erl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/vicca-18-erl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terrestrial nitrogen cycling in Earth system models revisited</title>
+      <link>https://geco-website.netlify.app/publication/stocker-16-newphyt/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-16-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ecosystem Impacts of Severe Warming</title>
+      <link>https://geco-website.netlify.app/publication/mendelsohn-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/mendelsohn-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Past and future carbon fluxes from land use change, shifting cultivation and wood harvest</title>
+      <link>https://geco-website.netlify.app/publication/stocker-14-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-14-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Forcings and Feedbacks from the Terrestrial Biosphere: From Greenhouse-gas Emissions to Anthropogenic Land Use Change</title>
+      <link>https://geco-website.netlify.app/publication/stocker-2013-climate/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-2013-climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble reconstruction constraints on the global carbon cycle sensitivity to climate</title>
+      <link>https://geco-website.netlify.app/publication/frank-10-nat/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/frank-10-nat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

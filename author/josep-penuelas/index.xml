@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josep Peñuelas | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/josep-penuelas/</link>
+      <atom:link href="https://geco-website.netlify.app/author/josep-penuelas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Josep Peñuelas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 08:12:42 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Josep Peñuelas</title>
+      <link>https://geco-website.netlify.app/author/josep-penuelas/</link>
+    </image>
+    
+    <item>
+      <title>Greening of the Earth and its drivers</title>
+      <link>https://geco-website.netlify.app/publication/zhu-16/</link>
+      <pubDate>Sat, 25 Sep 2021 08:12:42 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/zhu-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eco-evolutionary optimality as a means to improve vegetation and land-surface models</title>
+      <link>https://geco-website.netlify.app/publication/harrison-21-newphyt/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/harrison-21-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizing principles for vegetation dynamics</title>
+      <link>https://geco-website.netlify.app/publication/franklin-20-natplants/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/franklin-20-natplants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drought impacts on terrestrial primary production underestimated by satellite monitoring</title>
+      <link>https://geco-website.netlify.app/publication/stocker-19-natgeo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-19-natgeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Spatial and Temporal Variabilities of Gross Primary Production Using MAIAC MODIS Data</title>
+      <link>https://geco-website.netlify.app/publication/fernandezmartinez-19-rs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/fernandezmartinez-19-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass</title>
+      <link>https://geco-website.netlify.app/publication/terrer-19-natcc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-19-natcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass</title>
+      <link>https://geco-website.netlify.app/publication/terrer-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/terrer-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial variance of spring phenology in temperate deciduous forests is constrained by background climatic conditions</title>
+      <link>https://geco-website.netlify.app/publication/peaucelle-19-natcomm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/peaucelle-19-natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using research networks to create the comprehensive datasets needed to assess nutrient availability as a key determinant of terrestrial carbon cycling</title>
+      <link>https://geco-website.netlify.app/publication/vicca-18-erl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/vicca-18-erl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of Global Change on Mediterranean Forests and Their Services</title>
+      <link>https://geco-website.netlify.app/publication/penuelas-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/penuelas-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

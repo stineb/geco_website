@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ning Zeng | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/ning-zeng/</link>
+      <atom:link href="https://geco-website.netlify.app/author/ning-zeng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ning Zeng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 08:12:42 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Ning Zeng</title>
+      <link>https://geco-website.netlify.app/author/ning-zeng/</link>
+    </image>
+    
+    <item>
+      <title>Greening of the Earth and its drivers</title>
+      <link>https://geco-website.netlify.app/publication/zhu-16/</link>
+      <pubDate>Sat, 25 Sep 2021 08:12:42 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/zhu-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The terrestrial carbon budget of South and Southeast Asia</title>
+      <link>https://geco-website.netlify.app/publication/cervarich-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/cervarich-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dominant role of semi-arid ecosystems in the trend and variability of the land CO2 sink</title>
+      <link>https://geco-website.netlify.app/publication/ahlstroem-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ahlstroem-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/project/</link>
+      <atom:link href="https://geco-website.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 13:50:03 +0200</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://geco-website.netlify.app/project/</link>
+    </image>
+    
+    <item>
+      <title>Global leaf N and P</title>
+      <link>https://geco-website.netlify.app/project/leafnp/</link>
+      <pubDate>Sat, 25 Sep 2021 13:50:03 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/leafnp/</guid>
+      <description>&lt;p&gt;This research is led by Dr. Di Tian, former postdoc in my group for Computational Ecosystem Science, ETH Zurich, now at Beijing Forestry University.&lt;/p&gt;
+&lt;p&gt;We want to understand what drives leaf nitrogen and phosphorous contents and their variations across the globe. To investigate this, we use a large dataset of plant-level observations by &lt;a href=&#34;https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2812&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tian et al. (2019)&lt;/a&gt;, and complement it with environmental covariates. In constrast to earlier reports, we find that our environmental covariates explain about half of the variations observed in the data - an astonishingly high portion for an ecological dataset where covariates were not actually measured in the field but extracted from other global datasets.&lt;/p&gt;
+&lt;p&gt;Here is our preliminary result for a global leaf N map (gN/m2):&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/leafn.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;More on this to come very soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensing drought stress</title>
+      <link>https://geco-website.netlify.app/project/martina/</link>
+      <pubDate>Sat, 25 Sep 2021 11:57:45 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/martina/</guid>
+      <description>&lt;p&gt;This project is led by Martina Buck, a MSc student in my group for Compuational Ecosystem Science.&lt;/p&gt;
+&lt;p&gt;Satellite remote sensing data of surface reflectance is widely used to measure vegetation structure and green foliage area and quantify indices such as the NDVI (normalized difference vegetation index). However, effects of abiotic stress (e.g. droughts) and physiological responses are not directly measured or insufficiently captured by such indices and other available surface reflectance-based satellite products. We know, however, that additional information is contained in certain spectral bands and provides insights into the physiological part of plant responses (beyond structural responses).&lt;/p&gt;
+&lt;p&gt;In this project, we develop new methods for making more fully use of remote sensing data for monitoring drought stress and plant physiological responses across. For this, we&amp;rsquo;re applying machine learning on the full spectral information of surface reflectance and ancillary obtained from remote sensing and climate reanalysis. The target for algorithms of supervised machine learning are new estimates for the physiological (-only) response to water stress, developed by &lt;a href=&#34;https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2018 &lt;em&gt;New Phytologist&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecological data assimilation</title>
+      <link>https://geco-website.netlify.app/project/diego/</link>
+      <pubDate>Sat, 25 Sep 2021 11:57:26 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/diego/</guid>
+      <description>&lt;p&gt;In several projects, we are working towards assimilating diverse data into mechanistic ecosystem models.&lt;/p&gt;
+&lt;p&gt;Currently, we are using forest inventory data, in combination with eddy covariance flux measurements from an intensive monitoring site in Switzerland (&lt;a href=&#34;http://sites.fluxdata.org/CH-Lae/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lägern&lt;/a&gt;) for calibrating our model (rsofun with LM3-PPA, see &lt;a href=&#34;https://geco-website.netlify.app/data_code/index.md&#34;&gt;Data and code&lt;/a&gt;) using Bayesian statistical methods.&lt;/p&gt;
+&lt;p&gt;A MSc thesis by Ana Roldan is scheduled to start in November 2021 that extends this model-data integration framework. The research question of this thesis will be to investigate feedbacks between photosynthesis and growth, and in particular whether cold-limitation on growth feeds back on photosynthesis and thus induces a temperature-driven sink limitation in forests. To investigate this, we are using data from the intensive monitoring sites at &lt;a href=&#34;http://sites.fluxdata.org/CH-Lae/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lägern&lt;/a&gt; and &lt;a href=&#34;http://sites.fluxdata.org/CH-Dav/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Davos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With planned research, we are aiming to extend model-data integration on the basis of diverse ecological data further. The aim is to accurately simulate impacts of drought and heat stress on CO2 assimilation, transpiration, tree growth, and mortality. Using complementary observations and mechanistically accounting for the links between processes will yield new insights - key for forecasting climate extreme event impacts in Swiss (and other) forests.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phenology and photosynthesis</title>
+      <link>https://geco-website.netlify.app/project/pheno/</link>
+      <pubDate>Sat, 25 Sep 2021 11:57:12 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/pheno/</guid>
+      <description>&lt;p&gt;We are interested in the links between autumn phenology and photosynthesis. In contrast to a recently published study by &lt;a href=&#34;https://www.science.org/doi/10.1126/science.abd8911&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zani et al. (2020)&lt;/a&gt;, we find that increasing photosynthesis does &lt;em&gt;not&lt;/em&gt; lead to an earlier leaf-shedding in autumn. While a such a relationship appears at the short (inter-annual) time scale (driven probably by variations in the spring phenology and a constrained leaf longevity), it does not hold when evaluating relationships at the decadal time scale and across space. This challenges the interpretation of Zani et al. about the drivers of autumn phenology. It&amp;rsquo;s probably not about a C sink saturation (once plants have assimilated enough C, they go to sleep for winter). Rather, long-term trends in climate and CO2 enables plants to extend their growing season, wherebey they overcome the leaf-longevity constraint and a trend towards earlier leaf-out does not lead to a corresponding trend towards earlier leaf-off. The opposite is observed - both for decadal-scale temporal trends and trends across space!&lt;/p&gt;
+&lt;p&gt;This is research I designed and is being led now by &lt;a href=&#34;https://usys.ethz.ch/en/people/profile.MjY5NTUz.TGlzdC82MzcsMzIwMTk3MjIy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Laura Marques&lt;/a&gt; (postdoc in my group).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimality and plant hydraulics</title>
+      <link>https://geco-website.netlify.app/project/jaideep/</link>
+      <pubDate>Sat, 25 Sep 2021 11:57:05 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/jaideep/</guid>
+      <description>&lt;p&gt;This is an important step for developing theory for how plant hydraulics determine stomatal regulation and photosynthetic capacity in response to water stress. The research led by Dr. Jaideep Joshi, IIASA, Austria, is published as a pre-print on BiorXiv (&lt;a href=&#34;https://doi.org/10.1101/2020.12.17.423132&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshi et al. 2020&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The model presented here offers a solution to resolve measurable plant hydraulic traits withing the theoretical approach for eco-evolutionary optimality implemented by the P-model (&lt;a href=&#34;https://doi.org/10.5194/gmd-13-1545-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2020 &lt;em&gt;GMD&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cold acclimation effects on photosynthesis</title>
+      <link>https://geco-website.netlify.app/project/photocold/</link>
+      <pubDate>Sat, 25 Sep 2021 11:56:58 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/photocold/</guid>
+      <description>&lt;p&gt;Ecosystem-level photosynthesis (gross primary production: GPP) can be predicted using remotely sensed information on vegetation cover, local measurements of solar radiation and relatively simple models for the efficiency of photosynthesis (Ryu et al., 2019; Stocker et al., 2019). But one aspect of model-data mismatch stands out: The early-season increase in GPP is typically simulated to be around a month too early at some sites but not at others (Fig. 1). It will be your challenge to find out why and how to resolve this model deficiency.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/photocold.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 1 Mean seasonal cycle of GPP aggregated for 14 sites where without early season overestimation of modelled GPP (a) and 13 sites with an apparent overestimation of early season modelled GPP (b).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A hypothesis that may explain this phenomenon is that the photosynthetic apparatus is acclimated to the risk of frost damage in early spring, caused by conditions of low temperature and simultaneously high solar radiation. To prevent excessive light harvesting, photoprotective mechanisms are deployed by plants and lead to reduced photosynthetic carbon assimilation, and hence GPP. At locations with relatively mild winters and limited risk of frost, photoprotection may be less prevalent and photosynthesis rates are high already in the early season.&lt;/p&gt;
+&lt;p&gt;We are using ecosystem flux data in combination with our photosynthesis model to understand and resolve its ominous early season GPP bias at some sites in some years.&lt;/p&gt;
+&lt;p&gt;This research is led by Dr. Yunpeng Luo, a postdoc in my group and co-supervised by Prof. Arthur Gessler, WSL Birmensdorf.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning for GPP</title>
+      <link>https://geco-website.netlify.app/project/mlflx/</link>
+      <pubDate>Sat, 25 Sep 2021 11:56:58 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/mlflx/</guid>
+      <description>&lt;p&gt;This research emerges from a semester project for the Data Science Lab at ETH Zürich, a course of the Computer Science study programme. I supervised students Alexandru Meterez, Piersilvio de Bartolomeis, and Zixin Shelley Shu, all MSc students in Computer Scince at ETHZ. The results are currently written up as a manuscript.&lt;/p&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Ecosystem-atmosphere exchange fluxes of water vapour and CO2 are continuously measured at several hundred of sites, distributed across the globe. The oldest running sites have been recording data since over twenty years. Thanks to the international FLUXNET initiative, these time series data are made openly accessible from over hundred sites and provided in a standardized format and complemented with measurements of several meteorological variables, plus soil temperature and moisture, measured in parallel. These data provide an opportunity for understanding ecosystem fluxes and how they are affected by environmental covariates. The challenge is to build models that are sufficiently generalisable in space. That is, temporally resolved relationships learned from one subset of sites should be used effectively to predict time series, given environmental covariates, at new sites (spatial upscaling).&lt;/p&gt;
+&lt;p&gt;This is a challenge as previous research has shown that relatively powerful site-specific models can be trained, but predictions to new sites have been found wanting. This may be due to site-specific characteristics (e.g. vegetation type) that have thus far not been satisfactorily encoded in models. In other words, factors that would typically be regarded as random factors in mixed effects modelling, continue to undermine effective learning in machine learning models.&lt;/p&gt;
+&lt;h2 id=&#34;approach&#34;&gt;Approach&lt;/h2&gt;
+&lt;p&gt;We found that deep neural networks that learn temporal dependencies in the data (Long-Short Term Memory, LSTM) are well-suited for this prediction task.&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary results&lt;/h2&gt;
+&lt;p&gt;Our results indicate that spatially generalisable LSTM models outperform our mechanistic model (the P-model) in predicting GPP.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mlflx.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Benchmarking of the LSTM versus a &amp;ldquo;physical model&amp;rdquo; - the P-model. This shows the coefficient of determination for out-of-sample predictions at individual sites. Points above the 1:1 line (dashed) indicate that the LSTM outperforms the physical model.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DGVM linearity</title>
+      <link>https://geco-website.netlify.app/project/dgvmlin/</link>
+      <pubDate>Sat, 25 Sep 2021 11:56:38 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/dgvmlin/</guid>
+      <description>&lt;p&gt;This research is led by &lt;a href=&#34;https://www.geog.ox.ac.uk/graduate/research/hzhang.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huanyuan Zhan&lt;/a&gt;, PhD student under the main supervision of Prof. Yadvinder Malhi at the University of Oxford, GB. I designed this study and am collaborating closely with Huanyuan on this project.&lt;/p&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Many processes that determine the links between C (input) fluxes and C pool sizes in DGVMs are formulated in a linear way, or at least in such a way as to imply &amp;ldquo;linear&amp;rdquo; model behavior. As a consequence, the relative change in fluxes should be equal to the relative change in pool size. Such model formulations are also termed as &amp;ldquo;source-driven&amp;rdquo;. In contrast, &amp;ldquo;sink-driven&amp;rdquo; would imply that it&amp;rsquo;s not the (input) fluxes that determine the change in pool sizes, but other limiting factors that are independent of input fluxes. This has also been formulated as a fundamental critique in the way current DGVMs are conceived and thus, at least partly, predetermine their projected land C balance changes in climate change scenarios.&lt;/p&gt;
+&lt;p&gt;The question is: How close are models actually from being fully sink-driven? Or in other words: How linear is their dynamics?&lt;/p&gt;
+&lt;p&gt;DGVMs have evolved over several generations, starting from C-only models with a big-leaf representation and average individuals in a stand, to models that represent a coupled C-nutrient cycling, and now to models that combine explicit representations of forest stand dynamics with biochemical cycling. All these modifications should increase the importance of feedbacks within the system that leads to deviations from a linear, strictly source-driven behavior.&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary results&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/dgvmlin.png&#34; alt=&#34;Relatinship of the relantive enhancement in NPP versus the relative enhancement in GPP, derived from CO2-only simulations of a set of Dynamic Global Vegetation Models. This shows a point density of data points representing individual gridcells of all models pooled. Their clustering around the 1:1 line indicates linearity in the relationship between GPP and NPP and implies a constant ratio of NPP:GPP.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Relatinship of the relantive enhancement in NPP versus the relative enhancement in GPP, derived from CO2-only simulations of a set of Dynamic Global Vegetation Models. This shows a point density of data points representing individual gridcells of all models pooled. Their clustering around the 1:1 line indicates linearity in the relationship between GPP and NPP and implies a constant ratio of NPP:GPP.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rooting zone water storage capacity</title>
+      <link>https://geco-website.netlify.app/project/rootingdepth/</link>
+      <pubDate>Sat, 25 Sep 2021 11:56:38 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/project/rootingdepth/</guid>
+      <description>&lt;p&gt;A pre-print is published on BiorXiv: &lt;a href=&#34;https://doi.org/10.1101/2021.09.17.460332&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al. (2021)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Global maps of estimated rooting zone water storage capacity and rooting depth is available on &lt;a href=&#34;https://doi.org/10.5281/zenodo.5515246&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Link my vEGU2020 presentation on this project &lt;a href=&#34;https://presentations.copernicus.org/EGU2020/EGU2020-7019_presentation.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Rooting depth governs plants&amp;rsquo; access to water during dry (rain-free) periods and is thus a key variable determining the sensitivity of transpiration and carbon assimilation to soil moisture drought and land-climate coupling during drought and heat events. Plant rooting depth variations of two orders of magnitude have been recorded across the globe and a substantial portion of this variation appears within species and functional groups. This suggests that plant rooting depth is a relatively plastic “trait” that may adjust to the local environment and soil hydrology and possibly also to temporally changing climatic conditions. Yet, plant rooting depth is commonly treated as a fixed parameter in global vegetation and climate models, specified for each plant functional type. How can respective trait flexibility be introduced in such models?&lt;/p&gt;
+&lt;p&gt;Approaches to explain these large variations have focussed on the depth of the local water table as a constraint on the maximum rooting depth (Fan et al., 2017), on the mean seasonality and synchrony of precipitation and radiation (Gao et al., 2014; Schenk et al., 2005), or on optimality principles for balancing the trade-offs between the benefits of deep rooting and their associated costs (carbon used for root construction and respiration and maintaining water transport along the entire soil-root-leaf pathway) (Kleidon and Heimann, 1998; Schymanski et al., 2009).&lt;/p&gt;
+&lt;p&gt;Here, we follow the approach by Gao et al. (2014), assuming that plants’ rooting depth is adjusted to sustain cumulative water deficits (precipitation minus evapotranspiration: P - ET) of a magnitude, corresponding to an event with a return period of N years, where N is a global constant. The water deficit is determined using daily reanalysis data of precipitation, while ET is estimated from remotely sensed vegetation cover and observed radiation, and from simulated stomatal responses to observed vapour pressure deficit across the globe for the past 35 years. Cumulative water deficits are translated into a “soil drying depth” using information on soil texture and its estimated water holding capacity.&lt;/p&gt;
+&lt;p&gt;Our results reveal a global pattern of plant rooting depth, adjusted to the apparent cumulative water deficit during rain-free periods, peaking at intermediate aridity, where dry periods are long, radiation is high, and vegetation cover is substantial. A comparison to biome-level distributions of observed rooting depths indicates that the control by the cumulative water deficit, embodied in our model, is a powerful driver of variations between biomes. Shallowest rooting depths are observed and modelled in boreal forests and alpine meadows, while deepest rooting is observed and modelled in xeric forests. Stomatal response to dry conditions appears to be an important mechanism that mitigates the necessity for deep rooting, particularly in broadleaved tropical and temperate forests. Our analysis also revealed challenges in bridging the scales of observations and our global-scale model, possibly due to small-scale heterogeneity in soil water availability driven by the topographic setting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New constraints on terrestrial photosynthesis</title>
+      <link>https://geco-website.netlify.app/project/terrphoto/</link>
+      <pubDate>Tue, 11 Feb 2020 09:36:01 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/project/terrphoto/</guid>
+      <description>&lt;p&gt;Photosynthesis of the terrestrial biosphere drives the land carbon cycle. For example, year-to-year variations in terrestrial photosynthesis are the dominant cause for year-to-year changes in land carbon uptake and the rate of increase in atmospheric CO2. Understanding terrestrial photosynthesis is thus important for understanding the fate of anthropogenic CO2 emissions and their effect on driving climate change.&lt;/p&gt;
+&lt;p&gt;Unfortunately, terrestrial photosynthesis cannot be measured directly. Most available estimates are based on remote sensing observations of the vegetation cover, combined with models for the efficiency by which absorbed light is used for carbon assimilation. Recently, new methods have been developed to use alternative remotely sensed observations (e.g., sun-induced fluorescence) to estimate terrestrial photosynthesis. Also Dynamic Global Vegetation Models (DGVMs) provide estimates of terrestrial photosynthesis, but they don&amp;rsquo;t use remotely sensed observations directly.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/terrphoto.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Above: (left) spatial distribution of annual mean sun-induced fluorescence (SiF), a proxy for GPP; (right) spatial distribution of annual total GPP, mean across multiple remote sensing-based models. This illustrates the inconsisten spatial distribution (particularly the tropics-extratropics gradient) of remote sensing-based GPP estimates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Research in our group has revealed that these approaches yield inconsistent estimates in terms of (i) the spatial distribution of photosynthesis rates and (ii) the magnitude of year-to-year variability. The challenge that you will address in this project is to find new constraints to resolve this inconsistency. The use of atmospheric CO2 measurements holds great promise as a constraint, but requires an estimate of the net carbon balance (including gains by photosynthesis and losses by respiration and disturbance). In this project, you will establish this link. You will develop a reduced-complexity representation of the terrestrial carbon balance, based on DGVM outputs and a pulse-response representation of terrestrial carbon storage. This will be used to &amp;ldquo;translate&amp;rdquo; remote-sensing based terrestrial photosynthesis estimates into implied effects on atmospheric CO2 and its spatial and year-by-year variations. Like this, we will be able to subject  the contrasting remote sensing based estimates of terrestrial photosynthesis to a new test and find out which ones are more wrong than others.&lt;/p&gt;
+&lt;p&gt;This thesis is a great starting point for working with large datasets of the terrestrial biosphere and modelling. Experience with working with R, Python or other data science tools are an advantage. You may start as soon as you like.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landcover6K model intercomparison</title>
+      <link>https://geco-website.netlify.app/project/hololu_lc6k/</link>
+      <pubDate>Fri, 08 Mar 2019 13:51:42 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/project/hololu_lc6k/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;title: Landcover6K
+summary: An example of using the in-built project page.&lt;/p&gt;
+&lt;!-- tags: --&gt;
+&lt;!-- - Deep Learning --&gt;
+&lt;p&gt;date: &amp;ldquo;2016-04-27T00:00:00Z&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
+&lt;p&gt;external_link: &amp;ldquo;&lt;a href=&#34;https://stineb.github.io/holoLU_lc6k/%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stineb.github.io/holoLU_lc6k/&#34;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;image:
+caption:
+focal_point: Smart&lt;/p&gt;
+&lt;p&gt;links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;icon: twitter
+icon_pack: fab
+name: Follow
+url: &lt;a href=&#34;https://twitter.com/georgecushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/georgecushen&lt;/a&gt;
+url_code: &amp;ldquo;&lt;a href=&#34;https://stineb.github.io/holoLU_lc6k/%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stineb.github.io/holoLU_lc6k/&#34;&lt;/a&gt;
+url_pdf: &amp;quot;&amp;rdquo;
+url_slides: &amp;quot;&amp;rdquo;
+url_video: &amp;quot;&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-project-with-markdown-slides&#34;&gt;Associate this project with Markdown slides.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-slides--example-slides-references-contentslidesexample-slidesmd&#34;&gt;E.g. &lt;code&gt;slides = &amp;quot;example-slides&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example-slides.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-slides--&#34;&gt;Otherwise, set &lt;code&gt;slides = &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;!-- slides: example --&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carbon-water coupling across scales</title>
+      <link>https://geco-website.netlify.app/project/soilm_global/</link>
+      <pubDate>Fri, 08 Mar 2019 11:46:14 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/project/soilm_global/</guid>
+      <description>&lt;h2 id=&#34;summary-of-our-research&#34;&gt;Summary of our research&lt;/h2&gt;
+&lt;p&gt;In our &lt;a href=&#34;https://www.nature.com/articles/s41561-019-0318-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new paper published in &lt;em&gt;Nature Geoscience&lt;/em&gt;&lt;/a&gt; (view it &lt;a href=&#34;https://www.nature.com/articles/s41561-019-0318-6.epdf?author_access_token=BGVLWmElvocQ1pE62QCTW9RgN0jAjWel9jnR3ZoTv0OyhWonkp6GWFgymRIu-XiwzwuX2z2Y2LYuKXkpzWa99FZSDRcHEaLWYZDRcaio1Et-soqame00xLPa-MvXHz_RVj455cGThJ-86CjHA2XimQ%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), we identified a common bias in different state-of-the-art satellite-based estimates of terrestrial photosynthesis, and found that this bias is closely related to droughts and their apparent impact on the functioning of vegetation. In other words, common satellite-based vegetation monitoring methods underestimate the impact of droughts.&lt;/p&gt;
+&lt;p&gt;What are the implications of this bias for our understanding of the terrestrial C cycle and its year-to-year variability? We investigated this question using a new global implementation of the P-model (open-access code available &lt;a href=&#34;https://github.com/stineb/sofun&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;). Our results suggest that accurately capturing soil moisture stress in photosynthesis modelling is  crucial for estimating the year-to-year variability in vegetation productivity and the impacts of drought extreme events. Not capturing this effect accurately leads to a substantial underestimation of this variability and to a systematic underestimation of drought extreme event impacts on vegetation productivity.&lt;/p&gt;
+&lt;p&gt;However, in our simulations, the locally strong soil moisture effect on vegetation productivity and its variability does not translate into a similarly strong water-control on the global-scale variability in terrestrial gross primary productivity. This is due to the compensating effects of different continents that are not synchronously drought-stressed and tend to compensate each other.&lt;/p&gt;
+&lt;p&gt;In view of a recent study by &lt;a href=&#34;https://www.nature.com/articles/s41586-018-0424-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humphrey et al. (2018)&lt;/a&gt; who found a clear relationship between terrestrial water storage and the atmospheric CO2 growth rate, this raises a fundamental question about the evident water-carbon coupling at the global scale: Is it  an apparent phenomenon where terrestrial water storage is a proxy for some other factor that controls vegetation functioning? Or are we missing some element of plant access to water that has a longer memory and stronger year-to-year variability, so that the simulated compensating effects from different continents that we found would no longer neatly compensate each other at the global scale? This is an exciting lead for future research&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;further-links&#34;&gt;Further links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;a href=&#34;https://geco-website.netlify.app/post/soilm_global/&#34;&gt;blogpost&lt;/a&gt; written for &lt;a href=&#34;https://natureecoevocommunity.nature.com/channels/521-behind-the-paper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Nature Ecology and Evolution - Behind the Paper&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;A &lt;a href=&#34;https://geco-website.netlify.app/files/pressrelease_soilm_global.pdf&#34;&gt;press release&lt;/a&gt; written in collaboration with Natalie Sanders, Imperial College&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-and-code&#34;&gt;Data and code&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Model output data from site-scale and global P-model simulations are available on &lt;a href=&#34;https://zenodo.org/record/1423484#.XIJNAlNKjOQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Code for the entire analysis and producing figures is available on &lt;a href=&#34;https://zenodo.org/record/2543324#.XIJNTVNKjOQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt; and on &lt;a href=&#34;https://github.com/stineb/soilm_global&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;. Compile (knit) RMarkdown file &lt;code&gt;knit_soilm_global.Rmd&lt;/code&gt; for a full reproduction of results or &lt;code&gt;si_soilm_global.Rmd&lt;/code&gt; for re-creating the Supplementary Information to our paper.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIND</title>
+      <link>https://geco-website.netlify.app/project/mind/</link>
+      <pubDate>Thu, 31 Jan 2019 19:19:32 +0100</pubDate>
+      <guid>https://geco-website.netlify.app/project/mind/</guid>
+      <description>&lt;h2 id=&#34;next-generation-modelling-of-the-biosphere--including-new-data-streams-and-optimality-approaches&#34;&gt;Next-generation modelling of the biosphere – Including new data streams and optimality approaches&lt;/h2&gt;
+&lt;p&gt;My 5-year &lt;em&gt;Eccellenza&lt;/em&gt; Professorial Fellowship, funded by the Swiss National Science Foundation&lt;/p&gt;
+&lt;!-- Professorship for Computational Ecosystem Science, co-hosted at the [Institute of Agricultural Sciences, ETH Zürich](http://www.ias.ethz.ch/) and [Forest Dynamics, WSL Birmensdorf](https://www.wsl.ch/en/about-wsl/research-units/forest-dynamics.html)
+ --&gt;
+&lt;p&gt;Co-hosted at the &lt;a href=&#34;http://www.ias.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Agricultural Sciences, ETH Zürich&lt;/a&gt; and &lt;a href=&#34;https://www.wsl.ch/en/about-wsl/research-units/forest-dynamics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forest Dynamics, WSL Birmensdorf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;started September 2019&lt;/p&gt;
+&lt;!-- The overarching aim of MIND and the new ETH/WSL Group for Computational Ecosystem Science is to develop new model and data fusion approaches to gain a mechanistic understanding of biogeochemical cycling in ecosystems, water-carbon coupling, and forest responses to climate change. We work at the intersection of Earth system science, ecophysiology, ecology, applied statistics, and high-performance computing and use the widest possible diversity of observational data.
+ --&gt;
+&lt;p&gt;The overarching aim of MIND is to develop new model and data fusion approaches to gain a mechanistic understanding of biogeochemical cycling in ecosystems, water-carbon coupling, and forest responses to climate change. We work at the intersection of Earth system science, ecophysiology, ecology, applied statistics, and high-performance computing and use the widest possible diversity of observational data.&lt;/p&gt;
+&lt;p&gt;A postdoc position to work with me on this project (see below &amp;lsquo;Postdoc: Scaling from trees to the forest&amp;rsquo;) is open now. A link to the ad and application is &lt;a href=&#34;https://apply.refline.ch/845721/7239/pub/1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- ![MIND Eccellenza across scales](/img/dreamstime_m_76702519_verysmall.jpg) --&gt;
+&lt;!-- ![](/img/tree_root_allocation2_small.jpg) --&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales.png&#34; alt=&#34;MIND Eccellenza across scales&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;key-questions&#34;&gt;Key questions&lt;/h2&gt;
+&lt;p&gt;The functioning and structure of land ecosystems are fundamentally altered by a changing climate, increasing CO2, and altered in nutrient cycling. Yet, we are lacking robust predictions of impacts caused by expected global environmental change. This project addresses a set of key scientific challenges with the aim to develop novel predictive methods based on fundamental ecological principles, and to make use of the widest possible diversity of data streams to inform our predictions.&lt;/p&gt;
+&lt;p&gt;We are trying to answer three key questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Will nutrients limit the land C uptake?&lt;/li&gt;
+&lt;li&gt;What is the sensitivity of ecosystems to drought?&lt;/li&gt;
+&lt;li&gt;How is tree growth and forest dynamics affected by changing resource limitations today?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;allocation-and-resource-limitations&#34;&gt;Allocation and resource limitations&lt;/h2&gt;
+&lt;p&gt;Our primary target is to better understand and model &lt;strong&gt;allocation&lt;/strong&gt;, that is the distribution of carbon assimilated by photosynthesis into growth in different plant organs (foliage, wood, roots), reserves, or export into the soil rhizosphere. Changes in CO2, nutrient, and water availability cause shifts in allocation, which in turn has important repercussions on ecosystem carbon cycling and, if general patterns exist, affects the functioning of the terrestrial biosphere and feeds back to man-made climate change.&lt;/p&gt;
+&lt;p&gt;What we can observe at the small scale (from experiments, forest inventories, flux measurements, etc.) determines what is happening at the global scale. By addressing allocation from all angles, and by systematically integrating models and observational data, MIND targets a better understanding of the controls on allocation and improves our predictive ability to simulate  general patterns in allocation and its response to shifting in resource limitations and how this affects ecoystem dynamics and the terrestrial carbon balance.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_obs.png&#34; alt=&#34;MIND Eccellenza across scales&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;approach&#34;&gt;Approach&lt;/h2&gt;
+&lt;p&gt;We develop new modelling approaches for simulating vegetation functioning and structure, funded in &lt;strong&gt;optimality principles&lt;/strong&gt;. Such principles predict, for example, how allocation and plant traits are governed by the environment under the premise that a given fitness criterion is optimised. Hence, optimality principles serve to simulate how key model parameters vary with the environment, rather than relying on fixed values for a pre-defined set of plant functional types - the common approach followed in first-generation vegetation models.&lt;/p&gt;
+&lt;p&gt;For code development, we work with a new modular vegetation modelling framework (&lt;a href=&#34;stineb.github.io/sofun&#34;&gt;SOFUN&lt;/a&gt;) and with the vegetation demography model &lt;a href=&#34;xxx&#34;&gt;LM3-PPA&lt;/a&gt; (collaboration with Dr. Ensheng Weng, NASA, USA).&lt;/p&gt;
+&lt;p&gt;We are devoted to an open science philosophy. For us, this means that we&amp;rsquo;ll make all code and other outputs&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Findable&lt;/strong&gt; by publishing on &lt;a href=&#34;zenodo.org/stineb&#34;&gt;&lt;em&gt;Zenodo&lt;/em&gt;&lt;/a&gt; and other premanent repositories,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Openly accessible&lt;/strong&gt; through &lt;a href=&#34;github.com/stineb/mindproject&#34;&gt;&lt;em&gt;github&lt;/em&gt;&lt;/a&gt;, and&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reusable&lt;/strong&gt; through free open-source software packages (see for example &lt;a href=&#34;computationales.github.io/rpmodel&#34;&gt;rpmodel&lt;/a&gt;) and comprehensive documentation (see for example &lt;a href=&#34;stineb.github.io/sofun&#34;&gt;SOFUN&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-project&#34;&gt;The project&lt;/h2&gt;
+&lt;p&gt;This project will offer three fully funded positions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One postdoc, 3 years, started 2020&lt;/li&gt;
+&lt;li&gt;Two PhD students, 4 years, started Summer 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;hellip; addressing three objectives:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_projectorg.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;phd-1-the-nature-of-nutrient-limitation&#34;&gt;PhD 1: The nature of nutrient limitation&lt;/h3&gt;
+&lt;p&gt;Research will address three key questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How does optimal allocation affect C and N cycling?&lt;/li&gt;
+&lt;li&gt;How does soil fertility influence the carbon cycle?&lt;/li&gt;
+&lt;li&gt;What controls the rates of N fixation and loss?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_nutrients.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We will use the Global Change Manipulation Experiments database (under development, collaboration with &lt;a href=&#34;https://www.uantwerpen.be/en/staff/sara-vicca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sara Vicca, PLECO, University of Antwerp&lt;/a&gt;) and explore the observational constraints on alternative model formulations for simulating coupled carbon and nitrogen dynamics in terrestrial ecoystems. This work will make important advances on several fronts: Generating fundamental insights into ecosystem dynamics and biogeochemical cycles, exploring new territory in model-data fusion on the basis of observations from manipulation experiments, and developing a reusable and scalable model testbed as the basis of future community-driven model intercomparisons.&lt;/p&gt;
+&lt;h3 id=&#34;phd-2-water-carbon-coupling&#34;&gt;PhD 2: Water-carbon coupling&lt;/h3&gt;
+&lt;p&gt;The following key questions will be addressed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Will water-limited regions continue their greening trend?&lt;/li&gt;
+&lt;li&gt;How can we simulate stomatal and biochemical limitations on photosynthesis during droughts?&lt;/li&gt;
+&lt;li&gt;What is the apparent rooting zone water capacity and how is it controlled by climate and groundwater depth?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will use data from ecosystem flux measurements and remotely sensed green vegetation cover to constrain new modelling approaches that are funded in ecohydrology and plant hydraulics. Research will lay the foundations for extending current-generation vegetation models beyond simulating the water balance in the topsoil: groundwater access and a varying rooting depth across climatic gradients are a key target for our predictions and are important quantities for understanding carbon-water couplings in the Earth system. For this research line, we will collaborate with &lt;a href=&#34;https://www.list.lu/en/research/project/wave/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stan Schymanski (LIST, Luxembourg)&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;postdoc-scaling-from-trees-to-the-forest&#34;&gt;Postdoc: Scaling from trees to the forest&lt;/h3&gt;
+&lt;p&gt;Our target questions are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are forests thickening?&lt;/li&gt;
+&lt;li&gt;How can we estimate forest growth from individual-based data (forest inventories and tree ring records)?&lt;/li&gt;
+&lt;li&gt;How can we combine multiple data streams to detect allocation changes in forests today?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_objectiveC.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;How does climate change alter forest dynamics and what are implications for the global carbon cycle and local ecosystem services? Increasing CO2, trends in nutrient inputs from atmospheric deposition, extending growing seasons and changing drought patterns affect tree growth and forest biomass in myriad ways. One of the open key questions is whether stimulated growth in a high-CO2 world is compensated by an accelerated tree life cycle and higher mortality.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Vor lauter Bäumen den Wald nicht mehr sehen&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;hellip; is a serios challenge (German for &lt;em&gt;Not seeing the wood for the trees&lt;/em&gt;). Our research will find new solutions with a new generation of models and statistical approaches to keep the overview and distill the fundamental mechanisms.&lt;/p&gt;
+&lt;p&gt;Forest inventories and other (typically individual-based) forest datasets hold an enormous amount of information. However, the connection from observable quantities to insights into tree-level processes and how these affect forest dynamics is difficult to make when relying on common statistical approaches. A new generation of Vegetation Demography Models connect a mechanistic resolution of photosynthesis, respiration, growth, and resource limitations with explicit age-structured forest dynamics. This opens new possibilities for combining data with our process-understanding in a Bayesian statistical approach - an opportunity that MIND will make use of.&lt;/p&gt;
+&lt;p&gt;For this research, we will use the LM3-PPA Vegetation Demography Model, in collaboration with &lt;a href=&#34;https://www.giss.nasa.gov/staff/eweng.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ensheng Weng (NASA GISS)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

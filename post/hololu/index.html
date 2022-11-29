@@ -1,0 +1,1456 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: November 29, 2022 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.16f785cdb553c8c4431db6775122af35.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.b9231f75dcc97a371ce6141b4d2aadaf.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Koen Hufkens" />
+
+
+
+
+
+  
+
+<meta name="description" content="Reliable reconstructions of past land-use change are essential to address several key challenges in understanding the role of humans in the Earth’s environmental history. Here we discuss how to integrate our understanding of past carbon cycle changes within constraints of the land carbon budget." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://geco-website.netlify.app/post/hololu/" />
+<link rel="canonical" href="https://geco-website.netlify.app/post/hololu/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="twitter:site" content="@wowchemy" />
+  <meta property="twitter:creator" content="@wowchemy" />
+<meta property="twitter:image" content="https://geco-website.netlify.app/post/hololu/featured.jpg" />
+<meta property="og:site_name" content="Geocomputation and Earth Observation" />
+<meta property="og:url" content="https://geco-website.netlify.app/post/hololu/" />
+<meta property="og:title" content="Contrasting CO2 emissions from different Holocene land-use reconstructions: Does the carbon budget add up? | Geocomputation and Earth Observation" />
+<meta property="og:description" content="Reliable reconstructions of past land-use change are essential to address several key challenges in understanding the role of humans in the Earth’s environmental history. Here we discuss how to integrate our understanding of past carbon cycle changes within constraints of the land carbon budget." /><meta property="og:image" content="https://geco-website.netlify.app/post/hololu/featured.jpg" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2019-01-31T20:02:29&#43;01:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2019-01-31T20:02:29&#43;01:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://geco-website.netlify.app/post/hololu/"
+  },
+  "headline": "Contrasting CO2 emissions from different Holocene land-use reconstructions: Does the carbon budget add up?",
+  
+  "image": [
+    "https://geco-website.netlify.app/post/hololu/featured.jpg"
+  ],
+  
+  "datePublished": "2019-01-31T20:02:29+01:00",
+  "dateModified": "2019-01-31T20:02:29+01:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Koen Hufkens"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Geocomputation and Earth Observation",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Reliable reconstructions of past land-use change are essential to address several key challenges in understanding the role of humans in the Earth’s environmental history. Here we discuss how to integrate our understanding of past carbon cycle changes within constraints of the land carbon budget."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Contrasting CO2 emissions from different Holocene land-use reconstructions: Does the carbon budget add up? | Geocomputation and Earth Observation</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="658cf44a2e84b2d17943a40a073fc463" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.fe8634e7d00f14d07fb33caf14cc8e55.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Geocomputation and Earth Observation</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Geocomputation and Earth Observation</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/tour"><span>About us</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/project"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/data_code"><span>Data & code</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/post"><span>Blog</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/event"><span>Join us</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Contrasting CO2 emissions from different Holocene land-use reconstructions: Does the carbon budget add up?</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 31, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    10 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 354px;">
+  <div style="position: relative">
+    <img src="/post/hololu/featured_huaa745c9ba0768192fd34eb4ca7b44c07_448208_720x2500_fit_q75_h2_lanczos.webp" width="720" height="354" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Reliable reconstructions of past land-use change are essential to address several key challenges in understanding the role of humans in the Earth’s environmental history. Here we discuss how to integrate our understanding of past carbon cycle changes within constraints of the land carbon budget.</p>
+<p><em>(This article was published in the <a href="https://boris.unibe.ch/119602/" target="_blank" rel="noopener">PAGES Magazine Special Issue on Past Land Use and Land Cover Change</a>)</em></p>
+<p>Particular features in the ice-core CO2 and CH4 records have been hypothesized to be linked to the rise and fall of agriculture and societies (Ruddiman 2003) and have been used to serve as stratigraphic markers for the Anthropocene (Lewis and Maslin 2015). The trend reversals in atmospheric CO2 around 7000 yr BP and in CH4 around 5000 yr BP and their continuous increase thereafter have been linked to the expansion of early agriculture, associated deforestation and CO2 emissions, and the establishment of wet rice cultivation with high CH4 emissions. The apparent downturn in atmospheric CO2 after 1500 CE falls into the period following the arrival of Europeans in the Americas and the subsequent dramatic collapse of native populations. However, these proposed hypotheses, claiming a causal link between the history of civilizations and greenhouse gas changes, critically rest on the plausibility of land-use and land-cover change (LULC) reconstructions and the magnitude of associated greenhouse gas emissions.</p>
+<p><strong>Contrasting land use reconstructions</strong></p>
+<p>LULC has reduced the land area covered by forest throughout much of the Holocene. Today, about a third of the Earth’s surface area is — more or less intensively — in use for agriculture. This estimate of modern land use is derived from national statistics and satellite data. However, such precise information is only available for the last few decades. Proxy records of past vegetation cover from pollen recorded in lake sediments or bogs have only just begun to be used for quantitative land cover reconstructions (Editorial, this issue). Instead, reconstructions of past LULC are typically based on estimates of historical population size and assumptions on the per-capita requirement of cropland and pasture area over the Holocene. These values are highly uncertain, and the most widely used land-use reconstructions provide conflicting results (see Harrison et al., this issue).</p>
+<p>Replacement of forests by agricultural land also affects the energy balance at the land surface, reduces evapotranspiration where trees have been replaced by crops and grasses, and increases evapotranspiration where lands are being irrigated. It further increases the surface albedo, especially in northern latitudes when snow is present. This effect has contributed to a cooling in the mid-latitudes that counteracted LULC-induced warming due to greenhouse-gas emissions, and may have exacerbated cold conditions during the Little Ice Age (Betts et al. 2007). Reducing the large uncertainties in reconstructions of past LULC is therefore important to define a reliable land surface forcing as a boundary condition for climate model simulations covering past centuries and millennia and for other earth system simulations that use preindustrial (commonly taken as year 1850) boundary conditions (see also Harrison et al., this issue).</p>
+<p>Land conversion also impacts carbon (C) storage in the soil. The long residence time of soil carbon entails legacy effects of past land use on the land carbon balance, even decades after land conversion. Conflicting land-use reconstructions underpin the ongoing debate about the extent and impact of preindustrial human activities on the carbon cycle and climate. However, there are two constraints that help narrow the range of possible land-use histories in the past (Stocker et al. 2017) and the influence of past LULC on climate and the carbon cycle.</p>
+<p><strong>Constraints on LULC histories</strong></p>
+<p>First, the present-day state of land use and the biomass density of vegetation across space is relatively well-known. The difference between C storage in actual vegetation and in potential natural vegetation is equal to cumulative CO2 emissions from past LULC since the first agriculturalists. Hence, cumulative LULC CO2 emissions are relatively well-constrained, which implies that uncertainty in past LULC emissions becomes mainly a problem of distributing their cumulative total through time. More emissions in distant millennia imply that less is left for the more recent past. Emissions have to converge to within the constrained range of estimates for cumulative emissions. Quantitatively, Stocker et al. (2017) found relatively small differences in cumulative LULC-induced CO2 emissions when applying different LULC histories in their model (Figure 1). However, further research is needed to reduce remaining uncertainty in cumulative emissions and differences between satellite and model-based estimates (Erb et al. 2018).</p>
+<p>The second constraint comes from the total C budget of the terrestrial biosphere. Ice-core data on past CO2 concentrations and carbon-isotopic composition have been successfully used to reconstruct the net C balance of the land biosphere, as well as the C balance of the ocean (Elsig et al. 2009). Knowing all natural contributions to land C inventory changes, we can isolate anthropogenic sources by difference. Despite imperfect knowledge on C sources and sinks from all ecosystems, this approach provides a way to integrate our understanding of past C cycle changes within the budget constraint. Two examples below illustrate this point.</p>
+<p><strong>Unprecedented terrestrial C release after 1850 CE: very likely anthropogenic</strong></p>
+<p>During the period 1850-1920 CE, ice-core data suggest a substantial terrestrial C source of 45 PgC in total. This is on average 0.64 PgC/yr, or around half the current annual CO2 emissions from modern LULC and by far the most rapid land C balance change ever recorded in all preceding periods of the Holocene. Is this the anthropogenic signal? One reconstruction of past LULC (HYDE 3.2) suggests emissions that fall right into the same magnitude as this apparent land C source (Figure 1). The alternative reconstruction (KK10) suggests a much larger land area under use in 1850 CE than HYDE 3.2. This necessarily leaves less room for further land-use expansion after that and resulting emissions cannot explain the net C source derived from the ice-core data. Additional natural C loss from land in response to the slight warming trend was likely counteracted by the fertilising effect of slowly rising CO2 between 1850 and 1920 CE, assuming that our estimates of these feedback strengths are accurate. Taken together, the land C budget suggests that the KK10 scenario, featuring extensive deforestation before 1850 CE, leaves a C source of 31 PgC unexplained and therefore appears less likely than a more moderate extent of pre-1850 CE deforestation as suggested by HYDE 3.2. However, KK10 is more in line with pollen-based quantitative vegetation reconstructions in northwestern Europe (Kaplan et al. 2017) than HYDE 3.2. Nonetheless, these considerations of the land C budget and timing of emissions illustrate the relevance of improving preindustrial land-use reconstructions to understand terrestrial C sources and sinks and climate-carbon cycle feedbacks also in the most recent decades.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/img/holoLU_fig1.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><em>Fig. 1 (a) Time series of global total land area under agricultural land use for HYDE and KK10 (total of pasture and croplands in HYDE 3.2). The time axis is broken at 1700 CE, showing a different scale before (ka = 1000 cal yr BP) and after. Total expansion for the two scenarios between 1850 and 1920 CE is illustrated by arrows on the right. (b) The terrestrial C budget for the period 1850 to 1920 CE. Cumulative CO2 emissions from LULC for HYDE 3.2 (magenta) match within uncertainties the total terrestrial C stock change inferred from the atmospheric CO2 record (green), whereas LULC emissions for KK10 (cyan) are much smaller. C uptake by peat (blue) is small. LULC emissions are from simulations with the LPX-Bern vegetation model (Stocker et al. 2017).</em></p>
+<p>Ice-core CO2 and its isotopic composition suggest no significant change in terrestrial C storage between 5 and 3 ka BP. Could large anthropogenic emissions have been masked by an equally large and contemporaneous natural C sink? Indeed, the build-up of northern peatlands, initiated after ice-age conditions, was a major C sink at these time scales. Through large-scale data synthesis (Loisel et al. 2014) and global modelling (Stocker et al., 2014), it is now possible to estimate the C sequestration in peatlands throughout the Holocene. This allows us to subtract their contribution from the total land C balance and reveals a large terrestrial non-peatland C source that must have contributed to the near-neutral land C balance (Figure 2). Can anthropogenic emissions close the budget? Probably not. A comparison of the inferred natural non-peatland C source with LULC emission estimates based on available LULC reconstructions suggests that other still unknown natural sources must have contributed to C cycle changes during this period.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/img/holoLU_fig2.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><em>Fig. 2 Terrestrial C budget in the period 5-3 ka BP. The total terrestrial net change (green) is derived from from ice core CO2 and δ13C data. The difference between the total net change and peat uptake (blue) provides a top-down constraint on the sum of CO2 emissions from LULC and other natural sources (grey bars). LULC emissions are estimated based on two alternative scenarios, HYDE 3.2 (magenta) and KK10 (turquoise).</em></p>
+<p>Other gradual changes in the land C cycle amount to substantial sinks or sources at these long time scales. Examples include permafrost changes, the continuous build-up of soil C after the retreat of ice sheets, biome shifts in response to monsoon weakening in Africa and summer cooling in the boreal zone after the Mid-Holocene. It would be fruitful to specifically target and reduce uncertainties in these less well quantified but important components of the land C cycle through multi-model studies, constrained by data from paleoecological archives. This would allow us to isolate additional components of the terrestrial C budget and further narrow the range of possible land-use histories. This range will additionally be reduced by integrating information from pollen-based vegetation reconstructions and archaeology-based land use characteristics as produced by the PAGES LandCover6k Working Group (<a href="http://www.pages-igbp.org/ini/wg/landcover6k/" target="_blank" rel="noopener">http://www.pages-igbp.org/ini/wg/landcover6k/</a>, see also Editorial and Harrison et al., this issue). The combination of such bottom-up and top-down constraints for the land C budget will improve our understanding of the Earth’s environmental history and the role of humans therein.</p>
+<h2 id="references">References</h2>
+<p>Betts, Richard A., Peter D. Falloon, Kees Klein Goldewijk, and Navin Ramankutty. 2007. “Biogeophysical Effects of Land Use on Climate: Model Simulations of Radiative Forcing and Large-Scale Temperature Change.” Agricultural and Forest Meteorology 142 (2-4):216–33.</p>
+<p>Elsig, Joachim, Jochen Schmitt, Daiana Leuenberger, Robert Schneider, Marc Eyer, Markus Leuenberger, Fortunat Joos, Hubertus Fischer, and Thomas F. Stocker. 2009. “Stable Isotope Constraints on Holocene Carbon Cycle Changes from an Antarctic Ice Core.” Nature 461 (7263):507–10.</p>
+<p>Erb, Karl-Heinz, Thomas Kastner, Christoph Plutzar, Anna Liza S. Bais, Nuno Carvalhais, Tamara Fetzel, Simone Gingrich, et al. 2018. “Unexpectedly Large Impact of Forest Management and Grazing on Global Vegetation Biomass.” Nature 553 (7686):73–76.</p>
+<p>Kaplan, Jed O., Kristen M. Krumhardt, and Niklaus Zimmermann. 2009. “The Prehistoric and Preindustrial Deforestation of Europe.” Quaternary Science Reviews 28 (27-28):3016–34.</p>
+<p>Kaplan, Jed O.; Krumhardt, Kristen M.; Gaillard, Marie-José; Sugita, Shinya; Trondman, Anna-Kari; Fyfe, Ralph; Marquer, Laurent; Mazier, Florence; Nielsen, Anne B. 2017. “Constraining the Deforestation History of Europe: Evaluation of Historical Land Use Scenarios with Pollen-Based Land Cover Reconstructions.” Land 6, (4): 91.</p>
+<p>Klein Goldewijk, Kees. 2016. “A Historical Land Use Data Set for the Holocene, HYDE 3.2.” A Historical Land Use Data Set for the Holocene; HYDE 3.2. DANS. <a href="https://doi.org/10.17026/dans-znk-cfy3" target="_blank" rel="noopener">https://doi.org/10.17026/dans-znk-cfy3</a>.</p>
+<p>Lewis, Simon L., and Mark A. Maslin. 2015. “Defining the Anthropocene.” Nature 519 (7542). Nature Publishing Group:171–80.</p>
+<p>Loisel, J., Z. Yu, D. W. Beilman, P. Camill, J. Alm, M. J. Amesbury, D. Anderson, et al. 2014. “A Database and Synthesis of Northern Peatland Soil Properties and Holocene Carbon and Nitrogen Accumulation.” Holocene 24 (9):1028–42.</p>
+<p>Ruddiman, Wf. 2003. “The Anthropogenic Greenhouse Era Began Thousands of Years Ago.” Climatic Change 61:261–93.</p>
+<p>Stocker, B. D., R. Spahni, and F. Joos. 2014. “DYPTOP: A Cost-Efficient TOPMODEL Implementation to Simulate Sub-Grid Spatio-Temporal Dynamics of Global Wetlands and Peatlands.” Geoscientific Model Development 7 (6):3089–3110.</p>
+<p>Stocker, Benjamin David, Zicheng Yu, Charly Massa, and Fortunat Joos. 2017. “Holocene Peatland and Ice-Core Data Constraints on the Timing and Magnitude of CO2 Emissions from Past Land Use.” Proceedings of the National Academy of Sciences 114 (7):1492–97</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgeco-website.netlify.app%2Fpost%2Fhololu%2F&amp;text=Contrasting&#43;CO2&#43;emissions&#43;from&#43;different&#43;Holocene&#43;land-use&#43;reconstructions%3A&#43;Does&#43;the&#43;carbon&#43;budget&#43;add&#43;up%3F" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fgeco-website.netlify.app%2Fpost%2Fhololu%2F&amp;t=Contrasting&#43;CO2&#43;emissions&#43;from&#43;different&#43;Holocene&#43;land-use&#43;reconstructions%3A&#43;Does&#43;the&#43;carbon&#43;budget&#43;add&#43;up%3F" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Contrasting%20CO2%20emissions%20from%20different%20Holocene%20land-use%20reconstructions%3A%20Does%20the%20carbon%20budget%20add%20up%3F&amp;body=https%3A%2F%2Fgeco-website.netlify.app%2Fpost%2Fhololu%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fgeco-website.netlify.app%2Fpost%2Fhololu%2F&amp;title=Contrasting&#43;CO2&#43;emissions&#43;from&#43;different&#43;Holocene&#43;land-use&#43;reconstructions%3A&#43;Does&#43;the&#43;carbon&#43;budget&#43;add&#43;up%3F" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Contrasting&#43;CO2&#43;emissions&#43;from&#43;different&#43;Holocene&#43;land-use&#43;reconstructions%3A&#43;Does&#43;the&#43;carbon&#43;budget&#43;add&#43;up%3F%20https%3A%2F%2Fgeco-website.netlify.app%2Fpost%2Fhololu%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fgeco-website.netlify.app%2Fpost%2Fhololu%2F&amp;title=Contrasting&#43;CO2&#43;emissions&#43;from&#43;different&#43;Holocene&#43;land-use&#43;reconstructions%3A&#43;Does&#43;the&#43;carbon&#43;budget&#43;add&#43;up%3F" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/koen-hufkens/"><img class="avatar mr-3 avatar-circle" src="/author/koen-hufkens/avatar_huf35ada2787cfa57665e57b84210ffc9c_31472_270x270_fill_q75_lanczos_center.jpg" alt="Koen Hufkens"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/koen-hufkens/">Koen Hufkens</a></h5>
+      <h6 class="card-subtitle">Senior Scientist</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/koen.hufkens@giub.unibe.ch" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/koen_hufkens" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=3ZD7sagAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/bluegreen-labs" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<p class="powered-by">
+  
+  <a href="/privacy/">Privacy Policy</a>
+  
+  
+   &middot; 
+  <a href="/terms/">Terms</a>
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.e8ee06ba8371980ffde659871dd593b0.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

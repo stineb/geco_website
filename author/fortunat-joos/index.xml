@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fortunat Joos | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/fortunat-joos/</link>
+      <atom:link href="https://geco-website.netlify.app/author/fortunat-joos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fortunat Joos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Fortunat Joos</title>
+      <link>https://geco-website.netlify.app/author/fortunat-joos/</link>
+    </image>
+    
+    <item>
+      <title>No support for carbon storage of &gt;1,000 GtC in northern peatlands</title>
+      <link>https://geco-website.netlify.app/publication/yu-21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/yu-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No support for carbon storage of more than 1000 GtC in northern peatlands</title>
+      <link>https://geco-website.netlify.app/publication/yu-19-arxiv/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/yu-19-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holocene peatland and ice-core data constraints on the timing and magnitude of CO2 emissions from past land use</title>
+      <link>https://geco-website.netlify.app/publication/stocker-17-pnas/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-17-pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Past and future carbon fluxes from land use change, shifting cultivation and wood harvest</title>
+      <link>https://geco-website.netlify.app/publication/stocker-14-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-14-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple greenhouse-gas feedbacks from the land biosphere under future climate change scenarios</title>
+      <link>https://geco-website.netlify.app/publication/stocker-13-natcc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/stocker-13-natcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble reconstruction constraints on the global carbon cycle sensitivity to climate</title>
+      <link>https://geco-website.netlify.app/publication/frank-10-nat/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/frank-10-nat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

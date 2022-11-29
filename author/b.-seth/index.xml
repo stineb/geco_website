@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Seth | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/b.-seth/</link>
+      <atom:link href="https://geco-website.netlify.app/author/b.-seth/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Seth</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>B. Seth</title>
+      <link>https://geco-website.netlify.app/author/b.-seth/</link>
+    </image>
+    
+    <item>
+      <title>ḩemN_2O changes from the Last Glacial Maximum to the preindustrial -- Part 1: Quantitative reconstruction of terrestrial and marine emissions using ȩmN_2O stable isotopes in ice cores</title>
+      <link>https://geco-website.netlify.app/publication/fischer-19-bgd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/fischer-19-bgd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N2O changes from the Last Glacial Maximum to the preindustrial -- Part 1: Quantitative reconstruction of terrestrial and marine emissions using N2O stable isotopes in ice cores</title>
+      <link>https://geco-website.netlify.app/publication/fischer-19-bg/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/fischer-19-bg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

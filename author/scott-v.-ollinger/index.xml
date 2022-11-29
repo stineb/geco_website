@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott V. Ollinger | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/scott-v.-ollinger/</link>
+      <atom:link href="https://geco-website.netlify.app/author/scott-v.-ollinger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott V. Ollinger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Scott V. Ollinger</title>
+      <link>https://geco-website.netlify.app/author/scott-v.-ollinger/</link>
+    </image>
+    
+    <item>
+      <title>Disentangling the role of photosynthesis and stomatal conductance on rising forest water-use efficiency</title>
+      <link>https://geco-website.netlify.app/publication/guerrieri-19-pnas/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/guerrieri-19-pnas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

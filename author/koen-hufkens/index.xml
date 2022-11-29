@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koen Hufkens | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/koen-hufkens/</link>
+      <atom:link href="https://geco-website.netlify.app/author/koen-hufkens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Koen Hufkens</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/author/koen-hufkens/avatar_huf35ada2787cfa57665e57b84210ffc9c_31472_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Koen Hufkens</title>
+      <link>https://geco-website.netlify.app/author/koen-hufkens/</link>
+    </image>
+    
+    <item>
+      <title>Acclimation of phenology relieves leaf longevity constraints in deciduous forests</title>
+      <link>https://geco-website.netlify.app/publication/marques-22-biorxiv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/marques-22-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for satellite image forecasting of vegetation greenness</title>
+      <link>https://geco-website.netlify.app/publication/kladny-22-biorxiv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/kladny-22-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ingestr v1.3: R package for environmental data  ingest</title>
+      <link>https://geco-website.netlify.app/publication/ingestr/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/ingestr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stineb/rpmodel: v1.2.0 Vectorization fixed.  Refactored code.</title>
+      <link>https://geco-website.netlify.app/publication/rpmodel/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/rpmodel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
