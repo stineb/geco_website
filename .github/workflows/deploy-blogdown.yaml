@@ -28,6 +28,10 @@ jobs:
 
       - uses: r-lib/actions/setup-renv@v2
 
+      - name: Install rmarkdown and blogdown
+        run: install.packages(c("rmarkdown","blogdown"), repos = "http://cran.rstudio.com/")
+        shell: Rscript {0}
+
       - name: Install hugo
         run: blogdown::install_hugo()
         shell: Rscript {0}
