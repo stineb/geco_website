@@ -104,6 +104,8 @@
       {{ $i18n = "more_talks" }}
     {{ else if eq $items_type "publication" }}
       {{ $i18n = "more_publications" }}
+    {{ else if eq $items_type "project" }}
+      {{ $i18n = "more_projects" }}
     {{ else }}
       {{ $i18n = "more_pages" }}
     {{ end }}

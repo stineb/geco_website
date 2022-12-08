@@ -130,6 +130,9 @@
 
 - id: more_publications
   translation: See all publications
+  
+- id: more_projects
+  translation: See all projects
 
 # Contact widget
 
