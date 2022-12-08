@@ -1,9 +1,12 @@
 ---
 title: Research
-# Files in this folder represent a Widget Page
-type: widget_page
+subtitle:
+widget: blank
+headless: true
+weight: 1
+design:
+  columns: '1'
 ---
-
 Research in the GECO group takes place at the intersection of Earth system science, terrestrial ecology, biogeochemistry, hydrology, and data science and is carried out along the following lines:
 
 #### Developing data-driven methods to detect and predict impacts of climate extremes and patterns of vegetation-atmosphere exchange of water and CO2.
