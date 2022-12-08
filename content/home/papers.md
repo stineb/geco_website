@@ -5,7 +5,7 @@ headless: true
 weight: 30
 
 title: Featured Publications
-subtitle: Our most recent papers
+subtitle:
   
 content:
   count: 3

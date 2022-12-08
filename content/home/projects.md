@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 40
+weight: 15
 
-title: Recent Posts
+title: Research Projects
 subtitle:
 
 content:
@@ -17,7 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: post
+  page_type: project
 design:
   view: 5
   columns: '2'

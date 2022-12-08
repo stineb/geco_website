@@ -11,7 +11,6 @@ title: |
   and Earth Observation
 subtitle: |
   Institute of Geography, University of Bern
-hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -21,6 +20,8 @@ design:
 ---
 
 <br>
+
+The GECO Group is a research group at the University of Bern, that belongs to the Insitute of Geography and the Oeschger Center for Climate Research. 
 
 We are a team of researchers driven by our curiosity to understand how the terrestrial biosphere operates. 
 
