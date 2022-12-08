@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunpeng Luo | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/yunpeng-luo/</link>
+      <atom:link href="https://geco-website.netlify.app/author/yunpeng-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yunpeng Luo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-website.netlify.app/author/yunpeng-luo/avatar_hu8dfae6a8a2ea6262af5443b5f66d000b_3814858_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yunpeng Luo</title>
+      <link>https://geco-website.netlify.app/author/yunpeng-luo/</link>
+    </image>
+    
+  </channel>
+</rss>

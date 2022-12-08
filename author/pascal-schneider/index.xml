@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pascal Schneider | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/pascal-schneider/</link>
+      <atom:link href="https://geco-website.netlify.app/author/pascal-schneider/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pascal Schneider</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-website.netlify.app/author/pascal-schneider/avatar_hu90b50fac7222b9fc2af4d504f83ab02c_488611_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pascal Schneider</title>
+      <link>https://geco-website.netlify.app/author/pascal-schneider/</link>
+    </image>
+    
+  </channel>
+</rss>

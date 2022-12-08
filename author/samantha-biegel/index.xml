@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samantha Biegel | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/samantha-biegel/</link>
+      <atom:link href="https://geco-website.netlify.app/author/samantha-biegel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samantha Biegel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-website.netlify.app/author/samantha-biegel/avatar_hud12ecade8210500a550d1a6b9368262f_25568_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Samantha Biegel</title>
+      <link>https://geco-website.netlify.app/author/samantha-biegel/</link>
+    </image>
+    
+  </channel>
+</rss>

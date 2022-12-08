@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinfeng Chang | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/jinfeng-chang/</link>
+      <atom:link href="https://geco-website.netlify.app/author/jinfeng-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinfeng Chang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 14:25:03 +0200</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <title>Jinfeng Chang</title>
+      <link>https://geco-website.netlify.app/author/jinfeng-chang/</link>
+    </image>
+    
+    <item>
+      <title>A strong mitigation scenario maintains climate neutrality of northern peatlands</title>
+      <link>https://geco-website.netlify.app/publication/qiu-22-oneearth/</link>
+      <pubDate>Sat, 17 Sep 2022 14:25:03 +0200</pubDate>
+      <guid>https://geco-website.netlify.app/publication/qiu-22-oneearth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

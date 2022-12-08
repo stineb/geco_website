@@ -2,7 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://geco-website.netlify.app/authors/</loc>
+    <lastmod>2022-11-17T17:17:30+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/post/</loc>
+    <lastmod>2022-11-17T17:17:30+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-website.netlify.app/</loc>
+    <lastmod>2022-11-17T17:17:30+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/post/better-science/</loc>
+    <lastmod>2022-11-17T17:17:30+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/pepa-aran/</loc>
+    <lastmod>2022-11-17T17:17:30+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/publication-type/2/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/benjamin-d.-stocker/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/tag/chile/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/evan-miles/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/fabienne-meier/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/francesca-pellicciotti/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/publication/mccarthy-22/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/tag/glaciers/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/ines-dussaillant/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/tag/megadrought/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/michael-mccarthy/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/publication_types/</loc>
     <lastmod>2022-09-17T14:25:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -10,16 +74,160 @@
     <lastmod>2022-09-17T14:25:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://geco-website.netlify.app/author/simone-fatichi/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/tag/streamflow/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/tag/sustainability/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/tags/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/thomas-e.-shaw/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/tag/water-supply/</loc>
+    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-website.netlify.app/publication/qiu-22-oneearth/</loc>
     <lastmod>2022-09-17T14:25:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-website.netlify.app/publication-type/2/</loc>
+    <loc>https://geco-website.netlify.app/author/a.-britta-k.-sannel/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/adrian-gustafson/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/angela-v.-gallego-sala/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/ashley-ballantyne/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/benjamin-smith/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/bertrand-guenet/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/chunjing-qiu/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/dan-j.-charman/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/dan-zhu/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/david-w%5Caarlind/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/elodie-salmon/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/fortunat-joos/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/guy-schurgers/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/jinfeng-chang/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/joseph-holden/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/jurek-m%5Culler/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/min-jung-kwon/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/narasinha-j.-shurpali/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/nitin-chaudhary/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/paul-a.-miller/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/philippe-ciais/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-website.netlify.app/authors/</loc>
-    <lastmod>2022-09-17T14:25:46+02:00</lastmod>
+    <loc>https://geco-website.netlify.app/author/ronny-lauerwald/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/sebastian-westermann/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/shushi-peng/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/simon-c.-brewer/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/susan-page/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/thomas-gasser/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/thomas-kleinen/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/victor-brovkin/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/wenxin-zhang/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/xinyu-li/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/yi-xi/</loc>
+    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-website.netlify.app/author/b.-d.-stocker/</loc>
@@ -48,10 +256,6 @@
   </url><url>
     <loc>https://geco-website.netlify.app/author/n.-g.-smith/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-website.netlify.app/publication_types/</loc>
-    <lastmod>2022-09-17T14:25:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-website.netlify.app/publication/keenan-22-nat-retraction/</loc>
@@ -176,10 +380,6 @@
   </url><url>
     <loc>https://geco-website.netlify.app/author/atul-k.-jain/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-website.netlify.app/author/benjamin-d.-stocker/</loc>
-    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-website.netlify.app/author/benjamin-poulter/</loc>
@@ -314,10 +514,6 @@
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-website.netlify.app/author/philippe-ciais/</loc>
-    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-website.netlify.app/author/philippe-peylin/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -359,10 +555,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-website.netlify.app/author/stephen-sitch/</loc>
-    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-website.netlify.app/tags/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -486,10 +678,6 @@
     <lastmod>2021-09-25T10:12:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-website.netlify.app/author/shushi-peng/</loc>
-    <lastmod>2021-09-25T10:12:42+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-website.netlify.app/author/xu-lian/</loc>
     <lastmod>2021-09-25T10:12:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -602,10 +790,6 @@
     <lastmod>2021-09-25T10:12:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-website.netlify.app/author/fortunat-joos/</loc>
-    <lastmod>2021-09-25T10:12:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-website.netlify.app/author/gustaf-hugelius/</loc>
     <lastmod>2021-09-25T10:12:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -628,14 +812,6 @@
   </url><url>
     <loc>https://geco-website.netlify.app/author/thomas-k.-bauska/</loc>
     <lastmod>2021-09-25T10:12:37+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-website.netlify.app/author/thomas-kleinen/</loc>
-    <lastmod>2021-09-25T10:12:39+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-website.netlify.app/author/victor-brovkin/</loc>
-    <lastmod>2021-09-25T10:12:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-website.netlify.app/author/zicheng-yu/</loc>
@@ -1136,10 +1312,6 @@
   </url><url>
     <loc>https://geco-website.netlify.app/publication/gpp-pmodel/</loc>
     <lastmod>2021-09-25T10:12:39+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-website.netlify.app/post/</loc>
-    <lastmod>2019-05-13T23:19:08-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-website.netlify.app/post/lsd/</loc>
@@ -1998,10 +2170,6 @@
     <lastmod>2021-09-25T10:12:41+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-website.netlify.app/author/angela-v.-gallego-sala/</loc>
-    <lastmod>2021-09-25T10:12:41+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-website.netlify.app/author/b.d.-stocker/</loc>
     <lastmod>2021-09-25T10:12:40+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2618,10 +2786,6 @@
     <lastmod>2021-09-25T10:12:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-website.netlify.app/author/benjamin-smith/</loc>
-    <lastmod>2021-09-25T10:12:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-website.netlify.app/author/c.-alden/</loc>
     <lastmod>2021-09-25T10:12:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2728,10 +2892,6 @@
   </url><url>
     <loc>https://geco-website.netlify.app/publication/lequere-15-gcp-15/</loc>
     <lastmod>2021-09-25T10:12:43+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-website.netlify.app/author/guy-schurgers/</loc>
-    <lastmod>2021-09-25T10:12:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-website.netlify.app/author/h.-nijavalli-ravindranath/</loc>
@@ -3313,10 +3473,19 @@
     <loc>https://geco-website.netlify.app/author/keenan-trevor-f./</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-website.netlify.app/author/pepa-aran/</loc>
+    <loc>https://geco-website.netlify.app/author/pascal-schneider/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/samantha-biegel/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-website.netlify.app/author/seneviratne-sonia-i./</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/yunke-peng/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-website.netlify.app/author/yunpeng-luo/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-website.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>

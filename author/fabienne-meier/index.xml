@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabienne Meier | Geocomputation and Earth Observation</title>
+    <link>https://geco-website.netlify.app/author/fabienne-meier/</link>
+      <atom:link href="https://geco-website.netlify.app/author/fabienne-meier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabienne Meier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 12:25:45 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <title>Fabienne Meier</title>
+      <link>https://geco-website.netlify.app/author/fabienne-meier/</link>
+    </image>
+    
+    <item>
+      <title>Glacier contributions to river discharge during the current Chilean megadrought</title>
+      <link>https://geco-website.netlify.app/publication/mccarthy-22/</link>
+      <pubDate>Sat, 17 Sep 2022 12:25:45 +0000</pubDate>
+      <guid>https://geco-website.netlify.app/publication/mccarthy-22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
