@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Vander Linden | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/m.-vander-linden/</link>
-      <atom:link href="https://geco-website.netlify.app/author/m.-vander-linden/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/m.-vander-linden/</link>
+      <atom:link href="https://geco-group.org/author/m.-vander-linden/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Vander Linden</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>M. Vander Linden</title>
-      <link>https://geco-website.netlify.app/author/m.-vander-linden/</link>
+      <link>https://geco-group.org/author/m.-vander-linden/</link>
     </image>
     
     <item>
       <title>Development and testing scenarios for implementing land use and land cover changes during the Holocene in Earth system model experiments</title>
-      <link>https://geco-website.netlify.app/publication/harrison-20-gmd/</link>
+      <link>https://geco-group.org/publication/harrison-20-gmd/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/harrison-20-gmd/</guid>
+      <guid>https://geco-group.org/publication/harrison-20-gmd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and testing of scenarios for implementing Holocene LULC in Earth System Model Experiments</title>
-      <link>https://geco-website.netlify.app/publication/harrison-19-gmdd/</link>
+      <link>https://geco-group.org/publication/harrison-19-gmdd/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/harrison-19-gmdd/</guid>
+      <guid>https://geco-group.org/publication/harrison-19-gmdd/</guid>
       <description></description>
     </item>
     

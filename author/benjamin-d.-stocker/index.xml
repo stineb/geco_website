@@ -2,237 +2,237 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin D. Stocker | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/benjamin-d.-stocker/</link>
-      <atom:link href="https://geco-website.netlify.app/author/benjamin-d.-stocker/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/benjamin-d.-stocker/</link>
+      <atom:link href="https://geco-group.org/author/benjamin-d.-stocker/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin D. Stocker</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 12:25:45 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>Benjamin D. Stocker</title>
-      <link>https://geco-website.netlify.app/author/benjamin-d.-stocker/</link>
+      <link>https://geco-group.org/author/benjamin-d.-stocker/</link>
     </image>
     
     <item>
       <title>Glacier contributions to river discharge during the current Chilean megadrought</title>
-      <link>https://geco-website.netlify.app/publication/mccarthy-22/</link>
+      <link>https://geco-group.org/publication/mccarthy-22/</link>
       <pubDate>Sat, 17 Sep 2022 12:25:45 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/mccarthy-22/</guid>
+      <guid>https://geco-group.org/publication/mccarthy-22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A strong mitigation scenario maintains climate neutrality of northern peatlands</title>
-      <link>https://geco-website.netlify.app/publication/qiu-22-oneearth/</link>
+      <link>https://geco-group.org/publication/qiu-22-oneearth/</link>
       <pubDate>Sat, 17 Sep 2022 14:25:03 +0200</pubDate>
-      <guid>https://geco-website.netlify.app/publication/qiu-22-oneearth/</guid>
+      <guid>https://geco-group.org/publication/qiu-22-oneearth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acclimation of phenology relieves leaf longevity constraints in deciduous forests</title>
-      <link>https://geco-website.netlify.app/publication/marques-22-biorxiv/</link>
+      <link>https://geco-group.org/publication/marques-22-biorxiv/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/marques-22-biorxiv/</guid>
+      <guid>https://geco-group.org/publication/marques-22-biorxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep learning for satellite image forecasting of vegetation greenness</title>
-      <link>https://geco-website.netlify.app/publication/kladny-22-biorxiv/</link>
+      <link>https://geco-group.org/publication/kladny-22-biorxiv/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/kladny-22-biorxiv/</guid>
+      <guid>https://geco-group.org/publication/kladny-22-biorxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Greening of the Earth and its drivers</title>
-      <link>https://geco-website.netlify.app/publication/zhu-16/</link>
+      <link>https://geco-group.org/publication/zhu-16/</link>
       <pubDate>Sat, 25 Sep 2021 08:12:42 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/zhu-16/</guid>
+      <guid>https://geco-group.org/publication/zhu-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global distribution of the rooting zone water storage capacity reflects plant adaptation to the environment</title>
-      <link>https://geco-website.netlify.app/publication/stocker-21-biorxiv/</link>
+      <link>https://geco-group.org/publication/stocker-21-biorxiv/</link>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/stocker-21-biorxiv/</guid>
+      <guid>https://geco-group.org/publication/stocker-21-biorxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SCWDX80 and zCWDX80</title>
-      <link>https://geco-website.netlify.app/publication/scwdx-80/</link>
+      <link>https://geco-group.org/publication/scwdx-80/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/scwdx-80/</guid>
+      <guid>https://geco-group.org/publication/scwdx-80/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The global distribution and environmental drivers of aboveground versus belowground plant biomass</title>
-      <link>https://geco-website.netlify.app/publication/ma-2021-natee/</link>
+      <link>https://geco-group.org/publication/ma-2021-natee/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/ma-2021-natee/</guid>
+      <guid>https://geco-group.org/publication/ma-2021-natee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>No support for carbon storage of &gt;1,000 GtC in northern peatlands</title>
-      <link>https://geco-website.netlify.app/publication/yu-21/</link>
+      <link>https://geco-group.org/publication/yu-21/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/yu-21/</guid>
+      <guid>https://geco-group.org/publication/yu-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eco-evolutionary optimality as a means to improve vegetation and land-surface models</title>
-      <link>https://geco-website.netlify.app/publication/harrison-21-newphyt/</link>
+      <link>https://geco-group.org/publication/harrison-21-newphyt/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/harrison-21-newphyt/</guid>
+      <guid>https://geco-group.org/publication/harrison-21-newphyt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photosynthetic acclimation and sensitivity to short- and long-term environmental changes</title>
-      <link>https://geco-website.netlify.app/publication/schoenbeck-21-newphyt/</link>
+      <link>https://geco-group.org/publication/schoenbeck-21-newphyt/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/schoenbeck-21-newphyt/</guid>
+      <guid>https://geco-group.org/publication/schoenbeck-21-newphyt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Organizing principles for vegetation dynamics</title>
-      <link>https://geco-website.netlify.app/publication/franklin-20-natplants/</link>
+      <link>https://geco-group.org/publication/franklin-20-natplants/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/franklin-20-natplants/</guid>
+      <guid>https://geco-group.org/publication/franklin-20-natplants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a unified theory of plant photosynthesis and hydraulics</title>
-      <link>https://geco-website.netlify.app/publication/joshi-20-bioarxiv/</link>
+      <link>https://geco-group.org/publication/joshi-20-bioarxiv/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/joshi-20-bioarxiv/</guid>
+      <guid>https://geco-group.org/publication/joshi-20-bioarxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangling the role of photosynthesis and stomatal conductance on rising forest water-use efficiency</title>
-      <link>https://geco-website.netlify.app/publication/guerrieri-19-pnas/</link>
+      <link>https://geco-group.org/publication/guerrieri-19-pnas/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/guerrieri-19-pnas/</guid>
+      <guid>https://geco-group.org/publication/guerrieri-19-pnas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drought impacts on terrestrial primary production underestimated by satellite monitoring</title>
-      <link>https://geco-website.netlify.app/publication/stocker-19-natgeo/</link>
+      <link>https://geco-group.org/publication/stocker-19-natgeo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/stocker-19-natgeo/</guid>
+      <guid>https://geco-group.org/publication/stocker-19-natgeo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass</title>
-      <link>https://geco-website.netlify.app/publication/terrer-19-natcc/</link>
+      <link>https://geco-group.org/publication/terrer-19-natcc/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/terrer-19-natcc/</guid>
+      <guid>https://geco-group.org/publication/terrer-19-natcc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass</title>
-      <link>https://geco-website.netlify.app/publication/terrer-19/</link>
+      <link>https://geco-group.org/publication/terrer-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/terrer-19/</guid>
+      <guid>https://geco-group.org/publication/terrer-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial variance of spring phenology in temperate deciduous forests is constrained by background climatic conditions</title>
-      <link>https://geco-website.netlify.app/publication/peaucelle-19-natcomm/</link>
+      <link>https://geco-group.org/publication/peaucelle-19-natcomm/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/peaucelle-19-natcomm/</guid>
+      <guid>https://geco-group.org/publication/peaucelle-19-natcomm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecosystem responses to elevated CO2 governed by plant–soil interactions and the cost of nitrogen acquisition</title>
-      <link>https://geco-website.netlify.app/publication/terrer-18-newphyt/</link>
+      <link>https://geco-group.org/publication/terrer-18-newphyt/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/terrer-18-newphyt/</guid>
+      <guid>https://geco-group.org/publication/terrer-18-newphyt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying soil moisture impacts on light use efficiency across biomes</title>
-      <link>https://geco-website.netlify.app/publication/stocker-18-nphyt/</link>
+      <link>https://geco-group.org/publication/stocker-18-nphyt/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/stocker-18-nphyt/</guid>
+      <guid>https://geco-group.org/publication/stocker-18-nphyt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Response to Comment on “Mycorrhizal association as a primary control of the CO2 fertilization effect”</title>
-      <link>https://geco-website.netlify.app/publication/terrer-17-sci/</link>
+      <link>https://geco-group.org/publication/terrer-17-sci/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/terrer-17-sci/</guid>
+      <guid>https://geco-group.org/publication/terrer-17-sci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple process-led algorithms for simulating habitats (SPLASH v.1.0): robust indices of radiation, evapotranspiration and plant-available moisture</title>
-      <link>https://geco-website.netlify.app/publication/davis-17-gmd/</link>
+      <link>https://geco-group.org/publication/davis-17-gmd/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/davis-17-gmd/</guid>
+      <guid>https://geco-group.org/publication/davis-17-gmd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Precipitation and carbon-water coupling jointly control the interannual variability of global land gross primary production</title>
-      <link>https://geco-website.netlify.app/publication/yao-16/</link>
+      <link>https://geco-group.org/publication/yao-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/yao-16/</guid>
+      <guid>https://geco-group.org/publication/yao-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regional carbon fluxes from land use and land cover change in Asia, 1980-2009</title>
-      <link>https://geco-website.netlify.app/publication/calle-16/</link>
+      <link>https://geco-group.org/publication/calle-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/calle-16/</guid>
+      <guid>https://geco-group.org/publication/calle-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terrestrial nitrogen cycling in Earth system models revisited</title>
-      <link>https://geco-website.netlify.app/publication/stocker-16-newphyt/</link>
+      <link>https://geco-group.org/publication/stocker-16-newphyt/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/stocker-16-newphyt/</guid>
+      <guid>https://geco-group.org/publication/stocker-16-newphyt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconciling Precipitation with Runoff: Observed Hydrological Change in the Midlatitudes</title>
-      <link>https://geco-website.netlify.app/publication/osborne-15/</link>
+      <link>https://geco-group.org/publication/osborne-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/osborne-15/</guid>
+      <guid>https://geco-group.org/publication/osborne-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The dominant role of semi-arid ecosystems in the trend and variability of the land CO2 sink</title>
-      <link>https://geco-website.netlify.app/publication/ahlstroem-15/</link>
+      <link>https://geco-group.org/publication/ahlstroem-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/ahlstroem-15/</guid>
+      <guid>https://geco-group.org/publication/ahlstroem-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple greenhouse-gas feedbacks from the land biosphere under future climate change scenarios</title>
-      <link>https://geco-website.netlify.app/publication/stocker-13-natcc/</link>
+      <link>https://geco-group.org/publication/stocker-13-natcc/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/stocker-13-natcc/</guid>
+      <guid>https://geco-group.org/publication/stocker-13-natcc/</guid>
       <description></description>
     </item>
     

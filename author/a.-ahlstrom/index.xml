@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Ahlström | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/a.-ahlstrom/</link>
-      <atom:link href="https://geco-website.netlify.app/author/a.-ahlstrom/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/a.-ahlstrom/</link>
+      <atom:link href="https://geco-group.org/author/a.-ahlstrom/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Ahlström</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>A. Ahlström</title>
-      <link>https://geco-website.netlify.app/author/a.-ahlstrom/</link>
+      <link>https://geco-group.org/author/a.-ahlstrom/</link>
     </image>
     
     <item>
       <title>The global carbon budget 1959-2011</title>
-      <link>https://geco-website.netlify.app/publication/lequere-13-essd/</link>
+      <link>https://geco-group.org/publication/lequere-13-essd/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/lequere-13-essd/</guid>
+      <guid>https://geco-group.org/publication/lequere-13-essd/</guid>
       <description></description>
     </item>
     

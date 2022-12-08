@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W. Anderegg | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/w.-anderegg/</link>
-      <atom:link href="https://geco-website.netlify.app/author/w.-anderegg/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/w.-anderegg/</link>
+      <atom:link href="https://geco-group.org/author/w.-anderegg/index.xml" rel="self" type="application/rss+xml" />
     <description>W. Anderegg</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>W. Anderegg</title>
-      <link>https://geco-website.netlify.app/author/w.-anderegg/</link>
+      <link>https://geco-group.org/author/w.-anderegg/</link>
     </image>
     
     <item>
       <title>Audit of the global carbon budget: estimate errors and their impact on uptake uncertainty</title>
-      <link>https://geco-website.netlify.app/publication/ballantyne-15-bg/</link>
+      <link>https://geco-group.org/publication/ballantyne-15-bg/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/ballantyne-15-bg/</guid>
+      <guid>https://geco-group.org/publication/ballantyne-15-bg/</guid>
       <description></description>
     </item>
     

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin D Stocker | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/benjamin-d-stocker/</link>
-      <atom:link href="https://geco-website.netlify.app/author/benjamin-d-stocker/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/benjamin-d-stocker/</link>
+      <atom:link href="https://geco-group.org/author/benjamin-d-stocker/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin D Stocker</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>Benjamin D Stocker</title>
-      <link>https://geco-website.netlify.app/author/benjamin-d-stocker/</link>
+      <link>https://geco-group.org/author/benjamin-d-stocker/</link>
     </image>
     
     <item>
       <title>Photosynthetic acclimation and sensitivity to short- and long-term environmental changes in a drought-prone forest</title>
-      <link>https://geco-website.netlify.app/publication/schoenbeck-22-jeb/</link>
+      <link>https://geco-group.org/publication/schoenbeck-22-jeb/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/schoenbeck-22-jeb/</guid>
+      <guid>https://geco-group.org/publication/schoenbeck-22-jeb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass (vol 21, pg 561, 2020)</title>
-      <link>https://geco-website.netlify.app/publication/keenan-x-xnat/</link>
+      <link>https://geco-group.org/publication/keenan-x-xnat/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/keenan-x-xnat/</guid>
+      <guid>https://geco-group.org/publication/keenan-x-xnat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass (vol 21, pg 561, 2020)</title>
-      <link>https://geco-website.netlify.app/publication/terrer-20-natcc/</link>
+      <link>https://geco-group.org/publication/terrer-20-natcc/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/terrer-20-natcc/</guid>
+      <guid>https://geco-group.org/publication/terrer-20-natcc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>No support for carbon storage of more than 1000 GtC in northern peatlands</title>
-      <link>https://geco-website.netlify.app/publication/yu-19-arxiv/</link>
+      <link>https://geco-group.org/publication/yu-19-arxiv/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/yu-19-arxiv/</guid>
+      <guid>https://geco-group.org/publication/yu-19-arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPP at FLUXNET Tier 1 sites from P-model</title>
-      <link>https://geco-website.netlify.app/publication/gpp-pmodel/</link>
+      <link>https://geco-group.org/publication/gpp-pmodel/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/gpp-pmodel/</guid>
+      <guid>https://geco-group.org/publication/gpp-pmodel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPP at FLUXNET Tier 1 sites from P-model</title>
-      <link>https://geco-website.netlify.app/publication/pmodel-output-fluxnet-2015-stocker-19-gmd/</link>
+      <link>https://geco-group.org/publication/pmodel-output-fluxnet-2015-stocker-19-gmd/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/pmodel-output-fluxnet-2015-stocker-19-gmd/</guid>
+      <guid>https://geco-group.org/publication/pmodel-output-fluxnet-2015-stocker-19-gmd/</guid>
       <description></description>
     </item>
     

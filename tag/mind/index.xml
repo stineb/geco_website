@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MIND | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/tag/mind/</link>
-      <atom:link href="https://geco-website.netlify.app/tag/mind/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/tag/mind/</link>
+      <atom:link href="https://geco-group.org/tag/mind/index.xml" rel="self" type="application/rss+xml" />
     <description>MIND</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Jan 2019 19:19:32 +0100</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>MIND</title>
-      <link>https://geco-website.netlify.app/tag/mind/</link>
+      <link>https://geco-group.org/tag/mind/</link>
     </image>
     
     <item>
       <title>MIND</title>
-      <link>https://geco-website.netlify.app/project/mind/</link>
+      <link>https://geco-group.org/project/mind/</link>
       <pubDate>Thu, 31 Jan 2019 19:19:32 +0100</pubDate>
-      <guid>https://geco-website.netlify.app/project/mind/</guid>
+      <guid>https://geco-group.org/project/mind/</guid>
       <description>&lt;h2 id=&#34;next-generation-modelling-of-the-biosphere--including-new-data-streams-and-optimality-approaches&#34;&gt;Next-generation modelling of the biosphere – Including new data streams and optimality approaches&lt;/h2&gt;
 &lt;p&gt;My 5-year &lt;em&gt;Eccellenza&lt;/em&gt; Professorial Fellowship, funded by the Swiss National Science Foundation&lt;/p&gt;
 &lt;!-- Professorship for Computational Ecosystem Science, co-hosted at the [Institute of Agricultural Sciences, ETH Zürich](http://www.ias.ethz.ch/) and [Forest Dynamics, WSL Birmensdorf](https://www.wsl.ch/en/about-wsl/research-units/forest-dynamics.html)
@@ -47,7 +47,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales.png&#34; alt=&#34;MIND Eccellenza across scales&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/mind_scales.png&#34; alt=&#34;MIND Eccellenza across scales&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;key-questions&#34;&gt;Key questions&lt;/h2&gt;
@@ -79,7 +79,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_obs.png&#34; alt=&#34;MIND Eccellenza across scales&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/mind_scales_obs.png&#34; alt=&#34;MIND Eccellenza across scales&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;approach&#34;&gt;Approach&lt;/h2&gt;
@@ -116,7 +116,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_projectorg.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/mind_scales_projectorg.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;phd-1-the-nature-of-nutrient-limitation&#34;&gt;PhD 1: The nature of nutrient limitation&lt;/h3&gt;
@@ -144,7 +144,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_nutrients.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/mind_scales_nutrients.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;We will use the Global Change Manipulation Experiments database (under development, collaboration with &lt;a href=&#34;https://www.uantwerpen.be/en/staff/sara-vicca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sara Vicca, PLECO, University of Antwerp&lt;/a&gt;) and explore the observational constraints on alternative model formulations for simulating coupled carbon and nitrogen dynamics in terrestrial ecoystems. This work will make important advances on several fronts: Generating fundamental insights into ecosystem dynamics and biogeochemical cycles, exploring new territory in model-data fusion on the basis of observations from manipulation experiments, and developing a reusable and scalable model testbed as the basis of future community-driven model intercomparisons.&lt;/p&gt;
@@ -181,7 +181,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-website.netlify.app/img/mind_scales_objectiveC.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/mind_scales_objectiveC.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;How does climate change alter forest dynamics and what are implications for the global carbon cycle and local ecosystem services? Increasing CO2, trends in nutrient inputs from atmospheric deposition, extending growing seasons and changing drought patterns affect tree growth and forest biomass in myriad ways. One of the open key questions is whether stimulated growth in a high-CO2 world is compensated by an accelerated tree life cycle and higher mortality.&lt;/p&gt;

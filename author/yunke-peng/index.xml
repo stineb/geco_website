@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yunke Peng | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/yunke-peng/</link>
-      <atom:link href="https://geco-website.netlify.app/author/yunke-peng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/yunke-peng/</link>
+      <atom:link href="https://geco-group.org/author/yunke-peng/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunke Peng</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://geco-website.netlify.app/author/yunke-peng/avatar_hu5e8ce05cc22148a2515e00c28aba8d11_392509_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://geco-group.org/author/yunke-peng/avatar_hu5e8ce05cc22148a2515e00c28aba8d11_392509_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yunke Peng</title>
-      <link>https://geco-website.netlify.app/author/yunke-peng/</link>
+      <link>https://geco-group.org/author/yunke-peng/</link>
     </image>
     
   </channel>

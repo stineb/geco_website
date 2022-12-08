@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I. Colin Prentice | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/i.-colin-prentice/</link>
-      <atom:link href="https://geco-website.netlify.app/author/i.-colin-prentice/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/i.-colin-prentice/</link>
+      <atom:link href="https://geco-group.org/author/i.-colin-prentice/index.xml" rel="self" type="application/rss+xml" />
     <description>I. Colin Prentice</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>I. Colin Prentice</title>
-      <link>https://geco-website.netlify.app/author/i.-colin-prentice/</link>
+      <link>https://geco-group.org/author/i.-colin-prentice/</link>
     </image>
     
     <item>
       <title>Organizing principles for vegetation dynamics</title>
-      <link>https://geco-website.netlify.app/publication/franklin-20-natplants/</link>
+      <link>https://geco-group.org/publication/franklin-20-natplants/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/franklin-20-natplants/</guid>
+      <guid>https://geco-group.org/publication/franklin-20-natplants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drought impacts on terrestrial primary production underestimated by satellite monitoring</title>
-      <link>https://geco-website.netlify.app/publication/stocker-19-natgeo/</link>
+      <link>https://geco-group.org/publication/stocker-19-natgeo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/stocker-19-natgeo/</guid>
+      <guid>https://geco-group.org/publication/stocker-19-natgeo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass</title>
-      <link>https://geco-website.netlify.app/publication/terrer-19-natcc/</link>
+      <link>https://geco-group.org/publication/terrer-19-natcc/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/terrer-19-natcc/</guid>
+      <guid>https://geco-group.org/publication/terrer-19-natcc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass</title>
-      <link>https://geco-website.netlify.app/publication/terrer-19/</link>
+      <link>https://geco-group.org/publication/terrer-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/terrer-19/</guid>
+      <guid>https://geco-group.org/publication/terrer-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecosystem responses to elevated CO2 governed by plant–soil interactions and the cost of nitrogen acquisition</title>
-      <link>https://geco-website.netlify.app/publication/terrer-18-newphyt/</link>
+      <link>https://geco-group.org/publication/terrer-18-newphyt/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/terrer-18-newphyt/</guid>
+      <guid>https://geco-group.org/publication/terrer-18-newphyt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Response to Comment on “Mycorrhizal association as a primary control of the CO2 fertilization effect”</title>
-      <link>https://geco-website.netlify.app/publication/terrer-17-sci/</link>
+      <link>https://geco-group.org/publication/terrer-17-sci/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/terrer-17-sci/</guid>
+      <guid>https://geco-group.org/publication/terrer-17-sci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple process-led algorithms for simulating habitats (SPLASH v.1.0): robust indices of radiation, evapotranspiration and plant-available moisture</title>
-      <link>https://geco-website.netlify.app/publication/davis-17-gmd/</link>
+      <link>https://geco-group.org/publication/davis-17-gmd/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/davis-17-gmd/</guid>
+      <guid>https://geco-group.org/publication/davis-17-gmd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terrestrial nitrogen cycling in Earth system models revisited</title>
-      <link>https://geco-website.netlify.app/publication/stocker-16-newphyt/</link>
+      <link>https://geco-group.org/publication/stocker-16-newphyt/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/stocker-16-newphyt/</guid>
+      <guid>https://geco-group.org/publication/stocker-16-newphyt/</guid>
       <description></description>
     </item>
     

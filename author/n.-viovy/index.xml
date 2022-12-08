@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. Viovy | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/n.-viovy/</link>
-      <atom:link href="https://geco-website.netlify.app/author/n.-viovy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/n.-viovy/</link>
+      <atom:link href="https://geco-group.org/author/n.-viovy/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Viovy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>N. Viovy</title>
-      <link>https://geco-website.netlify.app/author/n.-viovy/</link>
+      <link>https://geco-group.org/author/n.-viovy/</link>
     </image>
     
     <item>
       <title>Global Carbon Budget 2017</title>
-      <link>https://geco-website.netlify.app/publication/lequere-18/</link>
+      <link>https://geco-group.org/publication/lequere-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/lequere-18/</guid>
+      <guid>https://geco-group.org/publication/lequere-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Historical carbon dioxide emissions caused by land-use changes are possibly larger than assumed</title>
-      <link>https://geco-website.netlify.app/publication/arneth-17-natgeo/</link>
+      <link>https://geco-group.org/publication/arneth-17-natgeo/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/arneth-17-natgeo/</guid>
+      <guid>https://geco-group.org/publication/arneth-17-natgeo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Land-use and land-cover change carbon emissions between 1901 and 2012 constrained by biomass observations</title>
-      <link>https://geco-website.netlify.app/publication/li-17-bg/</link>
+      <link>https://geco-group.org/publication/li-17-bg/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/li-17-bg/</guid>
+      <guid>https://geco-group.org/publication/li-17-bg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Carbon Budget 2016</title>
-      <link>https://geco-website.netlify.app/publication/lequere-16/</link>
+      <link>https://geco-group.org/publication/lequere-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/lequere-16/</guid>
+      <guid>https://geco-group.org/publication/lequere-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of CO2, climate and land use in regulating the seasonal amplitude increase of carbon fluxes in terrestrial ecosystems: a multimodel analysis</title>
-      <link>https://geco-website.netlify.app/publication/zhao-16-bg/</link>
+      <link>https://geco-group.org/publication/zhao-16-bg/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/zhao-16-bg/</guid>
+      <guid>https://geco-group.org/publication/zhao-16-bg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global carbon budget 2014</title>
-      <link>https://geco-website.netlify.app/publication/lequere-15-gcp-14/</link>
+      <link>https://geco-group.org/publication/lequere-15-gcp-14/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/lequere-15-gcp-14/</guid>
+      <guid>https://geco-group.org/publication/lequere-15-gcp-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Carbon Budget 2015</title>
-      <link>https://geco-website.netlify.app/publication/lequere-15-gcp-15/</link>
+      <link>https://geco-group.org/publication/lequere-15-gcp-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/lequere-15-gcp-15/</guid>
+      <guid>https://geco-group.org/publication/lequere-15-gcp-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global carbon budget 2013</title>
-      <link>https://geco-website.netlify.app/publication/lequere-14/</link>
+      <link>https://geco-group.org/publication/lequere-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/lequere-14/</guid>
+      <guid>https://geco-group.org/publication/lequere-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The global carbon budget 1959-2011</title>
-      <link>https://geco-website.netlify.app/publication/lequere-13-essd/</link>
+      <link>https://geco-group.org/publication/lequere-13-essd/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/lequere-13-essd/</guid>
+      <guid>https://geco-group.org/publication/lequere-13-essd/</guid>
       <description></description>
     </item>
     

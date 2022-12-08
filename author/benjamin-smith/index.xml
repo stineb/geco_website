@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Smith | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/benjamin-smith/</link>
-      <atom:link href="https://geco-website.netlify.app/author/benjamin-smith/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/benjamin-smith/</link>
+      <atom:link href="https://geco-group.org/author/benjamin-smith/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Smith</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 14:25:03 +0200</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>Benjamin Smith</title>
-      <link>https://geco-website.netlify.app/author/benjamin-smith/</link>
+      <link>https://geco-group.org/author/benjamin-smith/</link>
     </image>
     
     <item>
       <title>A strong mitigation scenario maintains climate neutrality of northern peatlands</title>
-      <link>https://geco-website.netlify.app/publication/qiu-22-oneearth/</link>
+      <link>https://geco-group.org/publication/qiu-22-oneearth/</link>
       <pubDate>Sat, 17 Sep 2022 14:25:03 +0200</pubDate>
-      <guid>https://geco-website.netlify.app/publication/qiu-22-oneearth/</guid>
+      <guid>https://geco-group.org/publication/qiu-22-oneearth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The dominant role of semi-arid ecosystems in the trend and variability of the land CO2 sink</title>
-      <link>https://geco-website.netlify.app/publication/ahlstroem-15/</link>
+      <link>https://geco-group.org/publication/ahlstroem-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/ahlstroem-15/</guid>
+      <guid>https://geco-group.org/publication/ahlstroem-15/</guid>
       <description></description>
     </item>
     

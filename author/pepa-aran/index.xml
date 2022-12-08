@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pepa Arán | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/pepa-aran/</link>
-      <atom:link href="https://geco-website.netlify.app/author/pepa-aran/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/pepa-aran/</link>
+      <atom:link href="https://geco-group.org/author/pepa-aran/index.xml" rel="self" type="application/rss+xml" />
     <description>Pepa Arán</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Nov 2022 17:17:30 +0100</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/author/pepa-aran/avatar_huca6b59e67545ac31ccfe1a70a9ef6c46_104968_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://geco-group.org/author/pepa-aran/avatar_huca6b59e67545ac31ccfe1a70a9ef6c46_104968_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Pepa Arán</title>
-      <link>https://geco-website.netlify.app/author/pepa-aran/</link>
+      <link>https://geco-group.org/author/pepa-aran/</link>
     </image>
     
     <item>
       <title>How the Better Science Initiative is part of the GECO Group</title>
-      <link>https://geco-website.netlify.app/post/better-science/</link>
+      <link>https://geco-group.org/post/better-science/</link>
       <pubDate>Thu, 17 Nov 2022 17:17:30 +0100</pubDate>
-      <guid>https://geco-website.netlify.app/post/better-science/</guid>
+      <guid>https://geco-group.org/post/better-science/</guid>
       <description>&lt;pre&gt;&lt;code&gt;The GECO Group supports the Better Science Initiative. This is what it means for us and how we implement it in our group.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;In this post, we revisit the ten calls to action of the Better Science Initiative and how we interpret and implement them in the GECO Group.&lt;/p&gt;

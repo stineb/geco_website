@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter B Reich | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/peter-b-reich/</link>
-      <atom:link href="https://geco-website.netlify.app/author/peter-b-reich/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/peter-b-reich/</link>
+      <atom:link href="https://geco-group.org/author/peter-b-reich/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter B Reich</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>Peter B Reich</title>
-      <link>https://geco-website.netlify.app/author/peter-b-reich/</link>
+      <link>https://geco-group.org/author/peter-b-reich/</link>
     </image>
     
     <item>
       <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass (vol 21, pg 561, 2020)</title>
-      <link>https://geco-website.netlify.app/publication/keenan-x-xnat/</link>
+      <link>https://geco-group.org/publication/keenan-x-xnat/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/keenan-x-xnat/</guid>
+      <guid>https://geco-group.org/publication/keenan-x-xnat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass (vol 21, pg 561, 2020)</title>
-      <link>https://geco-website.netlify.app/publication/terrer-20-natcc/</link>
+      <link>https://geco-group.org/publication/terrer-20-natcc/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/terrer-20-natcc/</guid>
+      <guid>https://geco-group.org/publication/terrer-20-natcc/</guid>
       <description></description>
     </item>
     

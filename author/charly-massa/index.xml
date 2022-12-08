@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charly Massa | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/charly-massa/</link>
-      <atom:link href="https://geco-website.netlify.app/author/charly-massa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/charly-massa/</link>
+      <atom:link href="https://geco-group.org/author/charly-massa/index.xml" rel="self" type="application/rss+xml" />
     <description>Charly Massa</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>Charly Massa</title>
-      <link>https://geco-website.netlify.app/author/charly-massa/</link>
+      <link>https://geco-group.org/author/charly-massa/</link>
     </image>
     
     <item>
       <title>Holocene peatland and ice-core data constraints on the timing and magnitude of CO2 emissions from past land use</title>
-      <link>https://geco-website.netlify.app/publication/stocker-17-pnas/</link>
+      <link>https://geco-group.org/publication/stocker-17-pnas/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/stocker-17-pnas/</guid>
+      <guid>https://geco-group.org/publication/stocker-17-pnas/</guid>
       <description></description>
     </item>
     

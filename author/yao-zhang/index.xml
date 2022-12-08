@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yao Zhang | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/yao-zhang/</link>
-      <atom:link href="https://geco-website.netlify.app/author/yao-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/yao-zhang/</link>
+      <atom:link href="https://geco-group.org/author/yao-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yao Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>Yao Zhang</title>
-      <link>https://geco-website.netlify.app/author/yao-zhang/</link>
+      <link>https://geco-group.org/author/yao-zhang/</link>
     </image>
     
     <item>
       <title>Precipitation and carbon-water coupling jointly control the interannual variability of global land gross primary production</title>
-      <link>https://geco-website.netlify.app/publication/yao-16/</link>
+      <link>https://geco-group.org/publication/yao-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/yao-16/</guid>
+      <guid>https://geco-group.org/publication/yao-16/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Han Wang | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/author/han-wang/</link>
-      <atom:link href="https://geco-website.netlify.app/author/han-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/author/han-wang/</link>
+      <atom:link href="https://geco-group.org/author/han-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Han Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>Han Wang</title>
-      <link>https://geco-website.netlify.app/author/han-wang/</link>
+      <link>https://geco-group.org/author/han-wang/</link>
     </image>
     
     <item>
       <title>Eco-evolutionary optimality as a means to improve vegetation and land-surface models</title>
-      <link>https://geco-website.netlify.app/publication/harrison-21-newphyt/</link>
+      <link>https://geco-group.org/publication/harrison-21-newphyt/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/harrison-21-newphyt/</guid>
+      <guid>https://geco-group.org/publication/harrison-21-newphyt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Organizing principles for vegetation dynamics</title>
-      <link>https://geco-website.netlify.app/publication/franklin-20-natplants/</link>
+      <link>https://geco-group.org/publication/franklin-20-natplants/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/franklin-20-natplants/</guid>
+      <guid>https://geco-group.org/publication/franklin-20-natplants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple process-led algorithms for simulating habitats (SPLASH v.1.0): robust indices of radiation, evapotranspiration and plant-available moisture</title>
-      <link>https://geco-website.netlify.app/publication/davis-17-gmd/</link>
+      <link>https://geco-group.org/publication/davis-17-gmd/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/davis-17-gmd/</guid>
+      <guid>https://geco-group.org/publication/davis-17-gmd/</guid>
       <description></description>
     </item>
     

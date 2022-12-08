@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;soil moisture&#34; | Geocomputation and Earth Observation</title>
-    <link>https://geco-website.netlify.app/tag/soil-moisture/</link>
-      <atom:link href="https://geco-website.netlify.app/tag/soil-moisture/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geco-group.org/tag/soil-moisture/</link>
+      <atom:link href="https://geco-group.org/tag/soil-moisture/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;soil moisture&#34;</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-website.netlify.app/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
       <title>&#34;soil moisture&#34;</title>
-      <link>https://geco-website.netlify.app/tag/soil-moisture/</link>
+      <link>https://geco-group.org/tag/soil-moisture/</link>
     </image>
     
     <item>
       <title>Quantifying soil moisture impacts on light use efficiency across biomes</title>
-      <link>https://geco-website.netlify.app/publication/stocker-18-nphyt/</link>
+      <link>https://geco-group.org/publication/stocker-18-nphyt/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://geco-website.netlify.app/publication/stocker-18-nphyt/</guid>
+      <guid>https://geco-group.org/publication/stocker-18-nphyt/</guid>
       <description></description>
     </item>
     
