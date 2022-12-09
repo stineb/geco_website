@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2022-11-17T17:17:30+01:00</lastmod>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/post/</loc>
@@ -11,7 +11,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/</loc>
-    <lastmod>2022-11-17T17:17:30+01:00</lastmod>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/post/better-science/</loc>
@@ -23,11 +23,43 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/publication-type/2/</loc>
-    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-d.-stocker/</loc>
-    <lastmod>2022-09-17T14:25:45+02:00</lastmod>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/florian-hofhansl/</loc>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/iain-colin-prentice/</loc>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/jaideep-joshi/</loc>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication_types/</loc>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication/</loc>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/shuangxi-zhou/</loc>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication/joshi-22-natplants/</loc>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/ulf-dieckmann/</loc>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/chile/</loc>
@@ -64,14 +96,6 @@
   </url><url>
     <loc>https://geco-group.org/author/michael-mccarthy/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/publication_types/</loc>
-    <lastmod>2022-09-17T14:25:46+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/publication/</loc>
-    <lastmod>2022-09-17T14:25:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/simone-fatichi/</loc>
@@ -978,16 +1002,8 @@
     <lastmod>2021-09-25T10:12:36+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/author/iain-colin-prentice/</loc>
-    <lastmod>2021-09-25T10:12:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/author/ian-j.-wright/</loc>
     <lastmod>2021-09-25T10:12:38+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/jaideep-joshi/</loc>
-    <lastmod>2021-09-25T10:12:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/karin-t.-rebel/</loc>
@@ -1050,10 +1066,6 @@
     <lastmod>2021-09-25T10:12:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/author/ulf-dieckmann/</loc>
-    <lastmod>2021-09-25T10:12:38+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/author/wolfgang-cramer/</loc>
     <lastmod>2021-09-25T10:12:41+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1079,10 +1091,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/elena-rovenskaya/</loc>
-    <lastmod>2021-09-25T10:12:38+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/florian-hofhansl/</loc>
     <lastmod>2021-09-25T10:12:38+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1272,10 +1280,6 @@
   </url><url>
     <loc>https://geco-group.org/author/s.-p.-harrison/</loc>
     <lastmod>2021-09-25T10:12:40+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/shuangxi-zhou/</loc>
-    <lastmod>2021-09-25T10:12:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/t.-davis/</loc>
