@@ -9,7 +9,7 @@ appearance:
   theme_day: geco
   theme_night:
   font: roboto
-  font_size: M
+  font_size: S
 
 # SEO
 
