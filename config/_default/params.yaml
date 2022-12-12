@@ -8,8 +8,8 @@
 appearance:
   theme_day: geco
   theme_night:
-  font: roboto
-  font_size: S
+  font: minimal
+  font_size: s
 
 # SEO
 
