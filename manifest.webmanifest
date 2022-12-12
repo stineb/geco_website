@@ -2,8 +2,8 @@
   "name": "Geocomputation and Earth Observation",
   "short_name": "Geocomputation and Earth Observation",
   "lang": "en-us",
-  "theme_color": "#767058",
-  "background_color": "#767058",
+  "theme_color": "#777055",
+  "background_color": "#777055",
   "icons": [{
     "src": "/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
