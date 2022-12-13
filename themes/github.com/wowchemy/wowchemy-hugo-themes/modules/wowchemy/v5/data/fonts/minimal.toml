@@ -9,7 +9,3 @@ heading_font = "Helvetica bold"
 body_font = "Roboto"
 nav_font = "Helvetica bold"
 mono_font = "Roboto Mono"
-
-# Font size
-font_size = "15"
-font_size_small = "13"

@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Geocomputation and Earth Observation. This work is licensed under {license}'
+    notice: '© {year} Geocomputation and Earth Observation. Photos credit Benjamin Stocker. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
