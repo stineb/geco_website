@@ -15,3 +15,5 @@ sections:
 weight: 16 # Order that this section will appear.
 
 ---
+
+<!-- ![unibe_logo](logo_unibern_squid3.png "") ![oeschger_logo](oeschger_logo_rgb.png "") -->

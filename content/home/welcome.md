@@ -7,9 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 15 # Order that this section will appear.
 title: |
-  Meet the team
-subtitle: |
-  Institute of Geography, University of Bern
+  [Meet the team](../people/)
+subtitle: 'Introducing all of us'
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,5 +19,3 @@ design:
 ---
 
 <br>
-
-[link](../people/)
