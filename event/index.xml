@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Join us | Geocomputation and Earth Observation</title>
+    <title>Join us - open theses | Geocomputation and Earth Observation</title>
     <link>https://geco-group.org/event/</link>
       <atom:link href="https://geco-group.org/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Join us</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <description>Join us - open theses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
-      <title>Join us</title>
+      <title>Join us - open theses</title>
       <link>https://geco-group.org/event/</link>
     </image>
     
     <item>
-      <title>Master thesis - Drought impact prediction</title>
-      <link>https://geco-group.org/event/droughtimpact/</link>
-      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://geco-group.org/event/droughtimpact/</guid>
+      <title>Master thesis - Modelling biophysical limits to forest production</title>
+      <link>https://geco-group.org/event/sinksource/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/event/sinksource/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -26,10 +26,11 @@
 &lt;/div&gt;
  --&gt;
 &lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
-&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Thomas Brunschwiler&lt;/p&gt;
-&lt;p&gt;Recent hot and dry summers in Europe have led to impacts on the functioning and structure of forests. Combined heat and drought stress led to wide-spread canopy defoliation (&amp;lsquo;browning&amp;rsquo; or &amp;rsquo;early wilting&amp;rsquo;) and tree mortality. The challenge facing multiple stakeholders now is to understand where and when impact thresholds were exceeded in the past years and to anticipate forest responses to future climatic extreme events.&lt;/p&gt;
-&lt;p&gt;Earth observation data has yielded a wealth of information about the state of vegetation and browning events at a resolution of tens of meters. These data have revealed patterns of a distinct heterogeneity of impacts across space and have yielded information about the timing of impacts over the past decades and effects of repeated stress by droughts in consecutive years. This data-richness, combined with novel machine learning methods, opens a potential for building predictive models, learning from observed impacts and their relationship with environmental drivers. But the combination of temporal and spatial dependencies in the data calls for specifically tailored model architectures, informed by knowledge of ecosystem processes across varying environmental conditions across the landscape.&lt;/p&gt;
-&lt;p&gt;You will will develop new solutions to address this challenge. The project will be conducted in collaboration with the IBM AI &amp;amp; Physics for Climate Impact group, based in Rüschlikon, Switzerland, and you work within their cloud computing and data infrastructure. This thesis will set the basis for an online early warning platform that will enable periodically updated near-term drought-impact forecasts beyond the project&amp;rsquo;s lifetime. The prediction target is vegetation greenness, measured by the normalized difference vegetation index (NDVI). You will proceed by combining multiple data sets for analysis-readiness; developing a suitable method for predicting NDVI time series across space; and developing a reusable workflow and online platform as the basis for an operational near-term impact forecasting and early warning, implemented in the future.&lt;/p&gt;
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Antoine Cabon, WSL Birmensdorf&lt;/p&gt;
+&lt;p&gt;Forests currently represent a large carbon sink, offsetting a quarter of human CO2 emissions each year, bur large uncertainty remains on the future strength of this sink. Namely, vegetation models assume that tree growth is essentially limited by photosynthesis, but recent evidence suggests that currently unaccounted for biophysical limitations to tree growth by low temperatures and water stress can substantially decouple tree growth from photosynthesis. The degree to which biophysical limitations might slow down forest carbon storage is still unclear but has potentially critical implications for climate projections.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to implement biophysical limitations to tree growth in an established mechanistic vegetation model in order to quantify the effect of these new controls on forest primary production. This will require (1) designing the integration of fine scale biophysical equations with carbon-based tree growth schemes of the vegetation model, (2) evaluating model performance against annual and decadal observations of historical tree growth and forest production across Europe and (3) simulate forest production using current and new tree growth schemes to evaluate the impact of biophysical limitations on forest production under different climate scenarios.&lt;/p&gt;
+&lt;p&gt;This thesis is a great starting point for mechanistic ecosystem modelling and working with large datasets of the terrestrial biosphere. Basic knowledge of programming are a requirement and prior experience with R and/or Fortran are an advantage. You may start as soon as you like. Please contact me directly if you’re interested.&lt;/p&gt;
+&lt;p&gt;This Master project is part of the &lt;a href=&#34;https://www.wsl.ch/de/projekte/micss-physiological-drivers-of-tree-growth.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiCSS project&lt;/a&gt;, led by &lt;a href=&#34;https://www.wsl.ch/de/mitarbeitende/cabonant.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Antoine Cabon, WSL Birmensdorf&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
