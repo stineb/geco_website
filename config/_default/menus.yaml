@@ -19,6 +19,9 @@ main:
   - name: Join us
     url: event
     weight: 60
+  - name: Ads
+    url: ads
+    weight: 65
   - name: Publications
     url: publication
     weight: 70
