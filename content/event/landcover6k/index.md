@@ -4,7 +4,7 @@ title: Master thesis - Preindustrial land use change
 # event: Wowchemy Conference
 # event_url: https://example.org
 
-location: ETH Zentrum, Zürich
+location: Institute of Geography, University of Bern
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford

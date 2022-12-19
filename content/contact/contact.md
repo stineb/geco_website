@@ -31,3 +31,5 @@ title: Contact
 weight: 10
 widget: contact
 ---
+
+Get in touch!

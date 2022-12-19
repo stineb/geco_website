@@ -8,8 +8,9 @@ role: Group leader, Asst. Prof.
 avatar_filename: stocker-benjamin_q.jpg
 bio: Heliocentrist human being.
 interests:
-  - Predicting drought impacts on forests
   - Climate-biosphere interactions
+  - Forecasting drought impacts
+  - Monitoring the carbon cycle from space
   - Developing next-generation vegetation models
   - Model-data integration and machine-learning
 social:
@@ -47,9 +48,11 @@ superuser: true
 highlight_name: true
 ---
 
-We are climate and ecosystem scientists with a special interest in interactions between global environmental change and terrestrial ecology and biogeochemistry. 
+This is my research group's website. Here, you can learn about [who we are](../people/), and about [our research](../project/). And you can explore [our open access tools for the community](../data_code/), and [our freely accessible learning materials](../data_code/).
 
-Our work provides data-informed predictions of how land ecosystems respond to a changing climate, increasing CO<sub>2</sub> and changes in nutrient cycles, and climatic extreme events. We develop process-based models, using eco-evolutionary optimality principles to explain plant traits and their adaptation and acclimation to the environment, and we apply machine learning and data assimilation techniques using diverse ecological data (ecosystem flux measurements, forest inventories, remote sensing, and manipulation experimental data, etc.). In brief, we are building models, as simple as possible and as complex as necessary to learn the most. All [open access](https://github.com/computationales), of course.
+As a group, we are a collection of climate, ecosystem, and data scientists with a special interest in interactions between global environmental change and terrestrial ecology and biogeochemistry. 
+
+Our work yields insights into climate change impcats on land ecosystems and provides data-informed predictions of how forests and grasslands respond to a climatic extreme events, rising CO<sub>2</sub> and changes in nutrient cycles. We develop use Earth observation datan and develop process-based models that are founded on eco-evolutionary optimality principles to explain plant traits and their adaptation and acclimation to the environment. In more data-driven approaches, we also apply machine learning and data assimilation techniques using diverse ecological data (ecosystem flux measurements, forest inventories, remote sensing, and manipulation experimental data, etc.). In brief, we are building models, as simple as possible and as complex as necessary to learn the most. All [open access](https://github.com/computationales), of course.
 
 We are motivated to gain a better understanding of issues that are becoming increasingly pressing to society and policy and that are key to creating a sustainable future.
 

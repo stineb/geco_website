@@ -16,3 +16,15 @@ To link to a bought domain set a cname parameter in the github actions
 workflow at the build stage to the correct domain instead of a github location.
 
 Change the `config/_default/*.yaml` files to change site parameters.
+
+## Adding publications
+
+Instructions are given [here](https://wowchemy.com/docs/content/publications/). A bibtex file is included in this repository as `data-raw/publications_geco.bib`. Use this to update the publications list as
+
+```sh
+pip3 install -U academic
+```
+Then run
+```sh
+academic import --bibtex data-raw/publications_geco.bib
+```
