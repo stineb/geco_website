@@ -17,12 +17,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/SteniBocker
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.es/citations?user=TX7egiYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/computationales
@@ -32,6 +26,15 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Benjamin_Stocker
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.es/citations?user=TX7egiYAAAAJ&hl=en
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/SteniBocker
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@geco-group
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
     # url: https://computationales.ethz.ch/

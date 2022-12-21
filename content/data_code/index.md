@@ -46,6 +46,8 @@ A modelling framework for site-scale simulations of ecosystem processes, impleme
 
 [Development code](https://github.com/computationales/rsofun/)
 
+[YouTube](https://www.youtube.com/playlist?list=PLgcfjtTdT1h9EJd7_iy-ZvrUjpoY-r-C8)
+
 ---
 
 ## [ingestr](https://computationales.github.io/ingestr/)
