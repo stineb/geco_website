@@ -1,7 +1,7 @@
 ---
 content:
   user_groups:
-  - Principal Investigators
+  - Principal Investigator
   - Researchers
   - PhD Students
   - Staff

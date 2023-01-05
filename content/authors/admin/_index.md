@@ -2,7 +2,7 @@
 authors:
 - Benjamin Stocker, Prof. PhD.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 title: Benjamin Stocker
 role: Group leader, Prof.
 avatar_filename: stocker-benjamin_q.jpg
