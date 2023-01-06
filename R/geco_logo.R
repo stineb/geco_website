@@ -11,7 +11,12 @@ widths <- rep(magn, ncols)
 heights <- rep(magn,nrows)
 
 # pdf( "geco_logo.pdf", width = sum(widths), height = sum(heights) )
-png( "icon.png",  width = 512, height = 512, units = "px" )
+# png( "../assets/media/logo.png",  width = 512, height = 512, units = "px" )
+# pdf( "logo.pdf", width = sum(widths), height = sum(heights) )
+
+magn_logo <- 1
+magn_font <- 1.2 * magn_logo
+png( "assets/media/logo.png", width = magn_logo * 512, height = magn_logo * 512, units = "px" )
 
 panel <- layout(
   order,
@@ -21,7 +26,8 @@ panel <- layout(
 )
 # layout.show(panel)
 
-par(mar = c(0, 0, 0, 0), family = "Helvetica", xaxs="i", yaxs="i")
+par(bg = NA)  # transparent background
+par(mar = c(0, 0, 0, 0), family = "Helvetica", xaxs = "i", yaxs = "i")
 
 # ## lowercase
 # plot(c(0,1), c(0,1), type = "n", axes = FALSE)
@@ -45,17 +51,17 @@ par(mar = c(0, 0, 0, 0), family = "Helvetica", xaxs="i", yaxs="i")
 
 ## uppercase
 plot(c(0,1), c(0,1), type = "n", axes = FALSE)
-text(0.5, 0.5, labels = "G", adj = 0.5, font = 2, cex = 12, col = cols[1])
+text(0.5, 0.5, labels = "G", adj = 0.5, font = 2, cex = 12 * magn_font, col = "white")
 plot(c(0,1), c(0,1), type = "n", axes = FALSE)
-text(0.5, 0.5, labels = "E", adj = 0.5, font = 2, cex = 12, col = cols[1])
+text(0.5, 0.5, labels = "E", adj = 0.5, font = 2, cex = 12 * magn_font, col = "white")
 plot(c(0,1), c(0,1), type = "n", axes = FALSE)
-text(0.5, 0.5, labels = "C", adj = 0.5, font = 2, cex = 12, col = cols[1])
+text(0.5, 0.5, labels = "C", adj = 0.5, font = 2, cex = 12 * magn_font, col = "white")
 plot(c(0,1), c(0,1), type = "n", axes = FALSE)
-text(0.5, 0.5, labels = "O", adj = 0.5, font = 2, cex = 12, col = cols[1])
+text(0.5, 0.5, labels = "O", adj = 0.5, font = 2, cex = 12 * magn_font, col = "white")
 
 plot(c(0,1), c(0,1), type = "n", axes = FALSE)
 rect(0, 0, 1, 1, col = cols[1], border = NA) # black
-text(0.5, 0.5, labels = ">", adj = 0.5, font = 2, cex = 12, col = "white")
+text(0.5, 0.5, labels = ">", adj = 0.5, font = 2, cex = 12 * magn_font, col = "white")
 plot(c(0,1), c(0,1), type = "n", axes = FALSE)
 rect(0, 0, 1, 1, col = "white", border = NA)
 plot(c(0,1), c(0,1), type = "n", axes = FALSE)
