@@ -7,7 +7,7 @@ content:
     postcode: "3012"
     region: BE
     street: Hallerstrasse 12
-  appointment_url: https://calendly.com
+  appointment_url: []
   autolink: true
   coordinates:
     latitude: "46.95276"
@@ -21,8 +21,7 @@ content:
       captcha: false
     provider: netlify
   office_hours:
-  - Monday 10:00 to 13:00
-  - Wednesday 09:00 to 10:00
+  - Weekdays 09:00 to 17:00
   phone: +41 44 632 48 90
 design:
   columns: "1"

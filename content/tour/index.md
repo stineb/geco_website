@@ -1,7 +1,7 @@
 ---
-title: About us
-summary: Our research takes place at the intersection of Earth system science, terrestrial ecology, biogeochemistry, hydrology and data science.
-# type: widget_page # This substitutes the page by a slider (unfinished)
+title: Research
+# Files in this folder represent a Widget Page
+type: widget_page
 ---
 
 Research in the GECO group takes place at the intersection of Earth system science, terrestrial ecology, biogeochemistry, hydrology, and data science and is carried out along the following lines:

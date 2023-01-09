@@ -8,7 +8,7 @@ title: Recent Posts
 subtitle:
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ''
     category: ''
@@ -20,5 +20,5 @@ content:
   page_type: post
 design:
   view: 5
-  columns: '1'
+  columns: '2'
 ---
