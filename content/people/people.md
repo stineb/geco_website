@@ -4,6 +4,7 @@ content:
   - Principal Investigators
   - Researchers
   - PhD Students
+  - Master Students
   - Staff
   - Visitors
   - Alumni
