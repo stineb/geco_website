@@ -7,7 +7,7 @@
     <description>Geocomputation and Earth Observation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geco-group.org/media/icon_hu247ffcaf4433a281884b3decd8640903_1791_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Geocomputation and Earth Observation</title>
       <link>https://geco-group.org/</link>
     </image>
@@ -1130,6 +1130,7 @@ url_video: &amp;quot;&amp;quot;&lt;/li&gt;
 &lt;p&gt;&lt;a href=&#34;https://computationales.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.3759405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/computationales/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLgcfjtTdT1h9EJd7_iy-ZvrUjpoY-r-C8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;ingestrhttpscomputationalesgithubioingestr&#34;&gt;&lt;a href=&#34;https://computationales.github.io/ingestr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ingestr&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Functions to extract (ingest) environmental point data from large global files or remote data servers and create time series at user-specified temporal resolution. Facilitates forcing and evaluation data preparation for &lt;a href=&#34;https://computationales.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsofun&lt;/a&gt;. The main functionalities are:&lt;/p&gt;
