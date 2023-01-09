@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: geco
-  theme_night: geco
+  theme_night: 
   font: minimal
   font_size: m
 

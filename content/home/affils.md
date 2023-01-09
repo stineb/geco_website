@@ -16,4 +16,5 @@ title:
 
 ---
 
+## Our home:
 <center><img src="https://raw.githubusercontent.com/computationales/geco_website/main/assets/media/logos/ubern_logos.png" width = 500/></center>
