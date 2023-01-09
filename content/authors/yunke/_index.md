@@ -1,6 +1,6 @@
 ---
 title: Yunke Peng
-role: PhD Candidate
+role: PhD Student
 avatar_filename: avatar.jpg
 bio: []
 interests:

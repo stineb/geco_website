@@ -2,9 +2,9 @@
 authors:
 - Benjamin Stocker, Prof. PhD.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 title: Benjamin Stocker
-role: Group leader, Asst. Prof.
+role: Group leader, Prof.
 avatar_filename: stocker-benjamin_q.jpg
 bio: Heliocentrist human being.
 interests:

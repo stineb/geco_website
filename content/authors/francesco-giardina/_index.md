@@ -1,6 +1,6 @@
 ---
 title: Francesco Giardina
-role: PhD Candidate
+role: PhD Student
 avatar_filename: img_francesco.jpg
 bio: []
 interests:

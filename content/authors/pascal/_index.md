@@ -1,6 +1,6 @@
 ---
 title: Pascal Schneider
-role: PhD Candidate
+role: PhD Student
 avatar_filename:
 bio: Nature is fascinating! 🌳
   - Dynamic Vegetation Modeling
