@@ -17,7 +17,7 @@ role: Senior Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: koen.hufkens@giub.unibe.ch
+  link: mailto:koen.hufkens@giub.unibe.ch
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/koen_hufkens

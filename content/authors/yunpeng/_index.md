@@ -18,7 +18,7 @@ role: Postdoc
 social:
 - icon: envelope
   icon_pack: fas
-  link: yunpeng.luo@wsl.ch
+  link: mailto:yunpeng.luo@wsl.ch
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BgcYluo

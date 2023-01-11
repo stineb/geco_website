@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:yunke.peng@usys.ethz.ch
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/peng_yunke

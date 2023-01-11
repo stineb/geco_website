@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: laura.marques@usys.ethz.ch
+    link: mailto:laura.marques@usys.ethz.ch
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/L4ur4M4rqu3s

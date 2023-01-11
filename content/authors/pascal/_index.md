@@ -10,7 +10,7 @@ bio: Nature is fascinating! 🌳
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:pascal.schneider@giub.unibe.ch
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/padasch_
