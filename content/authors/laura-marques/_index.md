@@ -22,7 +22,7 @@ social:
     link: https://github.com/lauramarques
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/my-orcid?orcid=0000-0002-3593-5557
+    link: https://orcid.org/0000-0002-3593-5557
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Laura-Marques-6

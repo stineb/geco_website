@@ -19,7 +19,7 @@ social:
     link: https://github.com/fgiardin
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/my-orcid?orcid=0000-0002-8359-809X
+    link: https://orcid.org/0000-0002-8359-809X
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
     # url: https://computationales.ethz.ch/
