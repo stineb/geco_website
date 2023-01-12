@@ -26,14 +26,14 @@ organizations:
     # url: https://computationales.ethz.ch/
   - name: International Institute for Applied Systems Analysis, Laxenburg, Austria
 #  - name: 
-# education:
-#   courses:
-#     - course: PhD in Ecology
-#       institution: Indian Institute of Science, Bengaluru, India 
-#       year: 2012-2018
-#     - course: BTech (with Honors) in Electrical Engineering with Minor in Environmental Science 
-#       institution: Indian Institute of Technology Bombay, Mumbai, India
-#       year: 2011
+education:
+  courses:
+    - course: PhD in Ecology
+      institution: Indian Institute of Science, Bengaluru, India
+      year: 2012-2018
+    - course: BTech (with Honors) in Electrical Engineering with Minor in Environmental Science
+      institution: Indian Institute of Technology Bombay, Mumbai, India
+      year: 2011
 email: "jaideep.joshi@giub.unibe.ch"
 superuser: true
 highlight_name: true
