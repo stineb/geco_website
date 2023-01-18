@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/r/</link>
+      <atom:link href="https://geco-group.org/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2019 23:19:08 -0700</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>R</title>
+      <link>https://geco-group.org/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>LSD Heatscatter with ggplot</title>
+      <link>https://geco-group.org/post/lsd/</link>
+      <pubDate>Mon, 13 May 2019 23:19:08 -0700</pubDate>
+      <guid>https://geco-group.org/post/lsd/</guid>
+      <description>&lt;p&gt;I love the &lt;a href=&#34;https://www.rdocumentation.org/packages/LSD/versions/4.0-0/topics/heatscatter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;heatscatter()&lt;/code&gt;&lt;/a&gt; function from the &lt;a href=&#34;https://cran.r-project.org/web/packages/LSD/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LSD R package&lt;/a&gt;. I&amp;rsquo;ve even used it for my own publications (see Figs. 2 and 7 in &lt;a href=&#34;https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al. 2017&lt;/a&gt;). Since having written this paper and creating the figures I&amp;rsquo;ve (finally) moved to using ggplot. Unfortunately, &lt;code&gt;heatscatter()&lt;/code&gt; creates a plot in base R.&lt;/p&gt;
+&lt;p&gt;Googling, I found no satisfying solution. What is described on &lt;a href=&#34;http://auguga.blogspot.com/2015/10/r-heat-scatter-plot.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this blog&lt;/a&gt; does&amp;rsquo;t really do the trick.&lt;/p&gt;
+&lt;p&gt;I tried another approach. I forked the &lt;a href=&#34;https://github.com/stineb/LSD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LSD library into my github&lt;/a&gt; and hacked an additional argument into the &lt;code&gt;heatscatter()&lt;/code&gt; function as:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ggplot&lt;/code&gt; a logical: if &lt;code&gt;TRUE&lt;/code&gt; uses the ggplot2 library to create plots. Defaults to &lt;code&gt;FALSE&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;When set to &lt;code&gt;TRUE&lt;/code&gt;, the function returns a ggplot object. For example the following bit of code &amp;hellip;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gg &amp;lt;- heatscatter(mdf$lue_mod, mdf$lue_obs, xlab = &amp;#34;Modelled&amp;#34;, ylab = &amp;#34;Observed&amp;#34;, ggplot = TRUE)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gg + lab(title = &amp;#34;Example&amp;#34;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&amp;hellip; prints a simple plot, by default (and hard-coded), using ggplot&amp;rsquo;s &lt;code&gt;theme_classic()&lt;/code&gt;. This looks like this:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/ggplot_heatscatter_example.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s it. A direct link to the hacked &lt;code&gt;heatscatter()&lt;/code&gt; function is &lt;a href=&#34;https://github.com/stineb/LSD/blob/master/R/LSD.heatscatter.R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Credits to the halluzinogenic LSD package developer Bjoern Schwalb!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
