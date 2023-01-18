@@ -5,12 +5,20 @@
     <link>https://geco-group.org/tag/acclimation/</link>
       <atom:link href="https://geco-group.org/tag/acclimation/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;acclimation&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>&#34;acclimation&#34;</title>
       <link>https://geco-group.org/tag/acclimation/</link>
     </image>
+    
+    <item>
+      <title>Acclimation of phenology relieves leaf longevity constraints in deciduous forests</title>
+      <link>https://geco-group.org/publication/marques-23-natee/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/marques-23-natee/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eco-evolutionary optimality as a means to improve vegetation and land-surface models</title>
