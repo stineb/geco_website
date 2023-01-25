@@ -35,7 +35,7 @@ organizations:
 #       year: 2017
 email: "fgiardina@ethz.ch"
 superuser: true
-highlight_name: true
+highlight_name: false
 user_groups:
 - PhD Students
 ---

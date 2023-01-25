@@ -2,7 +2,7 @@
 bio: []
 weight: 15
 email: "josefa.aran@giub.unibe.ch"
-highlight_name: false
+highlight_name: true
 interests:
 - Data science for sustainability
 - Bayesian statistics

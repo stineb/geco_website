@@ -1,6 +1,7 @@
 ---
 authors:
 - Benjamin Stocker, Prof. PhD.
+- Benjamin D. Stocker
 user_groups:
 - Principal Investigator
 title: Benjamin Stocker

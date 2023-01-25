@@ -2,7 +2,7 @@
 bio: []
 weight: 11
 email: "koen.hufkens@giub.unibe.ch"
-highlight_name: false
+highlight_name: true
 interests:
 - Remote Sensing
 - Phenology

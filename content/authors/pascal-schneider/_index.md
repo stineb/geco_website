@@ -35,7 +35,7 @@ organizations:
 #     - course: ...course 2...
 email: ""
 superuser: true
-highlight_name: false
+highlight_name: true
 user_groups:
 - PhD Students
 ---
