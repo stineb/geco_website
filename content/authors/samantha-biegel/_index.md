@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: samantha.biegel@inf.ethz.ch
+    link: mailto:samantha.biegel@inf.ethz.ch
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/...your twitter...

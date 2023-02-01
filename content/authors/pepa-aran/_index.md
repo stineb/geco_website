@@ -1,7 +1,8 @@
 ---
 bio: []
+weight: 15
 email: "josefa.aran@giub.unibe.ch"
-highlight_name: false
+highlight_name: true
 interests:
 - Data science for sustainability
 - Bayesian statistics
@@ -14,7 +15,7 @@ role: Scientific Programmer and Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: josefa.aran@giub.unibe.ch
+  link: mailto:josefa.aran@giub.unibe.ch
 - icon: github
   icon_pack: fab
   link: https://github.com/pepaaran

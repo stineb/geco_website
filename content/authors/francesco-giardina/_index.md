@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:francesco.giardina@usys.ethz.ch
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=bqW7Vi8AAAAJ&hl=en&oi=ao
@@ -19,7 +19,7 @@ social:
     link: https://github.com/fgiardin
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/my-orcid?orcid=0000-0002-8359-809X
+    link: https://orcid.org/0000-0002-8359-809X
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
     # url: https://computationales.ethz.ch/
@@ -35,7 +35,7 @@ organizations:
 #       year: 2017
 email: "fgiardina@ethz.ch"
 superuser: true
-highlight_name: true
+highlight_name: false
 user_groups:
 - PhD Students
 ---

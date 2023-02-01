@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:selene.ledain@epfl.ch
   - icon: github
     icon_pack: fab
     link: https://github.com/seleneledain
@@ -18,14 +18,15 @@ organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
     # url: https://computationales.ethz.ch/
   - name: EPF Lausanne
-# education:
-#   courses:
-#     - course: MSc in Environmental Engineering, minor Data Science
-#       institution: EPF Lausanne 
-#       year: 2020-2023
-#     - course: BSc in Environmental Engineering
-#       institution: EPF Lausanne 
-#       year: 2017-2020
+  - name: IBM Research Europe
+education:
+  courses:
+    - course: MSc in Environmental Engineering, minor Data Science
+      institution: EPF Lausanne
+      year: 2020-2023
+    - course: BSc in Environmental Engineering
+      institution: EPF Lausanne
+      year: 2017-2020
 email: "selene.ledain@epfl.ch"
 superuser: true
 highlight_name: true
