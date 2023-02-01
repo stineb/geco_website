@@ -253,10 +253,8 @@
       <guid>https://geco-group.org/project/hololu_lc6k/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;title: Landcover6K
-summary: An example of using the in-built project page.&lt;/p&gt;
-&lt;!-- tags: --&gt;
-&lt;!-- - Deep Learning --&gt;
-&lt;p&gt;date: &amp;ldquo;2016-04-27T00:00:00Z&amp;rdquo;&lt;/p&gt;
+summary: An example of using the in-built project page.
+date: &amp;ldquo;2016-04-27T00:00:00Z&amp;rdquo;&lt;/p&gt;
 &lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
 &lt;p&gt;external_link: &amp;ldquo;&lt;a href=&#34;https://stineb.github.io/holoLU_lc6k/%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stineb.github.io/holoLU_lc6k/&#34;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;image:

@@ -2,6 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://geco-group.org/author/koen-hufkens/</loc>
+    <lastmod>2023-01-13T11:26:13+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/laura-marques/</loc>
+    <lastmod>2023-01-13T11:26:13+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/yunpeng-luo/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/jaideep-joshi/</loc>
+    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/pepa-aran/</loc>
+    <lastmod>2022-11-17T17:17:30+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/post/song-cn/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-group.org/tag/co2/</loc>
     <lastmod>2023-01-13T11:26:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -150,6 +173,26 @@
     <lastmod>2023-01-13T11:26:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://geco-group.org/post/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/carbon-nitrogen-cycle/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/pascal-schneider/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/prose/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/science-communication/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-group.org/tag/acclimation/</loc>
     <lastmod>2023-01-13T11:26:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,14 +225,6 @@
     <lastmod>2023-01-13T11:26:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/author/koen-hufkens/</loc>
-    <lastmod>2023-01-13T11:26:13+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/laura-marques/</loc>
-    <lastmod>2023-01-13T11:26:13+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/modis/</loc>
     <lastmod>2023-01-13T11:26:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,15 +253,7 @@
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/post/</loc>
-    <lastmod>2022-11-17T17:17:30+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/post/better-science/</loc>
-    <lastmod>2022-11-17T17:17:30+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/pepa-aran/</loc>
     <lastmod>2022-11-17T17:17:30+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -235,10 +262,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/iain-colin-prentice/</loc>
-    <lastmod>2022-12-09T14:11:58+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/jaideep-joshi/</loc>
     <lastmod>2022-12-09T14:11:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -3587,10 +3610,10 @@
     <loc>https://geco-group.org/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
+    <loc>https://geco-group.org/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/categories/</loc>
+    <loc>https://geco-group.org/author/emine-didem-durukan/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/et-al./</loc>
@@ -3603,9 +3626,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/keenan-trevor-f./</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/pascal-schneider/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tour/</loc>
@@ -3621,9 +3641,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/yunke-peng/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/yunpeng-luo/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
