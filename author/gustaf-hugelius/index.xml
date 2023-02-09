@@ -5,12 +5,20 @@
     <link>https://geco-group.org/author/gustaf-hugelius/</link>
       <atom:link href="https://geco-group.org/author/gustaf-hugelius/index.xml" rel="self" type="application/rss+xml" />
     <description>Gustaf Hugelius</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Gustaf Hugelius</title>
       <link>https://geco-group.org/author/gustaf-hugelius/</link>
     </image>
+    
+    <item>
+      <title>Extensive global wetland loss over the past three centuries</title>
+      <link>https://geco-group.org/publication/fluetchouinard-23-nat/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/fluetchouinard-23-nat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>No support for carbon storage of &gt;1,000 GtC in northern peatlands</title>

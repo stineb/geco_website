@@ -5,12 +5,28 @@
     <link>https://geco-group.org/author/benjamin-d.-stocker/</link>
       <atom:link href="https://geco-group.org/author/benjamin-d.-stocker/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin D. Stocker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Benjamin D. Stocker</title>
       <link>https://geco-group.org/author/benjamin-d.-stocker/</link>
     </image>
+    
+    <item>
+      <title>Extensive global wetland loss over the past three centuries</title>
+      <link>https://geco-group.org/publication/fluetchouinard-23-nat/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/fluetchouinard-23-nat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global patterns of water storage in the rooting zones of vegetation</title>
+      <link>https://geco-group.org/publication/stocker-23-natgeo/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/stocker-23-natgeo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Acclimation of phenology relieves leaf longevity constraints in deciduous forests</title>
@@ -57,6 +73,14 @@
       <link>https://geco-group.org/publication/kladny-22-biorxiv/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/kladny-22-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental controls on the light use efficiency of terrestrial gross primary production</title>
+      <link>https://geco-group.org/publication/bloomfield-22-gcb/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/bloomfield-22-gcb/</guid>
       <description></description>
     </item>
     
