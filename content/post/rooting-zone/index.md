@@ -63,8 +63,8 @@ Analysis code is available from GitHub repository [`mct` at tag v4.0](https://gi
 
 A0-sized posters of high-fidelity (vector graphics, PDF) maps:
 
-- rooting-zone water-storage capacity ([download link](https://github.com/computationales/GECO_media/blob/main/root_zone/poster_mct_hires.pdf), 45 MB)
-- apparent rooting depth ([download link](https://github.com/computationales/GECO_media/blob/main/root_zone/poster_mct_zroot_hires.pdf), 48 MB)
+- rooting-zone water-storage capacity ([download link](https://github.com/computationales/GECO_media/blob/main/publications/Stocker_2023a_NGS/poster_mct_hires.pdf), 45 MB)
+- apparent rooting depth ([download link](https://github.com/computationales/GECO_media/blob/main/publications/Stocker_2023a_NGS/poster_mct_zroot_hires.pdf), 48 MB)
 
 
 
