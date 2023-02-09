@@ -10,6 +10,21 @@ main:
   - name: Data & code
     url: data_code
     weight: 30
+  - name: Teaching
+    url: teaching
+    weight: 35
+  - name: AGDS I
+    url: agds1
+    parent: Teaching
+    weight: 10
+  - name: AGDS II
+    url: agds2
+    parent: Teaching
+    weight: 20
+  - name: AGDS Proseminar
+    url: agds_seminar
+    parent: Teaching
+    weight: 30
   - name: Blog
     url: post
     weight: 40
