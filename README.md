@@ -17,14 +17,31 @@ workflow at the build stage to the correct domain instead of a github location.
 
 Change the `config/_default/*.yaml` files to change site parameters.
 
-## Adding publications
+## Adding content 
 
-Instructions are given [here](https://wowchemy.com/docs/content/publications/). A bibtex file is included in this repository as `data-raw/publications_geco.bib`. Use this to update the publications list as
+If you don't have writing rights to the repository from which the website is created (currently `computationales/geco_website`), then fork the repository, commit and push changes (added content) to your fork and create a pull request to `computationales/geco_website`.
 
+### Publications
+
+Instructions are given [here](https://wowchemy.com/docs/content/publications/). 
+
+Make sure you have the `academic` library installed.
 ```sh
 pip3 install -U academic
 ```
-Then run
+
+A bibtex file is included in this repository as `data-raw/publications_geco.bib`. Add the citation information (bibtex-formatted) as text to that file. Then create a new item for the website by:
 ```sh
 academic import --bibtex data-raw/publications_geco.bib
 ```
+
+### Blog post
+
+Instructions are given [here](https://wowchemy.com/docs/content/blog-posts/).
+
+To create a blog/news article:
+```sh
+hugo new  --kind post post/my-article-name
+```
+
+Then edit the newly created file `content/post/my-article-name.md` with your full title and content.
