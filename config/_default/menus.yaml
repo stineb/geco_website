@@ -14,17 +14,17 @@ main:
     url: teaching
     weight: 35
   - name: AGDS I
-    url: agds1
+    url: teaching/agds1
     parent: Teaching
     weight: 10
-  # - name: AGDS II
-  #   url: agds2
-  #   parent: Teaching
-  #   weight: 20
-  # - name: AGDS Proseminar
-  #   url: agds_seminar
-  #   parent: Teaching
-  #   weight: 30
+  - name: AGDS II
+    url: teaching/agds2
+    parent: Teaching
+    weight: 20
+  - name: AGDS Proseminar
+    url: teaching/agds_seminar
+    parent: Teaching
+    weight: 30
   - name: Blog
     url: post
     weight: 40

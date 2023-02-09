@@ -1,6 +1,8 @@
 ---
 title: Applied Geodata Science I
 summary: ''
+authors: ['Benjamin Stocker', 'Koen Hufkens', 'Pepa Aran', 'Pascal Schneider']
+date: 2023-02-09
 ---
 
 <br>
