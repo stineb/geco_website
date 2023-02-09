@@ -5,7 +5,7 @@
     <link>https://geco-group.org/author/laura-marques/</link>
       <atom:link href="https://geco-group.org/author/laura-marques/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura Marqués</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/laura-marques/avatar_hub82fa3e2085cd91083ac779fea87797b_427524_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Laura Marqués</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Global patterns of tree density are contingent upon local determinants in the world’s natural forests</title>
+      <link>https://geco-group.org/publication/madrigalgonzalez-23-natcomm/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/madrigalgonzalez-23-natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Acclimation of phenology relieves leaf longevity constraints in deciduous forests</title>
       <link>https://geco-group.org/publication/marques-23-natee/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/marques-23-natee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender bias in ecosystem restoration\: from science to practice</title>
+      <link>https://geco-group.org/publication/cruzalonso-23-re/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/cruzalonso-23-re/</guid>
       <description></description>
     </item>
     
