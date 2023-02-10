@@ -107,3 +107,11 @@ A light R package for deriving cumulative water deficits, given time series of e
 - [fLUE](https://doi.org/10.5281/zenodo.1158524): Fractional reduction in light use efficiency due to soil moisture stress, estimated at FLUXNET2015 Tier 1 sites, as described in Stocker et al., (2018) *New Phytologist*.
 - [SCWDX80 and zCWDX80](https://doi.org/10.5281/zenodo.5515246): Global rooting zone water storage capacity (SCWDX80, mm) and rooting depth (zCWDX80, mm) estimates from Stocker et al., (2021) *BiorXiv*.
 - [GPP at FLUXNET Tier 1 sites from P-model](https://doi.org/10.5281/zenodo.3559850): Gross primary production, simulated by the P-model for each FLUXNET 2015 Tier 1 site. From stocker et al. (2020) *GMD*
+
+
+---
+
+
+**Please note**
+
+The authors of these packages are open to collaborate. Where substantial intellectual inputs are required, we ask for credit. Intellectual input can take the form of (but is not limited to) custom code, data manipulation, or methodological advice (including experimental design). The form of credit is to be determined in mutual agreement, considering contributions, and may include the authorship on manuscripts or on other research products resulting from respective work. For simple questions regarding the functioning of our open source software, please refer first to the extensive documentation on respective websites (see links above), our [YouTube channel](https://www.youtube.com/@geco-group), and related published papers. For remaining questions, please use raise an issue on Github (in the respective repository). Of course, for such limited support and issue resolution, we do not apply a co-authorship policy. Simple acknowledgements and properly cited software or literature makes us happy.
