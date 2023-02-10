@@ -1341,6 +1341,9 @@ url_video: &amp;quot;&amp;quot;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.5515246&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCWDX80 and zCWDX80&lt;/a&gt;: Global rooting zone water storage capacity (SCWDX80, mm) and rooting depth (zCWDX80, mm) estimates from Stocker et al., (2021) &lt;em&gt;BiorXiv&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.3559850&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPP at FLUXNET Tier 1 sites from P-model&lt;/a&gt;: Gross primary production, simulated by the P-model for each FLUXNET 2015 Tier 1 site. From stocker et al. (2020) &lt;em&gt;GMD&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Please note&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The authors of these packages are open to collaborate. Where substantial intellectual inputs are required, we ask for credit. Intellectual input can take the form of (but is not limited to) custom code, data manipulation, or methodological advice (including experimental design). The form of credit is to be determined in mutual agreement, considering contributions, and may include the authorship on manuscripts or on other research products resulting from respective work. For simple questions regarding the functioning of our open source software, please refer first to the extensive documentation on respective websites (see links above), our &lt;a href=&#34;https://www.youtube.com/@geco-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube channel&lt;/a&gt;, and related published papers. For remaining questions, please use raise an issue on Github (in the respective repository). Of course, for such limited support and issue resolution, we do not apply a co-authorship policy. Simple acknowledgements and properly cited software or literature makes us happy.&lt;/p&gt;
 </description>
     </item>
     
