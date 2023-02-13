@@ -55,16 +55,16 @@ Global datasets of cumulative water deficit maxima and apparent rooting depth ar
 
 ## Open access code
 
-The algorithm to derive cumulative water deficit time series and a list of water deficit events (consecutive days with a negative water balance), is made available as an [R package](https://computationales.github.io/cwd/), published on Zenodo with DOI [10.5281/zenodo.5359053](https://doi.org/10.5281/zenodo.5359053).
+The algorithm to derive cumulative water deficit time series and a list of water deficit events (consecutive days with a negative water balance), is made available as an [R package](https://geco-bern.github.io/cwd/), published on Zenodo with DOI [10.5281/zenodo.5359053](https://doi.org/10.5281/zenodo.5359053).
 
-Analysis code is available from GitHub repository [`mct` at tag v4.0](https://github.com/computationales/mct/tree/v4.0), published on Zenodo with DOI [10.5281/zenodo.7429129](https://doi.org/10.5281/zenodo.7429129).
+Analysis code is available from GitHub repository [`mct` at tag v4.0](https://github.com/geco-bern/mct/tree/v4.0), published on Zenodo with DOI [10.5281/zenodo.7429129](https://doi.org/10.5281/zenodo.7429129).
 
 ## Global map as poster
 
 A0-sized posters of high-fidelity (vector graphics, PDF) maps:
 
-- rooting-zone water-storage capacity ([download link](https://github.com/computationales/GECO_media/blob/main/publications/Stocker_2023a_NGS/poster_mct_hires.pdf), 45 MB)
-- apparent rooting depth ([download link](https://github.com/computationales/GECO_media/blob/main/publications/Stocker_2023a_NGS/poster_mct_zroot_hires.pdf), 48 MB)
+- rooting-zone water-storage capacity ([download link](https://github.com/geco-bern/GECO_media/blob/main/publications/Stocker_2023a_NGS/poster_mct_hires.pdf), 45 MB)
+- apparent rooting depth ([download link](https://github.com/geco-bern/GECO_media/blob/main/publications/Stocker_2023a_NGS/poster_mct_zroot_hires.pdf), 48 MB)
 
 
 
