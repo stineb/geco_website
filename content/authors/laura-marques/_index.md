@@ -29,7 +29,7 @@ social:
     link: https://www.researchgate.net/profile/Laura-Marques-6
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
-    # url: https://computationales.ethz.ch/
+    # url: https://geco-bern.ethz.ch/
 # education:
 #   courses:
 #     - course: ...course 1...

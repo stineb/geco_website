@@ -27,7 +27,7 @@ social:
     link: https://www.researchgate.net/profile/Yunke-Peng
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
-    # url: https://computationales.ethz.ch/
+    # url: https://geco-bern.ethz.ch/
   - name: ETH Zürich
 # education:
 #   courses:

@@ -28,7 +28,7 @@ social:
   #   link: https://www.researchgate.net/profile/...your researchgate...
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
-    # url: https://computationales.ethz.ch/
+    # url: https://geco-bern.ethz.ch/
 # education:
 #   courses:
 #     - course: ...course 1...

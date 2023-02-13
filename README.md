@@ -19,7 +19,7 @@ Change the `config/_default/*.yaml` files to change site parameters.
 
 ## Adding content 
 
-If you don't have writing rights to the repository from which the website is created (currently `computationales/geco_website`), then fork the repository, commit and push changes (added content) to your fork and create a pull request to `computationales/geco_website`.
+If you don't have writing rights to the repository from which the website is created (currently `geco-bern/geco_website`), then fork the repository, commit and push changes (added content) to your fork and create a pull request to `geco-bern/geco_website`.
 
 ### Publications
 

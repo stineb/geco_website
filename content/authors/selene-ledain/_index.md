@@ -16,7 +16,7 @@ social:
     link: https://github.com/seleneledain
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
-    # url: https://computationales.ethz.ch/
+    # url: https://geco-bern.ethz.ch/
   - name: EPF Lausanne
   - name: IBM Research Europe
 education:

@@ -23,7 +23,7 @@ social:
     link: https://orcid.org/0000-0003-1315-6234
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
-    # url: https://computationales.ethz.ch/
+    # url: https://geco-bern.ethz.ch/
   - name: International Institute for Applied Systems Analysis, Laxenburg, Austria
 #  - name: 
 education:

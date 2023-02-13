@@ -22,7 +22,7 @@ social:
     link: https://orcid.org/0000-0002-8359-809X
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
-    # url: https://computationales.ethz.ch/
+    # url: https://geco-bern.ethz.ch/
   - name: ETH Zürich
   - name: Columbia University in the City of New York
 # education:
