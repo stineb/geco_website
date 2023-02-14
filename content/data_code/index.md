@@ -90,15 +90,15 @@ A cost-efficient TOPMODEL implementation to simulate sub-grid spatio-temporal dy
 
 ---
 
-## cwd
+## [cwd](https://geco-bern.github.io/cwd/)
 
 A light R package for deriving cumulative water deficits, given time series of evapotranspiration and precipitation.
 
-[Website](https://stineb.github.io/cwd/)
+[Website](https://geco-bern.github.io/cwd/)
 
 [Code](https://doi.org/10.5281/zenodo.5359053)
 
-[Development code](https://github.com/stineb/cwd/)
+[Development code](https://github.com/geco-bern/cwd/)
 
 ---
 
