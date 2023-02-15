@@ -14,11 +14,11 @@ main:
     url: teaching
     weight: 35
   - name: AGDS I
-    url: teaching/agds1
+    url: https://geco-bern.github.io/agds/
     parent: Teaching
     weight: 10
   - name: AGDS II
-    url: teaching/agds2
+    url: https://geco-bern.github.io/agds/
     parent: Teaching
     weight: 20
   - name: AGDS Proseminar
