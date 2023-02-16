@@ -8,7 +8,7 @@ main:
     url: project
     weight: 20
   - name: Data & code
-    url: data_code
+    url: https://github.com/geco-bern
     weight: 30
   - name: Teaching
     url: teaching
