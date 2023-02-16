@@ -34,49 +34,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Master thesis - Global ecosystem flux modelling</title>
-      <link>https://geco-group.org/event/eeo_fluxes/</link>
-      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://geco-group.org/event/eeo_fluxes/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
-&lt;strong&gt;Co-supervision:&lt;/strong&gt; Francesco Giardina&lt;/p&gt;
-&lt;p&gt;As a result of the higher CO2 concentration in the atmosphere, plants have adapted their stomatal regulation to increase the water-use efficiency (WUE) at the leaf level. Another driver of plant transpiration is foliage surface area, and trends in land surface greenness are thus partly linked by enhanced WUE under elevated CO2. As climate change progresses, it is critical to understand the responses of terrestrial ecosystems and surface-atmosphere exchanges of CO2 and water vapour to global environmental change.&lt;/p&gt;
-&lt;p&gt;The objective of this project is to model spatial and seasonal variations in WUE to predict evapotranspiration (ET) within an established global photosynthesis and acclimation model (productivity model or simply P-model; Stocker et al. 2020). The core of this model employs a principle of eco-evolutionary optimality to simulate acclimation of photosynthesis and transpiration based on the trade-off between costs and benefits from water loss and C assimilation. You will use observed root zone moisture storage capacity (SR) to model ET at FLUXNET sites and investigate predictions under progressing droughts. We expect that using the combination of the two key quantities WUE and SR, which are under plant-control and subject to different acclimation and adaptation across the Earth?s climate zones, will improve global ET predictions. It has been demonstrated that rooting zone adapts its extent as a function of the phase lag between peak seasonal radiation and precipitation. Following this framework, we will investigate the effect of a spatially varying rooting depth on the ratio of actual ET over precipitation.&lt;/p&gt;
-&lt;p&gt;This thesis is a great starting point for mechanistic ecosystem modelling and working with large datasets of the terrestrial biosphere. Basic experience with working with R, Python, Fortran, or other programming languages are a requirement. You may start as soon as you like. Please contact me directly if you&amp;rsquo;re interested.&lt;/p&gt;
-&lt;p&gt;It is possible to carry out this thesis in teamwork, where the partner thesis would implement a predictive model based on machine-learning instead of a mechanistic model.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Master thesis - Preindustrial land use change</title>
-      <link>https://geco-group.org/event/landcover6k/</link>
-      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://geco-group.org/event/landcover6k/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
-&lt;strong&gt;Co-supervision:&lt;/strong&gt; Prof. Dr. Fortunat Joos, Climate and Environmental Physics, Universität Bern&lt;/p&gt;
-&lt;p&gt;Human land use and land use change (LULUC) has transformed the Earth surface and is contributing to the rise in atmospheric greenhouse gas concentrations and climate change. In contrast to fossil fuel combustion, LULUC has potentially been an agent of Earth system transformation already before the Industrial period. Indeed, several prominent features in ice core records of the past 10,000 years have been linked to the rise and collapse of civilizations. However, establishing causal links and understanding the role of pre-industrial human societies in the Earth system has been challenging. Emerging past LULUC reconstructions combine insights from multiple disciplines (Archaeology, Earth system science, Land use Science and Geography) and provide a new basis for simulating impacts with Earth System Models. This is where you step in.&lt;/p&gt;
-&lt;p&gt;You will use the latest reconstructions of Holocene LULUC from the PAGES Landcover6K working group (&lt;a href=&#34;http://pastglobalchanges.org/science/wg/landcover6k/intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://pastglobalchanges.org/science/wg/landcover6k/intro,&lt;/a&gt; &lt;a href=&#34;https://stineb.github.io/holoLU_lc6k/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stineb.github.io/holoLU_lc6k/index.html&lt;/a&gt;) to run a set of global model simulations for evaluating impacts of pre-industrial LULUC on the terrestrial carbon balance.&lt;/p&gt;
-&lt;p&gt;This thesis is a great starting point for working with global Earth system and vegetation models and large spatial datasets, and for linking disciplines. Experience with programming is an advantage and your eagerness to learn a prerequisite. You may start as soon as you like.
-&lt;a href=&#34;https://stineb.github.io/holoLU_lc6k/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stineb.github.io/holoLU_lc6k/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
