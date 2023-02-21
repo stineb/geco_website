@@ -1,5 +1,5 @@
 ---
-title: Master thesis - Modelling biophysical limits to forest production
+title: Master thesis - Sink vs. source control on tree growth
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -25,8 +25,8 @@ abstract: "Vegetation models underlying climate projections predict that forests
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-12-14T00:00:00Z"
 
-authors: []
-tags: []
+authors: [Benjamin Stocker]
+tags: [sink limitation, growth modelling]
 
 # Is this a featured talk? (true/false)
 featured: false

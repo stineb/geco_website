@@ -1,20 +1,31 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: "A Song of Carbon And Nitrogen: Part 1 - The Setting"
-authors: 
-  - Pascal Schneider
-date: 2023-01-12
-description: "This blog post is the beginning of what I call 'A Song of Carbon and Nitrogen' - a simple story that tells the journey of my PhD."
-tags: 
-  - carbon-nitrogen cycle
-  - prose
-  - science communication
+subtitle: ""
+summary: ""
+authors: [Pascal Schneider]
+tags: ["carbon-nitrogen cycle", "prose", "science communication"]
+categories: []
+date: 2023-01-12T22:37:04+01:00
+lastmod: 2023-02-20T22:37:04+01:00
+featured: false
 draft: false
-type: post
-weight: 25
-showTableOfContents: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "An illustration created with DALL-E that shows (or should show at least) the mysterious and mighty dance of carbon and nitrogen in a tree."
-  
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 ## Part 1 - The Setting
