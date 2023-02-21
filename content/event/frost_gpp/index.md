@@ -18,13 +18,13 @@ abstract:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-02-21T08:24:51+01:00
 date_end: 2023-02-21T08:24:51+01:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-02-21T08:24:51+01:00
 
 authors: [Laura Marqués]
-tags: [Extreme event impacts, GPP, FLUXNET]
+tags: [Extreme event impacts, GPP, FLUXNET, BSc, MSc]
 
 # Is this a featured event? (true/false)
 featured: false

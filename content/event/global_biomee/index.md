@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2023-02-21T08:38:39+01:00
 
 authors: [Laura Marqués]
-tags: []
+tags: [growth, tree rings, FLUXNET, MSc]
 
 # Is this a featured event? (true/false)
 featured: false

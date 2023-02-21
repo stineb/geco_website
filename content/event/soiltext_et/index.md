@@ -18,13 +18,13 @@ abstract:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-02-21T10:50:18+01:00
 date_end: 2023-02-21T10:50:18+01:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-02-21T10:50:18+01:00
 
 authors: [Jaideep Joshi]
-tags: [FLUXNET, ET, soil]
+tags: [FLUXNET, ET, soil, BSc]
 
 # Is this a featured event? (true/false)
 featured: false

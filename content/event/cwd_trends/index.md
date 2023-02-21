@@ -18,13 +18,13 @@ abstract:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-02-21T08:36:01+01:00
 date_end: 2023-02-21T08:36:01+01:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-02-21T08:36:01+01:00
 
 authors: [Benjamin Stocker]
-tags: [Drought impacts, CMIP, Earth Observation]
+tags: [Drought impacts, CMIP, Earth Observation, cumulative water deficit, MSc, BSc]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -67,4 +67,23 @@ slides: ""
 projects: []
 ---
 
-Cumulative water deficits in CMIP data (climate model intercomparison), with a focus on future trends.
+## Background
+
+Droughts have major impacts on fluxes between land and the atmosphere, agricultural production, and the carbon cycle. Future projections of drought magnitude and frequencies are surprisingly divergent and interpretations of trends from Earth System Model outputs have drawn conflicting pictures of drought impact trends in a heating climate. Trends in precipitation, evapotranspiration, soil moisture, and runoff often point in different directions and are relevant for different aspects of what may be referred to as a “droughts”. 
+
+## Aim
+
+You will target seasonal water deficits as an impact-relevant quantity measuring the severity of droughts. Using outputs from the Climate Model Intercomparison Project Phase 6 (CMIP6), you will derive simulated cumulative water deficit (CWD) time series across the globe for multiple models and investigate their long-term trends.
+
+If carried out as a Master project, you will additionally develop an approach to constrain model projections with observational data.
+
+## Requirements
+
+- Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!
+- Confidence to work with large datasets of the terrestrial biosphere.
+- Experience working with R or other data science tools are an advantage.
+- The student writes the thesis in English.
+
+## Supervision
+
+- Prof. Benjamin Stocker
