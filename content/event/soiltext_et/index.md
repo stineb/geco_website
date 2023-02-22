@@ -33,7 +33,7 @@ featured: false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Photo: Nilesh Thonte"
   focal_point: ""
   preview_only: false
 
@@ -67,5 +67,30 @@ slides: ""
 projects: []
 ---
 
-- Collect soil texture information from (all) fluxnet sites
-- repeat Jiarui’s work for all sites
+## Background
+
+Global terrestrial gross primary production (GPP), i.e., the uptake of CO2 by terrestrial plants, is often limited by the availability of soil water for evapotranspiration (ET). The amount of water a plant can take up from the soil depends on the soil texture, the depth of plant roots, and the storage capacity of the soil in the plant’s rooting zone. While long-term measurements of GPP and ET are available from sites across the globe (called the FLUXNET network), soil texture properties are not available in a common database. This project aims to assemble a datset of soil properties and plant traits at FLUXNET sites, and use it to predict ET over daily and weekly timescales.
+
+## Aim
+
+The goals of this project are as follows:
+
+1. Assemble data on soil properties and traits at FLUXNET sites
+2. Calibrate an existing water balance model based on its predictions of top-soil moisture content
+3. Predict ET and cumulative water deficits and validate the same with flux data
+
+## Requirements
+
+- Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!
+- Interest in working with large datasets of the terrestrial biosphere.
+- Experience working with R or other data science tools are an advantage.
+- The student writes the thesis in English.
+
+## Literature
+
+Stocker, B.D., Tumber-Dávila, S.J., Konings, A.G. *et al.*  Global patterns of water storage in the rooting zones of vegetation. *Nat. Geosci.*  (2023). [https://doi.org/10.1038/s41561-023-01125-2](https://doi.org/10.1038/s41561-023-01125-2) 
+
+## Supervision
+
+- Prof. Benjamin Stocke
+- Dr. Jaideep Joshi

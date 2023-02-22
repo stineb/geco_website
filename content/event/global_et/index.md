@@ -67,8 +67,27 @@ slides: ""
 projects: []
 ---
 
-- Build on Jiarui’s work
-- role of uniform vs spatially varying prescribed rooting zone water storage capacity on:
-    - Budyko relationship
-    - Interannual variability of ET
-    - Memory
+## Background
+
+Global terrestrial gross primary production (GPP), i.e., the uptake of CO2 by terrestrial plants, is often limited by the availability of soil water. The amount of water a plant can take up from the soil depends on the soil texture, the depth of plant roots, and the storage capacity of the soil in the plant’s rooting zone. Global vegetation models typically only consider moisture content in the top 2m of soil, which is often not representative of the moisture conditions actually experienced by plants. In recent research, a more accurate global map of root-zone water storage capacity has been developed. This project aims at predicting and analyzing the properties of global evapo-transpiration (ET) based on this new map.
+
+## Aim
+
+The goals of this project are as follows:
+
+1. Extend a soil water balance model being developed in Prof. Stocker’s group to predict ET based on root-zone water storage capacity (RZWC)
+2. Drive the model at a global scale using a recently-developed map of RZWC 
+3. Analyze the interannual/intraannual variability in ET, test model predictions against the Budyko relationship, and test memory effects (due to water storage) on ET.
+
+## Requirements
+
+- Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!
+- Confidence to work with large datasets of the terrestrial biosphere.
+- Experience working with R or other data science tools are a prerequisite.
+- Basic understanding of mathematical modelling and a keen interest to delve deeper into modelling and programming (R and Fortran)
+- The student writes the thesis in English.
+
+## Literature
+
+Stocker, B.D., Tumber-Dávila, S.J., Konings, A.G. *et al.*  Global patterns of water storage in the rooting zones of vegetation. *Nat. Geosci.*  (2023). [https://doi.org/10.1038/s41561-023-01125-2](https://doi.org/10.1038/s41561-023-01125-2)
+

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Master and Bachelors theses - Quantifying impacts of frost events"
+title: "Bachelor thesis - Indentifying frost events and impacts in ecosystem flux measurements"
 event:
 event_url:
 location: Institute of Geography, University of Bern
@@ -24,7 +24,7 @@ all_day: true
 publishDate: 2023-02-21T08:24:51+01:00
 
 authors: [Laura Marqués]
-tags: [Extreme event impacts, GPP, FLUXNET, BSc, MSc]
+tags: [Extreme event impacts, GPP, FLUXNET, BSc]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -33,7 +33,7 @@ featured: false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Frost damage on unfolding leaves of beech in Zugerberg (Bigler & Bugmann 2018)"
   focal_point: ""
   preview_only: false
 
@@ -73,9 +73,10 @@ projects: []
 
 Climate warming is driving an advance of leaf unfolding in trees, promoting longer growing seasons. However, the advance of the start-of-the-season (SOS) can induce *false springs*, i.e., a stretch of unexpectedly warmer temperatures in late winter/early spring followed by sudden freezing events. These frost events after the SOS can affect the structure and function of terrestrial ecosystems and have important environmental and economic consequences. Still, there is little consensus on how frost events change under global warming and the implications. Therefore, it is relevant to understand the occurrence of frost events once the growing season has started and how they change among regions in temperate and boreal forests.
 
+
 ## Aim
 
-The goal of this project is to identify when the frost events happen after the SOS. The student will characterize the SOS using phenological measurements and ecosystem-level photosynthesis (gross primary production, GPP). Daily minimum temperatures will be used to calculate the number of frost events. The project design includes combining ground observations, eddy covariance flux measurements, remote sensing data and global climate datasets.
+The goal of this project is to identify when the frost events happen after the SOS and quantify their impact on carbon fluxes. The student will characterize the SOS using phenological measurements and ecosystem-level photosynthesis (gross primary production, GPP). Daily minimum temperatures will be used to calculate the number of frost events. The project design includes combining ground observations, eddy covariance flux measurements, remote sensing data and global climate datasets.
 
 ## Requirements
 

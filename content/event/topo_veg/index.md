@@ -71,6 +71,11 @@ projects: []
 
 We call on students to determine the importance of topographic and soil factors on natural vegetative landscape components (forest cover fraction, vegetation height, woody fraction).
 
+![](topo_veg.png)
+
+*Above: Images from Fan et al., 2019 https://doi.org/10.1029/2018WR023903, (a) (https://en.wikipedia.org/wiki/Desert_riparian; (b) GoogleEarth; (c) photo by Andrew Plumptre/WCS, https://news.mongabay.com/2014/11/mapping‐mistake‐leaves‐wildlife‐at‐risk/; (d) http://wikimapia.org/8582923/Pantanal‐Mato‐Grossense‐NationalPark*
+
+
 Topographic features induce strong differences in the local micro-climate due to varying degrees of water availability (drainage) and insolation. Although these patterns are intuitive and readily visible in the landscape they are not considered in vegetation modelling due to scale issues. As a first step in improving vegetation modelling a deeper understanding of these patterns is required.
 
 We invite students to model remote sensing based metrics of vegetation responses (e.g. vegetation greenness) in relation to different topographic predictors. There will be a strong focus on both the scientific component as well as the implementation, for which students will be required to use the Microsoft Planetary Computer.

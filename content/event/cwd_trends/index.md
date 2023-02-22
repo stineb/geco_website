@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Master and Bachelors theses - Trends in seasonal water deficits"
+title: "Bachelor thesis - Trends in seasonal water deficits"
 event:
 event_url:
 location: Institute of Geography, University of Bern
@@ -24,7 +24,7 @@ all_day: true
 publishDate: 2023-02-21T08:36:01+01:00
 
 authors: [Benjamin Stocker]
-tags: [Drought impacts, CMIP, Earth Observation, cumulative water deficit, MSc, BSc]
+tags: [Drought impacts, CMIP, Earth Observation, cumulative water deficit, BSc]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -75,12 +75,10 @@ Droughts have major impacts on fluxes between land and the atmosphere, agricultu
 
 You will target seasonal water deficits as an impact-relevant quantity measuring the severity of droughts. Using outputs from the Climate Model Intercomparison Project Phase 6 (CMIP6), you will derive simulated cumulative water deficit (CWD) time series across the globe for multiple models and investigate their long-term trends.
 
-If carried out as a Master project, you will additionally develop an approach to constrain model projections with observational data.
-
 ## Requirements
 
-- Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!
-- Confidence to work with large datasets of the terrestrial biosphere.
+- Most important: High motivation to work on questions related to land-atmosphere exchange and the water cycle - everything else can be learned!
+- Interest in working with large datasets from Earth System Model outputs.
 - Experience working with R or other data science tools are an advantage.
 - The student writes the thesis in English.
 
