@@ -65,7 +65,7 @@ projects:
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
-**Main supervision:** Prof. Dr. Benjamin Stocker
+**Main supervision:** Prof. Dr. Benjamin Stocker, Dr. Jaideep Joshi
 **Co-supervision:** Dr. Antoine Cabon, WSL Birmensdorf
 
 Forests currently represent a large carbon sink, offsetting a quarter of human CO2 emissions each year, bur large uncertainty remains on the future strength of this sink. Namely, vegetation models assume that tree growth is essentially limited by photosynthesis, but recent evidence suggests that currently unaccounted for biophysical limitations to tree growth by low temperatures and water stress can substantially decouple tree growth from photosynthesis. The degree to which biophysical limitations might slow down forest carbon storage is still unclear but has potentially critical implications for climate projections. 
