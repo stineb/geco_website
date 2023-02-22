@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>science communication | Geocomputation and Earth Observation</title>
-    <link>https://geco-group.org/tag/science-communication/</link>
-      <atom:link href="https://geco-group.org/tag/science-communication/index.xml" rel="self" type="application/rss+xml" />
-    <description>science communication</description>
+    <title>protect our winters | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/protect-our-winters/</link>
+      <atom:link href="https://geco-group.org/tag/protect-our-winters/index.xml" rel="self" type="application/rss+xml" />
+    <description>protect our winters</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Feb 2023 22:37:04 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
-      <title>science communication</title>
-      <link>https://geco-group.org/tag/science-communication/</link>
+      <title>protect our winters</title>
+      <link>https://geco-group.org/tag/protect-our-winters/</link>
     </image>
     
     <item>
@@ -119,37 +119,6 @@ We have already warmed the planet. Some loss of glaciers and snow is already und
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Song of Carbon And Nitrogen: Part 1 - The Setting</title>
-      <link>https://geco-group.org/post/song-cn/</link>
-      <pubDate>Thu, 12 Jan 2023 22:37:04 +0100</pubDate>
-      <guid>https://geco-group.org/post/song-cn/</guid>
-      <description>&lt;h2 id=&#34;part-1---the-setting&#34;&gt;Part 1 - The Setting&lt;/h2&gt;
-&lt;p&gt;Have you ever looked at a forest and wondered about where all this wood comes from? Like all plants, trees have the magnificent capability to draw gaseous carbon dioxide from the air and turn it into hard touchable wood. But trees do not only need carbon to grow. Like humans, they need other nutrients to build their leaves, stems, and roots. A major nutrient to do so is nitrogen - another element well hidden from our eyes that actually makes up about 80% of our earth&amp;rsquo;s atmosphere.&lt;/p&gt;
-&lt;p&gt;Unlike carbon dioxide, however, trees do no take up nitrogen through their leaves. Quite the opposite, in fact! They often rely on a tight friendship with tiny microorganisms that live attached or even within their roots. These microorganisms can access nitrogen through various ways, like absorbing it directly from the atmosphere, breaking up old plant debris, or even by chewing away on pieces of rocks.&lt;/p&gt;
-&lt;p&gt;Looking at all the trees growing around us, one may think that the acquisition of carbon and nitrogen cannot be that complicated - trees seem to do it all the time, right? And yet, the current state of knowledge shows that this is no trivial question at all. And luckily so! This complex and fascinating interplay of our ecosystem&amp;rsquo;s carbon and nitrogen cycle is my PhD&amp;rsquo;s main research topic. This blog post is the beginning of what I call &amp;ldquo;A Song of Carbon and Nitrogen&amp;rdquo;, with obvious cultural reference to the great fantasy story.&lt;/p&gt;
-&lt;p&gt;All research must be founded on a grand overarching question that embodies its relevance for our life. Understanding the carbon-nitrogen cycle is of great interest because it directly affects our biosphere&amp;rsquo;s capability of coping with human-made climate change. More carbon dioxide and a warmer climate may sound nice for plants, and indeed the biosphere&amp;rsquo;s carbon uptake has increased over the past decades&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;But for how long will this be the case? Unfortunately, we just don&amp;rsquo;t know. Once plants are limited by nutrient availability, they no longer help us tackle climate change. In fact, the IPCC&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; estimates that the feedback of the biosphere to rising CO2 (think of this feedback as &amp;ldquo;how much plants slow down climate change&amp;rdquo;) ranges from a strong negative feedback (this is good, plants take up a lot of carbon) to almost no feedback at all (this is bad, plants don&amp;rsquo;t help no more)&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;So, how can we calm our minds and find out whether plants (hopefully) continue to help us out? That is the grand challenge of my PhD. The song of carbon and nitrogen tells the story of each carbon and nitrogen atom. How trees take each of them up through air and soil, how they march through life and death as they bloom as leaves and decay as litter, how they get another chance at life thanks to tiny soil microbes that restart their life from anew. Who follows, and who leads? Who pushed and who drags?&lt;/p&gt;
-&lt;p&gt;The interactions of the carbon-nitrogen cycle are highly interwoven, complex to understand, and a mystery we need to solve to comprehend what may happen to our precious planet under the pressure of climate change. Although I have not yet settled on a precise formulation, the grand question of my PhD may sound something like this: What are the complex interactions of the carbon and nitrogen cycle in our ecosystems that determine whether the global biosphere will continue to aid us in our fight against climate change?&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Disclaimer: This blog post is part of Pascal&amp;rsquo;s PhD journey and was originally published &lt;a href=&#34;https://padasch.netlify.app/posts/2023-01-12_ascan_part1_setting/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;See Section 5.4.3 Climate Effect on Land Carbon Uptake in Chapter 5 of IPCC AR6 (&lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;)&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;IPCC: Intergovernmental Panel on Climate Change&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;
-&lt;p&gt;See Figure 5.29b (land carbon response to CO2) in Chapter 5 of IPCC AR6 (&lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/figures/chapter-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;)&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
 </description>
     </item>
     
