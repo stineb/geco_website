@@ -5,12 +5,89 @@
     <link>https://geco-group.org/post/</link>
       <atom:link href="https://geco-group.org/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Feb 2023 22:37:04 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Apr 2023 16:46:36 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Blog</title>
       <link>https://geco-group.org/post/</link>
     </image>
+    
+    <item>
+      <title>GECO at EGU 2023</title>
+      <link>https://geco-group.org/post/geco_at_egu2023/</link>
+      <pubDate>Thu, 06 Apr 2023 16:46:36 +0200</pubDate>
+      <guid>https://geco-group.org/post/geco_at_egu2023/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Our group is contributing to this year&amp;rsquo;s EGU General Assembly with various sessions, talks, and posters! See below for when and where you can find us.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;sessions&#34;&gt;Sessions&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Thursday (27 April)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU23/session/44989&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;BG3.15:&lt;/strong&gt; Terrestrial ecosystem responses to global change: integrating experiments, ecosystem observations, and models to understand carbon, nutrient, and water cycling&lt;/a&gt; convened by Benjamin D. Stocker
+&lt;ul&gt;
+&lt;li&gt;Orals: Wed, 26 Apr, 08:30–10:00 (CEST), 10:45–12:25 (CEST), Room C&lt;/li&gt;
+&lt;li&gt;Poster Attendance: Fri, 28 Apr, 14:00–15:45 (CEST), Hall A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Monday (24 April)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU23/EGU23-12108.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Photosynthesis acclimates to warming through predictable changes in photosynthetic capacities, stomatal sensitivity and enzyme kinetics&lt;/a&gt; by Pascal D. Schneider (Mon, 24 Apr, 15:15–15:25, Room 2.95)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday (25 April)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU23/EGU23-9503.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Towards a better understanding of deep belowground water stores and their influence on land-atmosphere exchange and drought impacts&lt;/a&gt; by Benjamin D. Stocker (Tue, 25 Apr, 10:50–11:10, Room 3.16/17)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday (26 April)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU23/EGU23-10303.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Divergent phenology response to nitrogen addition between a Mediterranean and a boreal forest&lt;/a&gt; by Yunpeng Luo (Wed, 26 Apr, 10:55–11:05, Room C)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Thursday (27 April)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU23/EGU23-9374.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecosystem C and N cycle interactions – diverse model representations and divergent model predictions versus collective empirical constraints&lt;/a&gt; by Benjamin D. Stocker (Thu, 27 Apr, 08:35–08:45, Room N2)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU23/EGU23-9757.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roles of diversity and adaptation in the eco-evolutionary responses of biodiverse plant communities to climate change&lt;/a&gt; by Jaideep Joshi (Thu, 27 Apr, 09:05–09:15, Room N2)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU23/EGU23-12437.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forest Drought Impact Prediction based on Spatio-temporal Satellite Imagery and Weather Forecasts &amp;ndash; A Spatio-Temporal Approach using Convolutional LSTM Models&lt;/a&gt; by Emine Didem Durukan (Thu, 27 Apr, 11:20–11:30, Room B)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU23/EGU23-12672.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forest drought impact prediction based on satellite imagery and weather forecasts - a spatially distributed approach using a recurrent deep neural network&lt;/a&gt; by Sélène Ledain (Thu, 27 Apr, 11:30–11:40, Room B)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;posters&#34;&gt;Posters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU23/EGU23-3984.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global environmental controls of land nitrous oxide emissions inferred from field and experimental measurements&lt;/a&gt; by Yunke Peng (Attendance: Fri, 28 Apr, 08:30–10:15, Hall A, A.260)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-qr-code-to-this-blog-post&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://geco-group.org/post/geco_at_egu2023/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;QR-Code to this blog post.&#34; srcset=&#34;
+               /post/geco_at_egu2023/qr_hud7be1fef60d7ca79fe62725cd577b339_23547_3dbb13ff34ddc76002709c53ec51a078.webp 400w,
+               /post/geco_at_egu2023/qr_hud7be1fef60d7ca79fe62725cd577b339_23547_3d24883e367880aa4a2c3e5efac47656.webp 760w,
+               /post/geco_at_egu2023/qr_hud7be1fef60d7ca79fe62725cd577b339_23547_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/post/geco_at_egu2023/qr_hud7be1fef60d7ca79fe62725cd577b339_23547_3dbb13ff34ddc76002709c53ec51a078.webp&#34;
+               width=&#34;250&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      QR-Code to this blog post.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Every ton of CO2 counts</title>
