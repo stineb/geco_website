@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/machine-learning/</link>
+      <atom:link href="https://geco-group.org/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>machine learning</title>
+      <link>https://geco-group.org/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Expanding a data cube workflow for machine learning</title>
+      <link>https://geco-group.org/post/minicuber/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/post/minicuber/</guid>
+      <description>&lt;p&gt;With large collections of Earth Observation (EO) data becoming increasingly available, new possibilities to better understand and quantify environmental changes also arise. The acquisition, management, distribution, and analysis of such data is not trivial and can take up the majority of the time in modelling projects. This calls for frameworks and standardised pipelines for large EO datasets. In response to some of these challenges, multiple initiatives [1,2,3] propose data cubes (or minicubes) as a structured EO data catalogue.&lt;/p&gt;
+&lt;p&gt;A data cube refers to a multi-dimensional data structure, which naturally arises with EO data where there are both the spatial and temporal components. Ideally, multiple heterogenous data sources can be combined in a minicube. Discrepancies in spatial resolutions are dealt with by regridding and resampling the various products to a common grid. Temporal aggregations can also be performed to match different timeseries.&lt;/p&gt;
+&lt;h2 id=&#34;expanding-earthnets-minicuber&#34;&gt;Expanding Earthnet&amp;rsquo;s minicuber&lt;/h2&gt;
+&lt;p&gt;The earthnet-minicuber python package [3] offers the possibility to obtain data cubes for satellite imagery and some other EO sources, but is primarily tailored towards Sentinel-2 imagery. In an effort to push forward data cubes for environmental and climate impact modelling, we extend the code such as to allow better integration of ERA5 climate reanalysis data.&lt;/p&gt;
+&lt;p&gt;The additions to the code now allow a better combination of Sentinel-2 and ERA5 data in the minicubes. It is possible to download ERA5 hourly variables via Amazon Web Servives, and automatically match the temporal frequency of Sentinel-2 which is 5-daily. The type of aggregation can be defined for each variable depening on the user’s preference and the use-case.&lt;/p&gt;
+&lt;p&gt;You can access the updated minicuber code here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/geco-bern/earthnet-minicuber&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/geco-bern/earthnet-minicuber&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;With minicubes available, the creation of pixel-level datasets ready for machine learning applications is the natural next step. Code has also been developed to generate these datasets after downloading minicubes.  In particular, one can integrate custom geospatial data to the minicube after having retrieved EO data online (for example, specific raster layers). We also offer a possibility to deal with cloud removal in the Sentinel-2 satellite imagery. Finally, context-target pairs of desired lengths can be extracted from the minicubes and are stored as compressed numpy arrays.&lt;/p&gt;
+&lt;p&gt;For more on generating datasets from minicubes, check out the code here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/seleneledain/forest_drought_forecasting/tree/main&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/seleneledain/forest_drought_forecasting/tree/main&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;Open Data Cube &lt;a href=&#34;https://www.opendatacube.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.opendatacube.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Swiss Data Cube &lt;a href=&#34;https://www.swissdatacube.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.swissdatacube.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;EarthNet Challenge &lt;a href=&#34;https://www.earthnet.tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.earthnet.tech/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
