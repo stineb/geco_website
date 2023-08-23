@@ -213,11 +213,7 @@
     <lastmod>2023-02-09T07:56:38+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/teaching/agds1/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/teaching/</loc>
+    <loc>https://geco-group.org/teaching/courses/agds1/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -4022,10 +4018,10 @@
     <loc>https://geco-group.org/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/teaching/agds2/</loc>
+    <loc>https://geco-group.org/teaching/courses/agds2/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/teaching/agds_seminar/</loc>
+    <loc>https://geco-group.org/teaching/courses/agds_seminar/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/categories/</loc>
@@ -4053,6 +4049,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/seneviratne-sonia-i./</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/teaching/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/yunke-peng/</loc>
