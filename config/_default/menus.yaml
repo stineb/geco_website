@@ -39,6 +39,10 @@ main:
     url: https://padasch.github.io/digital_soil_mapping/
     parent: tutorials
     weight: 43
+  - name: Leaf Energy Balance
+    url: https://padasch.github.io/leaf_energy_balance_tutorial/
+    parent: tutorials
+    weight: 44
   - name: Blog
     url: post
     weight: 50
