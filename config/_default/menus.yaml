@@ -21,7 +21,7 @@ main:
     url: https://geco-bern.github.io/agds2_course/
     parent: courses
   - name: Applied Geodata Science Proseminar
-    url: https://pepaaran.github.io/agds_proseminar
+    url: https://geco-bern.github.io/agds_proseminar
     parent: courses
   - name: Tutorials
     url: tutorials
