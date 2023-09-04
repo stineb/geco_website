@@ -61,7 +61,7 @@
     <lastmod>2023-05-01T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event/</loc>
+    <loc>https://geco-group.org/event_old/</loc>
     <lastmod>2023-05-01T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -69,7 +69,7 @@
     <lastmod>2023-05-01T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event/postdoc_uav/</loc>
+    <loc>https://geco-group.org/event_old/postdoc_uav/</loc>
     <lastmod>2023-05-01T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -98,6 +98,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/fluxnet/</loc>
+    <lastmod>2023-02-21T10:50:18+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/event/</loc>
     <lastmod>2023-02-21T10:50:18+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -137,7 +141,7 @@
     <lastmod>2023-02-21T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event/global_et/</loc>
+    <loc>https://geco-group.org/event_old/global_et/</loc>
     <lastmod>2023-02-21T08:40:38+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -919,10 +923,6 @@
   </url><url>
     <loc>https://geco-group.org/author/y.-zhang/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event_old/</loc>
-    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/event_old/eeo_fluxes/</loc>
