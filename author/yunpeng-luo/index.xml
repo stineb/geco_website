@@ -5,12 +5,20 @@
     <link>https://geco-group.org/author/yunpeng-luo/</link>
       <atom:link href="https://geco-group.org/author/yunpeng-luo/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunpeng Luo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/yunpeng-luo/avatar_hua37a6358d5c9b835fa457cf78c16fe35_438380_270x270_fill_lanczos_center_3.png</url>
       <title>Yunpeng Luo</title>
       <link>https://geco-group.org/author/yunpeng-luo/</link>
     </image>
+    
+    <item>
+      <title>Quantifying effects of cold acclimation and delayed springtime photosynthesis resumption in northern ecosystems</title>
+      <link>https://geco-group.org/publication/luo-23-newphyt/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/luo-23-newphyt/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

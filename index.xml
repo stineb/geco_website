@@ -5,12 +5,20 @@
     <link>https://geco-group.org/</link>
       <atom:link href="https://geco-group.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Geocomputation and Earth Observation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Geocomputation and Earth Observation</title>
       <link>https://geco-group.org/</link>
     </image>
+    
+    <item>
+      <title>An effective machine learning approach for predicting ecosystem CO$_textrm2$ assimilation across space and time</title>
+      <link>https://geco-group.org/publication/debartolomeis-23-egu/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/debartolomeis-23-egu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Expanding a data cube workflow for machine learning</title>
@@ -34,6 +42,22 @@
 &lt;li&gt;EarthNet Challenge &lt;a href=&#34;https://www.earthnet.tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.earthnet.tech/&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Competition for light can drive adverse species-composition shifts in the Amazon Forest under elevated CO2</title>
+      <link>https://geco-group.org/publication/joshi-23-biorxiv/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/joshi-23-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of climate warming on the timing of autumn leaf senescence reverses after the summer solstice</title>
+      <link>https://geco-group.org/publication/zohner-23-sci/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/zohner-23-sci/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -129,6 +153,14 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>Ideas and perspectives: Beyond model evaluation &amp;ndash; combining experiments and models to advance terrestrial ecosystem science</title>
+      <link>https://geco-group.org/publication/caldararu-23-bg/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/caldararu-23-bg/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -694,6 +726,22 @@ We have already warmed the planet. Some loss of glaciers and snow is already und
       <link>https://geco-group.org/publication/marques-23-natee/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/marques-23-natee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing evapotranspiration responses to water deficit across biomes using deep learning</title>
+      <link>https://geco-group.org/publication/giardina-23-newphyt/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/giardina-23-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying effects of cold acclimation and delayed springtime photosynthesis resumption in northern ecosystems</title>
+      <link>https://geco-group.org/publication/luo-23-newphyt/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/luo-23-newphyt/</guid>
       <description></description>
     </item>
     

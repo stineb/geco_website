@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Petra D’Odorico | Geocomputation and Earth Observation</title>
+    <title>Petra D&#39;Odorico | Geocomputation and Earth Observation</title>
     <link>https://geco-group.org/author/petra-dodorico/</link>
       <atom:link href="https://geco-group.org/author/petra-dodorico/index.xml" rel="self" type="application/rss+xml" />
-    <description>Petra D’Odorico</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <description>Petra D&#39;Odorico</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
-      <title>Petra D’Odorico</title>
+      <title>Petra D&#39;Odorico</title>
       <link>https://geco-group.org/author/petra-dodorico/</link>
     </image>
+    
+    <item>
+      <title>Quantifying effects of cold acclimation and delayed springtime photosynthesis resumption in northern ecosystems</title>
+      <link>https://geco-group.org/publication/luo-23-newphyt/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/luo-23-newphyt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Photosynthetic acclimation and sensitivity to short- and long-term environmental changes in a drought-prone forest</title>

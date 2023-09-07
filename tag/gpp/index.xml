@@ -5,12 +5,20 @@
     <link>https://geco-group.org/tag/gpp/</link>
       <atom:link href="https://geco-group.org/tag/gpp/index.xml" rel="self" type="application/rss+xml" />
     <description>GPP</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Feb 2023 08:32:52 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>GPP</title>
       <link>https://geco-group.org/tag/gpp/</link>
     </image>
+    
+    <item>
+      <title>An effective machine learning approach for predicting ecosystem CO$_textrm2$ assimilation across space and time</title>
+      <link>https://geco-group.org/publication/debartolomeis-23-egu/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/debartolomeis-23-egu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bachelor thesis - Importance of GPP extremes in eddy covariance data</title>

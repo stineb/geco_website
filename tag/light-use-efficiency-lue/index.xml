@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>light use efficiency (LUE) | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/light-use-efficiency-lue/</link>
+      <atom:link href="https://geco-group.org/tag/light-use-efficiency-lue/index.xml" rel="self" type="application/rss+xml" />
+    <description>light use efficiency (LUE)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>light use efficiency (LUE)</title>
+      <link>https://geco-group.org/tag/light-use-efficiency-lue/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying effects of cold acclimation and delayed springtime photosynthesis resumption in northern ecosystems</title>
+      <link>https://geco-group.org/publication/luo-23-newphyt/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/luo-23-newphyt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
