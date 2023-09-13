@@ -6,37 +6,55 @@
 main:
   - name: Research & Projects
     url: project
-    weight: 20
+    weight: 10
   - name: Data & code
     url: https://github.com/geco-bern
-    weight: 30
-  - name: Teaching
-    url: teaching
-    weight: 35
-  - name: AGDS I
-    url: https://geco-bern.github.io/agds/
-    parent: Teaching
-    weight: 10
-  - name: AGDS II
-    url: https://geco-bern.github.io/agds/
-    parent: Teaching
     weight: 20
-  - name: AGDS Proseminar
-    url: teaching/agds_seminar
-    parent: Teaching
+  - name: Courses
+    url: teaching
+    identifier: courses
     weight: 30
+  - name: Applied Geodata Science I
+    url: https://geco-bern.github.io/agds/
+    parent: courses
+  - name: Applied Geodata Science II
+    url: https://geco-bern.github.io/agds2_course/
+    parent: courses
+  - name: Applied Geodata Science Proseminar
+    url: teaching/agds_seminar
+    parent: courses
+  - name: Tutorials
+    url: tutorials
+    identifier: tutorials
+    weight: 40
+  - name: Applied Geodata Science
+    url: https://geco-bern.github.io/agds/
+    parent: tutorials
+    weight: 41
+  - name: A Handful of Pixels - Phenology modelling and land cover classification
+    url: https://geco-bern.github.io/handfull_of_pixels/
+    parent: tutorials
+    weight: 42
+  - name: Digital Soil Mapping
+    url: https://padasch.github.io/digital_soil_mapping/
+    parent: tutorials
+    weight: 43
+  - name: Leaf Energy Balance
+    url: https://padasch.github.io/leaf_energy_balance_tutorial/
+    parent: tutorials
+    weight: 44
   - name: Blog
     url: post
-    weight: 40
+    weight: 50
   - name: People
     url: people
-    weight: 50
+    weight: 60
   - name: Join us
     url: event
-    weight: 60
+    weight: 70
   - name: Publications
     url: publication
-    weight: 70
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90

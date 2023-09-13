@@ -2,6 +2,6 @@
 banner:
   caption: ""
   image: ""
-title: Join us - open theses
+title: Join us
 view: compact
 ---
