@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thermoregulation | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/thermoregulation/</link>
+      <atom:link href="https://geco-group.org/tag/thermoregulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>thermoregulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Sep 2023 23:06:27 +0200</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>thermoregulation</title>
+      <link>https://geco-group.org/tag/thermoregulation/</link>
+    </image>
+    
+    <item>
+      <title>Leaf Temperature&#39;s Role in Ecosystem Modeling</title>
+      <link>https://geco-group.org/post/leaf-temperature-tutorial/</link>
+      <pubDate>Wed, 13 Sep 2023 23:06:27 +0200</pubDate>
+      <guid>https://geco-group.org/post/leaf-temperature-tutorial/</guid>
+      <description>&lt;p&gt;In the realm of ecological research, leaf temperature has emerged as a quietly significant player. While seemingly inconspicuous, it holds the key to understanding the inner workings of an ecosystem&amp;rsquo;s carbon and water cycle and the processes that drive them. Imagine climate scientists striving for precision in their vegetation models or aiming to decipher intricate ecological relationships. Leaf temperature is the critical piece of this puzzle.&lt;/p&gt;
+&lt;p&gt;The debate surrounding leaf thermoregulation, the question of how leaves manage their temperature, has sparked a considerable discussions. Can plants actively control their leaf temperature? If so, when and how? This debate remains unsettled, with compelling arguments on both sides.&lt;/p&gt;
+&lt;p&gt;Adding to this intrigue is the application of eco-evolutionary optimality theory (EEO). EEO leverages natural selection&amp;rsquo;s power to shape vegetation patterns based on climate. It suggests that ecosystem traits are outcomes of climate-driven evolution. By applying EEO principles, we can predict essential photosynthetic processes solely from environmental data, revolutionizing Earth system models. And so, they might also provide important insights in thermoregulation.&lt;/p&gt;
+&lt;p&gt;But the story doesn&amp;rsquo;t end there. The quest to decipher leaf temperature continues with diverse data sources and methods, uniting ecologists, data scientists, and climate experts. This interdisciplinary endeavor makes leaf temperature a captivating field to explore.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re captivated by this riddle of leaf temperature and its profound implications for our understanding of ecosystems, delve deeper into this subject through our online &lt;a href=&#34;https://padasch.github.io/leaf_energy_balance_tutorial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt;. Discover the ongoing debate, evolving theories, and the potential EEO holds for more precise Earth system modeling. Leaf temperature may seem unassuming, but its significance in ecology and predicting our Earth&amp;rsquo;s future is undeniable. Join us in unlocking its secrets!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
