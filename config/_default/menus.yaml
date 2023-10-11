@@ -20,8 +20,8 @@ main:
   - name: Applied Geodata Science II
     url: https://geco-bern.github.io/agds2_course/
     parent: courses
-  - name: Applied Geodata Science Proseminar
-    url: teaching/agds_seminar
+  - name: Proseminar in Geocomputation and Earth Observation
+    url: https://geco-bern.github.io/agds_proseminar/
     parent: courses
   - name: Tutorials
     url: tutorials
