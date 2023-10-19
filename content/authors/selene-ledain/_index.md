@@ -31,7 +31,7 @@ email: "selene.ledain@epfl.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- Master Students
+- Alumni
 ---
 
 I am a Master student in environmental engineering and data science at EPF Lausanne. Within GECO, I am completing my Master's thesis on drought impact prediction from satellite image time series. I'm interested in working at the intersection of environmental and data science, applying latest machine learning developments to accelerate climate predictions and solutions. In particular, climate change and risks are topics that I enjoy exploring.
