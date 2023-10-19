@@ -33,7 +33,7 @@ email: "jiarwu@ethz.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- Master Students
+- Alumni
 ---
 
 I am a Master student in Environmental Science at ETH Zurich. For my Master Thesis in the GECO group, I am using the SPLASH model to improve transpiration modelling. I enjoy working in the environmental modelling field. In particular, land climate modelling.

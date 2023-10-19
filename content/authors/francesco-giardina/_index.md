@@ -37,7 +37,7 @@ email: "fgiardina@ethz.ch"
 superuser: true
 highlight_name: false
 user_groups:
-- PhD Students
+- Alumni
 ---
 
 I am an environmental engineer and PhD candidate at ETH Zürich. I investigate how plants mediate climate change in the terrestrial water and carbon cycles. My areas of interests include land-atmosphere feedbacks, applied machine learning and ecohydrology. 

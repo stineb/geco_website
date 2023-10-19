@@ -17,7 +17,7 @@ organizations:
   - name: University of Zurich
   - name: IBM Research Europe
 user_groups:
-  - Master Students
+  - Alumni
 ---
 
 I am a computer engineer and currently I am pursuing my master’s degree in Computer Science at University of Zurich. My current research focus is to implement predictive models that can predict future drought impact, and capture spatial and temporal dependencies between environmental factors and droughts. 

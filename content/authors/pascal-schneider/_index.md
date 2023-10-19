@@ -37,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: true
 user_groups:
-- PhD Students
+- Alumni
 ---
 
 Before studying climate sciences I did a Master in Environmental Sciences (with a major in Biogeochemistry and Pollutant Dynamics) at the ETH Zürich with a thesis titled "Using Eco-Evolutionary Optimality Principles to Predict the Thermal Acclimation of the Optimal Temperature of Photosynthesis". My research focus is on creating process-based models for photosynthesis which are tested against big environmental datasets and help us to make better predictions about the future. I am into climate science because understanding how our biosphere will respond to climate change will help us to create a more sustainable future. Also, I think it's simply fascinating to explore the many interactions and interdependencies on earth.

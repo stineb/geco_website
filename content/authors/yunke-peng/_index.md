@@ -41,7 +41,7 @@ email: "yunke.peng@usys.ethz.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- PhD Students
+- Alumni
 ---
 
 I am an ecologist and PhD candidate at ETH Zürich. I investigate global carbon and nitrogen cycle in terrestrial ecosystems, and especially, plant and ecosystem responses under global environmental change. My areas of interest include leaf traits, ecosystem productivity and climate change.
