@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Bachelor thesis - Indentifying frost events and impacts in ecosystem flux measurements"
+title: "Bachelor or Master thesis - Indentifying frost events and impacts in ecosystem flux measurements"
 event:
 event_url:
 location: Institute of Geography, University of Bern

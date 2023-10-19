@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Bachelor thesis - Trends in seasonal water deficits"
+title: "Bachelor or Master thesis - Trends in seasonal water deficits"
 event:
 event_url:
 location: Institute of Geography, University of Bern
