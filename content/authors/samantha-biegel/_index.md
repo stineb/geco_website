@@ -44,7 +44,7 @@ user_groups:
 - PhD Students
 ---
 
-I am in the first year of my PhD as a Doctoral Fellow at the ETH AI Center. My research interests lie at the intersection of Machine Learning and Environmental Science. I’m particularly interested in AI for scientific discovery, data-centric machine learning, as well as usability and trustworthiness of machine learning methods in sustainability applications. I am part of DS3Lab led by Ce Zhang and the Geocomputation and Earth Observation group led by Benjamin Stocker.
+I am in the second year of my PhD as a Doctoral Fellow at the ETH AI Center. My research interests lie at the intersection of Machine Learning and Environmental Science. I'm particularly interested in AI for scientific discovery, data-centric machine learning, as well as usability and trustworthiness of machine learning methods in sustainability applications. I am part of Photogrammetry and Remote Sensing group led by Konrad Schindler and the Geocomputation and Earth Observation group led by Benjamin Stocker.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}. -->
