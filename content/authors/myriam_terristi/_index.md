@@ -16,7 +16,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/myriam_trs
   # - icon: google-scholar
-  #   icon_pack: fab
+  #   icon_pack: ai
   #   link: https
   - icon: github
     icon_pack: fab
