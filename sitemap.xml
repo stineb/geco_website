@@ -23,18 +23,50 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2023-09-20T17:17:30+01:00</lastmod>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/biomass-stocks/</loc>
-    <lastmod>2023-09-20T17:17:30+01:00</lastmod>
+    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/post/</loc>
-    <lastmod>2023-09-20T17:17:30+01:00</lastmod>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/code/</loc>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/</loc>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/geospatial/</loc>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/post/map2tidy/</loc>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/netcdf/</loc>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/r/</loc>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tags/</loc>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/tidy-data/</loc>
+    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/biomass-stocks/</loc>
     <lastmod>2023-09-20T17:17:30+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -43,10 +75,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/self-thinning/</loc>
-    <lastmod>2023-09-20T17:17:30+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tags/</loc>
     <lastmod>2023-09-20T17:17:30+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -236,10 +264,6 @@
   </url><url>
     <loc>https://geco-group.org/author/yongshuo-h.-fu/</loc>
     <lastmod>2023-09-07T15:57:30+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
-    <lastmod>2023-05-01T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/event_old/</loc>
@@ -2099,10 +2123,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/post/lsd/</loc>
-    <lastmod>2019-05-13T23:19:08-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/r/</loc>
     <lastmod>2019-05-13T23:19:08-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
