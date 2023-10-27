@@ -15,7 +15,7 @@ organizations:
   url: "https://www.wsl.ch/de/mitarbeitende/gessler.html"
 - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
   url: ""
-role: Postdoc
+role: Postdoc, co-hosted WSL
 social:
 - icon: envelope
   icon_pack: fas

@@ -1,6 +1,6 @@
 ---
 title: Samantha Biegel
-role: PhD Student
+role: PhD Student, co-hosted ETH AI-Center
 avatar_filename: avatar.jpg
 bio: []
 interests:
