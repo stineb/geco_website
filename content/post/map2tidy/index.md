@@ -34,11 +34,11 @@ Geospatial data often has a time dimension. Such temporal geospatial data often 
 
 We have to open each file, read a subset of the data, close the file, and open the next one and "stitch" the data together along the time axis. Then, repeat this to read the remaining subsets of the data to finally have time series of all geospatial units (usually pixels). This creates a burdensome computational overhead and involves lots of programming. Especially if the analyses are to be carried out in parallel for the spatial units.
 
-This package solves this problem.
+The [{map2tidy}](https://geco-bern.github.io/map2tidy/) R package solves this problem.
 
 ## The solution
 
-The function `map2tidy` of our [{map2tidy} R package](https://geco-bern.github.io/map2tidy/) takes a vector of file names (full paths) of NetCDF files containing geospatial data and returns a tidy data frame where each row represents one pixel of the geospatial (raster) data and the complete time series of each pixel is contained as a nested data frame in the column `data`. This is solved in R with the code below.
+The function `map2tidy` of our [{map2tidy}](https://geco-bern.github.io/map2tidy/) R package takes a vector of file names (full paths) of NetCDF files containing geospatial data and returns a tidy data frame where each row represents one pixel of the geospatial (raster) data and the complete time series of each pixel is contained as a nested data frame in the column `data`. This is solved in R with the code below.
 
 ```r
 library(map2tidy)
