@@ -55,4 +55,4 @@ Marqués, L., Weng, E., Bugmann, H., Forrester, D. I., Rohner, B., Hobi, M. L., 
 Data analyses and evaluations were based on data from the Swiss National Forest Inventory (NFI), the Experimental Forest Management (EFM), and the Natural Forest Reserves (NFR) and are available upon request to the specific networks.
 
 ## Open access code
-Code for the data analyses and model simulations of this study is available at the GitHub repository geco-bern/GFDY, https://doi.org/10.5281/zenodo.7326085.
+Code for the data analyses and model simulations of this study are available at the GitHub repository geco-bern/GFDY, https://doi.org/10.5281/zenodo.7326085.
