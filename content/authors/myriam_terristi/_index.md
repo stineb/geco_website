@@ -1,6 +1,6 @@
 ---
 title: Myriam Terristi
-role: PhD Student
+role: PhD Student, co-hosted MPI BGC Jena, Germany
 avatar_filename: avatar.jpg
 bio: []
 interests:
