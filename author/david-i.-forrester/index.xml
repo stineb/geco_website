@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David I. Forrester | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/david-i.-forrester/</link>
+      <atom:link href="https://geco-group.org/author/david-i.-forrester/index.xml" rel="self" type="application/rss+xml" />
+    <description>David I. Forrester</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>David I. Forrester</title>
+      <link>https://geco-group.org/author/david-i.-forrester/</link>
+    </image>
+    
+    <item>
+      <title>Tree Growth Enhancement Drives a Persistent Biomass Gain in Unmanaged Temperate Forests</title>
+      <link>https://geco-group.org/publication/marques-23-aguadv/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/marques-23-aguadv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
