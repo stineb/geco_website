@@ -22,7 +22,7 @@ tags:
 - temperate and boreal forests
 categories: []
 date: '2023-01-01'
-lastmod: 2023-09-07T15:57:30+02:00
+lastmod: 2023-11-13T20:38:41+01:00
 featured: false
 draft: false
 
@@ -40,12 +40,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-09-07T13:57:30.090157Z'
+publishDate: '2023-11-13T19:38:40.929691Z'
 publication_types:
 - '2'
-abstract: Land carbon dynamics in temperate and boreal ecosystems are sensitive to
-  environmental change. Accurately simulating gross primary productivity (GPP) and
-  its seasonality is key for reliable carbon cycle projections. However, significant
+abstract: Summary Land carbon dynamics in temperate and boreal ecosystems are sensitive
+  to environmental change. Accurately simulating gross primary productivity (GPP)
+  and its seasonality is key for reliable carbon cycle projections. However, significant
   biases have been found in early spring GPP simulations of northern forests, where
   observations often suggest a later resumption of photosynthetic activity than predicted
   by models. Here, we used eddy covariance-based GPP estimates from 39 forest sites
@@ -61,8 +61,8 @@ abstract: Land carbon dynamics in temperate and boreal ecosystems are sensitive 
   by considering physiological acclimation and enables more reliable simulations of
   photosynthesis in northern forests and projections in a warming climate.
 publication: '*New Phytologist*'
-doi: 10.1111/nph.19208
+doi: https://doi.org/10.1111/nph.19208
 links:
 - name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/nph.19208
+  url: https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.19208
 ---
