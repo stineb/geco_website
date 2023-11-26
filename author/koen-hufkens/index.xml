@@ -5,12 +5,20 @@
     <link>https://geco-group.org/author/koen-hufkens/</link>
       <atom:link href="https://geco-group.org/author/koen-hufkens/index.xml" rel="self" type="application/rss+xml" />
     <description>Koen Hufkens</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Feb 2023 08:19:24 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/koen-hufkens/avatar_huf35ada2787cfa57665e57b84210ffc9c_31472_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Koen Hufkens</title>
       <link>https://geco-group.org/author/koen-hufkens/</link>
     </image>
+    
+    <item>
+      <title>rsofun: A model-data integration framework for simulating ecosystem processes</title>
+      <link>https://geco-group.org/publication/paredes-23-biorxiv/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/paredes-23-biorxiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Master and Bachelors theses - Topographic controls on vegetation patterns</title>

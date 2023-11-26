@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sonia I Seneviratne | Geocomputation and Earth Observation</title>
-    <link>https://geco-group.org/author/sonia-i-seneviratne/</link>
-      <atom:link href="https://geco-group.org/author/sonia-i-seneviratne/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sonia I Seneviratne</description>
+    <title>groundwater | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/groundwater/</link>
+      <atom:link href="https://geco-group.org/tag/groundwater/index.xml" rel="self" type="application/rss+xml" />
+    <description>groundwater</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
-      <title>Sonia I Seneviratne</title>
-      <link>https://geco-group.org/author/sonia-i-seneviratne/</link>
+      <title>groundwater</title>
+      <link>https://geco-group.org/tag/groundwater/</link>
     </image>
     
     <item>
