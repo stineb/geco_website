@@ -26,7 +26,7 @@ tags:
 - terrestrial ecosystem
 categories: []
 date: '2023-01-01'
-lastmod: 2023-11-13T20:38:40+01:00
+lastmod: 2023-11-26T22:06:06+01:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-11-13T19:38:40.645100Z'
+publishDate: '2023-11-26T21:06:06.095479Z'
 publication_types:
 - '2'
 abstract: Abstract Plant biomass production (BP), nitrogen uptake (Nup) and their
