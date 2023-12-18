@@ -34,4 +34,4 @@ education:
     year: 2019
 ---
 
-With a background in statistics and an interest in earth system modeling, Pepa is responsible for the data and computing environment of the GECO group. She supports ongoing research in various ways, from data archive curation to the implementation of model-data assimilation techniques and Bayesian parameter calibration. 
+With a background in statistics and an interest in earth system modeling, Pepa is responsible for the data and computing environment of the GECO group. She supports ongoing research in various ways, from data archive curation to the implementation of machine learning models. She also contributed to the model-data assimilation techniques and Bayesian parameter calibration in the {rsofun} package.
