@@ -16,7 +16,7 @@ content:
     background:
       brightness: 0.7
       color: '#555'
-      media: welcome.jpg
+      media: welcome_2024.jpg
       position: center
     content: "... a team of researchers driven by our curiosity to understand how the terrestrial biosphere operates."
     title: We are
