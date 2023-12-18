@@ -6,6 +6,7 @@ highlight_name: true
 interests:
 - Data science for sustainability
 - Bayesian statistics
+- Machine Learning
 - Causality
 - Open scientific software
 organizations:
@@ -22,7 +23,7 @@ social:
 superuser: true
 title: Pepa Arán
 user_groups:
-- Researchers
+- Alumni
 education:
   courses:
   - course: MSc in Statistics
