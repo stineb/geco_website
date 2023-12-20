@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yousra El-Mejjaouy | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/yousra-el-mejjaouy/</link>
+      <atom:link href="https://geco-group.org/author/yousra-el-mejjaouy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yousra El-Mejjaouy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/yousra-el-mejjaouy/avatar_huf3e03d7447fa39b77daa9bf5aa6385b4_1407914_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yousra El-Mejjaouy</title>
+      <link>https://geco-group.org/author/yousra-el-mejjaouy/</link>
+    </image>
+    
+  </channel>
+</rss>
