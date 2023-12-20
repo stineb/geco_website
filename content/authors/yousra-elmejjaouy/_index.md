@@ -24,8 +24,6 @@ social:
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
     # url: https://geco-bern.ethz.ch/
-  - name: International Institute for Applied Systems Analysis, Laxenburg, Austria
-#  - name: 
 education:
   courses:
     - course: PhD in agronomic sciences and biological engineering 
