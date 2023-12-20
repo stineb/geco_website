@@ -108,6 +108,50 @@
     </item>
     
     <item>
+      <title>Global N uptake</title>
+      <link>https://geco-group.org/post/nuptake_yunke/</link>
+      <pubDate>Wed, 18 Oct 2023 14:50:24 +0100</pubDate>
+      <guid>https://geco-group.org/post/nuptake_yunke/</guid>
+      <description>&lt;p&gt;Having good estimates for the global total annual nitrogen (N) uptake by plants is important because it tells us how much N is cycling in terrestrial ecosystems. We want to know this for example for putting the human perturbation of the global N cycle into context or as a target for models of the global carbon and nitrogen cycles. However, the amount of N taken up by plants is practically impossible to measure in the field. We therefore took an indirect approach to estimating this quantity. By knowing the annual total biomass production, the N content of new biomass, and the amount of N retained by plants when they shed their leaves (resorbing N causes leaves to turn yellow in autumn). We gathered these data from a large number of individual published field studies and complemented previously published data compilations. We further accounted for how these observed variables vary globally in relation to the environment. Based on the resulting models, we scaled each of these components (biomass production, N content, and resorption) to obtain global maps and then combined them to calculate the N uptake flux - across the globe.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-global-distribution-of-annual-nitrogen-uptake-by-vegetation-figure-from-peng-et-al-2023httpsdoiorg1011111365-274514208&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Nitrogen uptake&#34; srcset=&#34;
+               /media/nuptake_huad04fbbf5c79ce8d5e8fa3088c17f560_546966_b6cb5a8708ebf5923a6838387722e429.webp 400w,
+               /media/nuptake_huad04fbbf5c79ce8d5e8fa3088c17f560_546966_af6fe1650278204dc8841b602e7e75f3.webp 760w,
+               /media/nuptake_huad04fbbf5c79ce8d5e8fa3088c17f560_546966_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/nuptake_huad04fbbf5c79ce8d5e8fa3088c17f560_546966_b6cb5a8708ebf5923a6838387722e429.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;415&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Global distribution of annual nitrogen uptake by vegetation. Figure from &lt;a href=&#34;https://doi.org/10.1111/1365-2745.14208&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peng et al. (2023)&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Perhaps the most important finding, apart from the numbers (global total N uptake is estimated to 950 Tg N/year), is the amount of N used per biomass produced varies most strongly in relation to the share of biomass production in leaves, roots, and wood - and less so in relation to these tissues&amp;rsquo; N content. A great value of this work is also its data output. We now have large compilations of field data with global coverage that will serve our research in many ways. Stay put&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;the-published-article&#34;&gt;The published article&lt;/h2&gt;
+&lt;p&gt;Peng, Y., Prentice, I. C., Bloomfield, K. J., Campioli, M., Guo, Z., Sun, Y., Tian, Di, Wang, X., Vicca, S., &amp;amp; Stocker, B. D. (2023). Global terrestrial nitrogen uptake and nitrogen use efficiency. Journal of Ecology, 111, 2676–2693. &lt;a href=&#34;https://doi.org/10.1111/1365-2745.14208&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/1365-2745.14208&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-access-data-and-code&#34;&gt;Open access data and code&lt;/h2&gt;
+&lt;p&gt;Data and code used for analyses are available via Zenodo &lt;a href=&#34;https://doi.org/10.5281/zenodo.8182205&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.8182205&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Postdoc in drone-based vegetation water stress monitoring</title>
       <link>https://geco-group.org/event_old/postdoc_uav/</link>
       <pubDate>Mon, 01 May 2023 08:46:40 +0100</pubDate>

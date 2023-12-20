@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nitrogen | Geocomputation and Earth Observation</title>
-    <link>https://geco-group.org/tag/nitrogen/</link>
-      <atom:link href="https://geco-group.org/tag/nitrogen/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nitrogen</description>
+    <title>Ecosystem data | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/ecosystem-data/</link>
+      <atom:link href="https://geco-group.org/tag/ecosystem-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ecosystem data</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Oct 2023 14:50:24 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
-      <title>Nitrogen</title>
-      <link>https://geco-group.org/tag/nitrogen/</link>
+      <title>Ecosystem data</title>
+      <link>https://geco-group.org/tag/ecosystem-data/</link>
     </image>
     
     <item>
@@ -54,22 +54,6 @@
 &lt;h2 id=&#34;open-access-data-and-code&#34;&gt;Open access data and code&lt;/h2&gt;
 &lt;p&gt;Data and code used for analyses are available via Zenodo &lt;a href=&#34;https://doi.org/10.5281/zenodo.8182205&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.8182205&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>When things get MESI: the Manipulation Experiments Synthesis Initiative – a coordinated effort to synthesize terrestrial global change experiments</title>
-      <link>https://geco-group.org/publication/vansundert-23-gcb/</link>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://geco-group.org/publication/vansundert-23-gcb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecosystem responses to elevated CO2 governed by plant–soil interactions and the cost of nitrogen acquisition</title>
-      <link>https://geco-group.org/publication/terrer-18-newphyt/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://geco-group.org/publication/terrer-18-newphyt/</guid>
-      <description></description>
     </item>
     
   </channel>
