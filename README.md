@@ -51,3 +51,11 @@ Then edit the newly created file `content/post/my-article-name.md` with your ful
 To add a person to the website, create a new directory `content/authors/firstname-lastname`. Inside that directory, create a file named `_index.md` (you can copy an existing one and modify the content about the person) and upload a picture of them with file name `avatar.jpg` (be aware of the file size). The user groups are defined in `content/people/people.md`.
 
 NOTE: Make sure that `firstname-lastname` matches the first and last name as described in the `_index.md` file, otherwise the blog posts and publications by this person will not be linked to their profile.
+
+## Build the website
+
+Building the website and serving it can be done in R.
+```r
+blogdown::serve_site()
+```
+This returns a message containing the server address which can be opened with any web browser (copy and paste it into the address line of the browser). 
