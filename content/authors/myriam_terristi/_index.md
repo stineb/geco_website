@@ -32,7 +32,7 @@ email: "myriam.terristi@unibe.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- PhD Students
+- Co-hosted PhD Students
 ---
 
 I am a PhD student at the Max Planck Institute for Biogeochemistry (CEDI group led by Ana Bastos) in Jena, Germany and the Institute of Geography (GECO group led by Benjamin Stocker) at the University of Bern. 
