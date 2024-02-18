@@ -31,7 +31,7 @@ social:
   link: https://github.com/lypluo
 superuser: false
 user_groups:
-- Researchers
+- Alumni
 education:
   courses:
   - course: PhD in Ecology
