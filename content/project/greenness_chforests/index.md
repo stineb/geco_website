@@ -3,7 +3,7 @@
 
 title: "Greenness of Swiss Forests"
 summary: "Anomaly detection of the “greenness” of forests in Switzerland."
-authors: ["Benjamin Stocker","Koen Hufkens","Nils Tinner"]
+authors: ["Samantha Biegel","Benjamin Stocker","Koen Hufkens","Nils Tinner"]
 tags: []
 categories: []
 date: 2024-02-19T13:50:03+02:00
@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-We will develop an anomaly detection of the “greenness” of forests in Switzerland. Greenness is monitored by satellites and reflects the impacts of climate extremes (droughts, frost, storm, etc.). Detecting where and when climate extremes lead to vegetation stress and anomalous leaf senescence (browning) is challenging. Earth Observation data captures this these effects but extracting information from the large and noisy data volumes is challenging. However, its sheer volume, when combined with complementary geodata, enables novel machine learning-based methods to be applied for the task. This project explores new solutions for this challenge and find answers for an important task - mapping and quantifying impacts by climate extremes.  
+We will develop an anomaly detection of the “greenness” of forests in Switzerland. Greenness is monitored by satellites and reflects the impacts of climate extremes (droughts, frost, storm, etc.). Detecting where and when climate extremes lead to vegetation stress and anomalous leaf senescence (browning) is challenging. Earth observation data captures this these effects but extracting information from the large and noisy data volumes is challenging. However, its sheer volume, when combined with complementary geodata, enables novel machine learning-based methods to be applied for the task. This project explores new solutions for this challenge and find answers for an important task - mapping and quantifying impacts by climate extremes.  
 
 
