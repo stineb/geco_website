@@ -4,10 +4,11 @@ role: MSc Student, co-hosted Universita degli Studi Milano, Italy
 avatar_filename: avatar.jpg
 bio: []
 interests:
+  - Interdisciplinarity
+  - Modelling 
+  - Plant physiology
   - Ecohydrology
-  - Ecosystem water and carbon fluxes
-  - Root zone water storage capacity
-  
+
 social:
   - icon: envelope
     icon_pack: fas
