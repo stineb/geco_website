@@ -31,18 +31,22 @@ main:
     url: https://geco-bern.github.io/agds/
     parent: tutorials
     weight: 41
+  - name: Land in the Earth System
+    url: https://geco-bern.github.io/les/
+    parent: tutorials
+    weight: 42
   - name: A Handful of Pixels - Phenology modelling and land cover classification
     url: https://geco-bern.github.io/handfull_of_pixels/
     parent: tutorials
-    weight: 42
+    weight: 43
   - name: Digital Soil Mapping
     url: https://geco-bern.github.io/tutorial_digital_soil_mapping/
     parent: tutorials
-    weight: 43
+    weight: 44
   - name: Leaf Energy Balance
     url: https://padasch.github.io/leaf_energy_balance_tutorial/
     parent: tutorials
-    weight: 44
+    weight: 45
   - name: Blog
     url: post
     weight: 50
