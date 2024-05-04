@@ -66,11 +66,11 @@ The overarching aim of MIND is to develop new model and data fusion approaches t
 
 A postdoc position to work with me on this project (see below 'Postdoc: Scaling from trees to the forest') is open now. A link to the ad and application is [here](https://apply.refline.ch/845721/7239/pub/1/index.html). 
 
-<!-- ![MIND Eccellenza across scales](/img/dreamstime_m_76702519_verysmall.jpg) -->
+<!-- ![MIND Eccellenza across scales](dreamstime_m_76702519_verysmall.jpg) -->
 
-<!-- ![](/img/tree_root_allocation2_small.jpg) -->
+<!-- ![](tree_root_allocation2_small.jpg) -->
 
-![MIND Eccellenza across scales](/img/mind_scales.png)
+![MIND Eccellenza across scales](mind_scales.png)
 
 
 ## Key questions
@@ -89,7 +89,7 @@ Our primary target is to better understand and model **allocation**, that is the
 
 What we can observe at the small scale (from experiments, forest inventories, flux measurements, etc.) determines what is happening at the global scale. By addressing allocation from all angles, and by systematically integrating models and observational data, MIND targets a better understanding of the controls on allocation and improves our predictive ability to simulate  general patterns in allocation and its response to shifting in resource limitations and how this affects ecoystem dynamics and the terrestrial carbon balance.
 
-![MIND Eccellenza across scales](/img/mind_scales_obs.png)
+![MIND Eccellenza across scales](mind_scales_obs.png)
 
 ## Approach
 
@@ -112,7 +112,7 @@ This project will offer three fully funded positions:
 
 ... addressing three objectives:
 
-![](/img/mind_scales_projectorg.png)
+![](mind_scales_projectorg.png)
 
 ### PhD 1: The nature of nutrient limitation 
 
@@ -122,7 +122,7 @@ Research will address three key questions:
 - How does soil fertility influence the carbon cycle?
 - What controls the rates of N fixation and loss?
 
-![](/img/mind_scales_nutrients.png)
+![](mind_scales_nutrients.png)
 
 We will use the Global Change Manipulation Experiments database (under development, collaboration with [Dr. Sara Vicca, PLECO, University of Antwerp](https://www.uantwerpen.be/en/staff/sara-vicca/)) and explore the observational constraints on alternative model formulations for simulating coupled carbon and nitrogen dynamics in terrestrial ecoystems. This work will make important advances on several fronts: Generating fundamental insights into ecosystem dynamics and biogeochemical cycles, exploring new territory in model-data fusion on the basis of observations from manipulation experiments, and developing a reusable and scalable model testbed as the basis of future community-driven model intercomparisons.
 
@@ -145,7 +145,7 @@ Our target questions are:
 - How can we estimate forest growth from individual-based data (forest inventories and tree ring records)?
 - How can we combine multiple data streams to detect allocation changes in forests today?
 
-![](/img/mind_scales_objectiveC.png)
+![](mind_scales_objectiveC.png)
 
 How does climate change alter forest dynamics and what are implications for the global carbon cycle and local ecosystem services? Increasing CO2, trends in nutrient inputs from atmospheric deposition, extending growing seasons and changing drought patterns affect tree growth and forest biomass in myriad ways. One of the open key questions is whether stimulated growth in a high-CO2 world is compensated by an accelerated tree life cycle and higher mortality.
 
