@@ -34,8 +34,8 @@ jobs:
         shell: Rscript {0}
 
       - name: Install hugo
-        run: blogdown::install_hugo("0.125.4")
-        # run: blogdown::install_hugo("0.104.3")
+        # run: blogdown::install_hugo("0.125.4")
+        run: blogdown::install_hugo("0.104.3")
         shell: Rscript {0}
 
       - name: Build site
