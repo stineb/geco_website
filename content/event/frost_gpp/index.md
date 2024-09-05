@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-02-21T08:24:51+01:00
-date_end: 2023-02-21T08:24:51+01:00
+date: 2024-02-21T08:24:51+01:00
+date_end: 2024-02-21T08:24:51+01:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
@@ -73,10 +73,11 @@ projects: []
 
 Climate warming is driving an advance of leaf unfolding in trees, promoting longer growing seasons. However, the advance of the start-of-the-season (SOS) can induce *false springs*, i.e., a stretch of unexpectedly warmer temperatures in late winter/early spring followed by sudden freezing events. These frost events after the SOS can affect the structure and function of terrestrial ecosystems and have important environmental and economic consequences. Still, there is little consensus on how frost events change under global warming and the implications. Therefore, it is relevant to understand the occurrence of frost events once the growing season has started and how they change among regions in temperate and boreal forests.
 
-
 ## Aim
 
 The goal of this project is to identify when the frost events happen after the SOS and quantify their impact on carbon fluxes. The student will characterize the SOS using phenological measurements and ecosystem-level photosynthesis (gross primary production, GPP). Daily minimum temperatures will be used to calculate the number of frost events. The project design includes combining ground observations, eddy covariance flux measurements, remote sensing data and global climate datasets.
+
+If addressed as a MSc topic, there is a possiblity for a publication as a thesis outcome.
 
 ## Requirements
 
