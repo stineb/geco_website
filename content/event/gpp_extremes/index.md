@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-02-21T08:32:52+01:00
-date_end: 2023-02-21T08:32:52+01:00
+date: 2024-02-21T08:32:52+01:00
+date_end: 2024-02-21T08:32:52+01:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-02-21T08:32:52+01:00
+publishDate: 2024-02-21T08:32:52+01:00
 
-authors: [Pascal Schneider]
+authors: [Benjamin Stocker]
 tags: [FLUXNET, GPP, extreme event impacts, BSc]
 
 # Is this a featured event? (true/false)
@@ -91,5 +91,4 @@ The goal of this project is to quantify the role of GPP extremes on an ecosystem
 
 ## Supervision
 
-- Pascal Schneider
 - Prof. Benjamin Stocker
