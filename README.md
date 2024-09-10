@@ -52,6 +52,10 @@ To add a person to the website, create a new directory `content/authors/firstnam
 
 NOTE: Make sure that `firstname-lastname` matches the first and last name as described in the `_index.md` file, otherwise the blog posts and publications by this person will not be linked to their profile.
 
+### Thesis projects
+
+Thesis projects are posted under the menu item 'Join us' and handled as an Hugo "event". To add a new item, create a new directory `content/event/thesis_name`. Inside that directory, create a file named `_index.md` (you can copy an existing one and modify the content about the person) and upload a picture of them with file name `featured.png` (be aware of the file size).
+
 ## Build the website
 
 Building the website and serving it can be done in R.

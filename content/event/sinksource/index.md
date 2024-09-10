@@ -12,8 +12,8 @@ location: Institute of Geography, University of Bern and WSL Birmensdorf
 #   postcode: '94305'
 #   country: United States
 
-summary: Modelling biophysical limits to forest production
-abstract: "Vegetation models underlying climate projections predict that forests will offset a large proportion of human CO2 emissions, but these models omit important biophysical controls of tree growth. Based on a mechanistic vegetation model, you will investigate how to implement such biophysical controls and how these might impact carbon fixation by forests in the future."
+# summary: Modelling biophysical limits to forest production
+# abstract: "Vegetation models underlying climate projections predict that forests will offset a large proportion of human CO2 emissions, but these models omit important biophysical controls of tree growth. Based on a mechanistic vegetation model, you will investigate how to implement such biophysical controls and how these might impact carbon fixation by forests in the future."
 
 # Talk start and end times.
 
@@ -23,7 +23,7 @@ abstract: "Vegetation models underlying climate projections predict that forests
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-12-14T00:00:00Z"
+publishDate: "2024-09-05T00:00:00Z"
 
 authors: [Benjamin Stocker]
 tags: [sink limitation, growth modelling, MSc]
@@ -65,7 +65,7 @@ projects:
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
-**Main supervision:** Prof. Dr. Benjamin Stocker, Dr. Jaideep Joshi
+**Main supervision:** Prof. Dr. Benjamin Stocker
 **Co-supervision:** Dr. Antoine Cabon, WSL Birmensdorf
 
 Forests currently represent a large carbon sink, offsetting a quarter of human CO2 emissions each year, bur large uncertainty remains on the future strength of this sink. Namely, vegetation models assume that tree growth is essentially limited by photosynthesis, but recent evidence suggests that currently unaccounted for biophysical limitations to tree growth by low temperatures and water stress can substantially decouple tree growth from photosynthesis. The degree to which biophysical limitations might slow down forest carbon storage is still unclear but has potentially critical implications for climate projections. 

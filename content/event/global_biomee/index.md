@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-02-21T08:38:39+01:00
-date_end: 2023-02-21T08:38:39+01:00
+date: 2024-02-21T08:38:39+01:00
+date_end: 2024-02-21T08:38:39+01:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-02-21T08:38:39+01:00
+publishDate: 2024-02-21T08:38:39+01:00
 
 authors: [Laura Marqués]
 tags: [growth, tree rings, FLUXNET, MSc]

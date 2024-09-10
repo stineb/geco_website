@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-02-21T08:46:40+01:00
-date_end: 2023-02-21T08:46:40+01:00
+date: 2024-02-21T08:46:40+01:00
+date_end: 2024-02-21T08:46:40+01:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-02-21T08:46:40+01:00
+publishDate: 2024-02-21T08:46:40+01:00
 
 authors: [Benjamin Stocker]
 tags: [Earth Observation, cumulative water deficit, MSc]
@@ -73,7 +73,7 @@ Seasonal water deficits, caused by the imbalance of water from the land surface 
 
 ## Aim
 
-Novel data resources now provide analysis-ready data at field-scale resolution. This provides an opportunity to extend the analysis of Stocker et al. (2023) to the hillslope-scale. You will develop a workflow to access cloud-hosted Earth Observation data and perform analyses for deriving cumulative water deficits. This will generate crucial insights for a better understanding of the role of terrain in shaping plant water availability and for informing land managers about the sustainability of water resource use.
+Novel data resources from [OpenET](https://etdata.org/) now provide analysis-ready data at field-scale resolution. This provides an opportunity to extend the analysis of Stocker et al. (2023) to the hillslope-scale. You will develop a workflow to access cloud-hosted Earth Observation data and perform analyses for deriving cumulative water deficits. This will generate crucial insights for a better understanding of the role of terrain in shaping plant water availability and for informing land managers about the sustainability of water resource use.
 
 ## Requirements
 

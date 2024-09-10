@@ -31,7 +31,7 @@ social:
 superuser: true
 title: Koen Hufkens
 user_groups:
-- Researchers
+- Alumni
 ---
 
 As an earth system scientist and ecologist Dr. Hufkens models ecosystem processes, such as vegetation growth or drought / disturbance resistance, using various -retrospective- proxy measurements in a model data fusion approach, including among others remote sensing, dendrochronology and recovered historical data records. Throughout his career he worked interdisciplinary borrowing heavily from fields, outside of ecology, such as image vision processing (computer science), remote sensing and engineering to assist in either field measurements and/or model driven analysis.

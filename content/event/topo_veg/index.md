@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-02-21T08:19:24+01:00
-date_end: 2023-02-21T08:19:24+01:00
+date: 2024-02-21T08:19:24+01:00
+date_end: 2024-02-21T08:19:24+01:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-02-21T08:19:24+01:00
+publishDate: 2024-02-21T08:19:24+01:00
 
-authors: [Koen Hufkens]
+authors: [Benjamin Stocker]
 tags: [topography, Earth Observation, MSc, BSc]
 
 # Is this a featured event? (true/false)
@@ -74,7 +74,6 @@ We call on students to determine the importance of topographic and soil factors 
 ![](topo_veg.png)
 
 *Above: Images from Fan et al., 2019 https://doi.org/10.1029/2018WR023903, (a) (https://en.wikipedia.org/wiki/Desert_riparian; (b) GoogleEarth; (c) photo by Andrew Plumptre/WCS, https://news.mongabay.com/2014/11/mapping‐mistake‐leaves‐wildlife‐at‐risk/; (d) http://wikimapia.org/8582923/Pantanal‐Mato‐Grossense‐NationalPark*
-
 
 Topographic features induce strong differences in the local micro-climate due to varying degrees of water availability (drainage) and insolation. Although these patterns are intuitive and readily visible in the landscape they are not considered in vegetation modelling due to scale issues. As a first step in improving vegetation modelling a deeper understanding of these patterns is required.
 

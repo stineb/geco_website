@@ -16,15 +16,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-02-21T08:36:01+01:00
-date_end: 2023-02-21T08:36:01+01:00
+date: 2024-02-21T08:36:01+01:00
+date_end: 2024-02-21T08:36:01+01:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-02-21T08:36:01+01:00
+publishDate: 2024-02-21T08:36:01+01:00
 
 authors: [Benjamin Stocker]
-tags: [Drought impacts, CMIP, Earth Observation, cumulative water deficit, BSc]
+tags: [Drought impacts, CMIP6, Earth Observation, cumulative water deficit, BSc]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -73,7 +73,9 @@ Droughts have major impacts on fluxes between land and the atmosphere, agricultu
 
 ## Aim
 
-You will target seasonal water deficits as an impact-relevant quantity measuring the severity of droughts. Using outputs from the Climate Model Intercomparison Project Phase 6 (CMIP6), you will derive simulated cumulative water deficit (CWD) time series across the globe for multiple models and investigate their long-term trends.
+You will target seasonal water deficits as an impact-relevant quantity measuring the severity of droughts. Using outputs from multiple models of the the Climate Model Intercomparison Project Phase 6 (CMIP6), you will derive simulated cumulative water deficit (CWD) time series across the globe and investigate their long-term trends and differences in model projections.
+
+This project builds on a completed BSc thesis and extends its focus to a larger set of model outputs and scenarios. If addressed as a MSc topic, there is a clear possiblity for a publication as a thesis outcome.
 
 ## Requirements
 

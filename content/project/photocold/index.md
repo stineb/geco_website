@@ -40,10 +40,9 @@ url_video: ""
 slides: ""
 ---
 
-
 Ecosystem-level photosynthesis (gross primary production: GPP) can be predicted using remotely sensed information on vegetation cover, local measurements of solar radiation and relatively simple models for the efficiency of photosynthesis (Ryu et al., 2019; Stocker et al., 2019). But one aspect of model-data mismatch stands out: The early-season increase in GPP is typically simulated to be around a month too early at some sites but not at others (Fig. 1). It will be your challenge to find out why and how to resolve this model deficiency.
 
-![](/img/photocold.png)
+![](photocold.png)
 
 *Fig. 1 Mean seasonal cycle of GPP aggregated for 14 sites where without early season overestimation of modelled GPP (a) and 13 sites with an apparent overestimation of early season modelled GPP (b).*
 
