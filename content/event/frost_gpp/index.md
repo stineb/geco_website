@@ -67,12 +67,11 @@ slides: ""
 projects: []
 ---
 
-**Supervision:** Dr. Laura Marques and Prof. Benjamin Stocker
+**Supervision:** Prof. Benjamin Stocker, **Co-supervision:** Dr. Laura Marqués, Dr. Yann Vitasse (WSL Birmensdorf)
 
 ## Background
 
 Climate warming is driving an advance of leaf unfolding in trees, promoting longer growing seasons. However, the advance of the start-of-the-season (SOS) can induce *false springs*, i.e., a stretch of unexpectedly warmer temperatures in late winter/early spring followed by sudden freezing events. These frost events after the SOS can affect the structure and function of terrestrial ecosystems and have important environmental and economic consequences. Still, there is little consensus on how frost events change under global warming and the implications. Therefore, it is relevant to understand the occurrence of frost events once the growing season has started and how they change among regions in temperate and boreal forests.
-
 
 ## Aim
 
