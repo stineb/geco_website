@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Master thesis - High resolution quantification of seasonal water deficits"
+title: "Bachelor or Master thesis - High resolution quantification of seasonal water deficits"
 event:
 event_url:
 location: Institute of Geography, University of Bern
@@ -24,7 +24,7 @@ all_day: true
 publishDate: 2024-02-21T08:46:40+01:00
 
 authors: [Benjamin Stocker]
-tags: [Earth Observation, cumulative water deficit, MSc]
+tags: [Earth Observation, cumulative water deficit, MSc, BSc]
 
 # Is this a featured event? (true/false)
 featured: false
