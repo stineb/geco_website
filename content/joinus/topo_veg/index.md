@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Master and Bachelors theses - Topographic controls on vegetation patterns"
+title: "Master and Bachelor theses - Topographic controls on vegetation patterns"
 event:
 event_url:
 location: Institute of Geography, University of Bern

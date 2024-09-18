@@ -54,7 +54,7 @@ main:
     url: people
     weight: 60
   - name: Join us
-    url: event
+    url: joinus
     weight: 70
   - name: Publications
     url: publication
