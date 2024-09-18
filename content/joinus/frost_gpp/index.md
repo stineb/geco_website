@@ -67,7 +67,7 @@ slides: ""
 projects: []
 ---
 
-**Supervision:** Dr. Laura Marques and Prof. Benjamin Stocker
+**Supervision:** Prof. Benjamin Stocker, **Co-supervision:** Dr. Laura Marqués, Dr. Yann Vitasse (WSL Birmensdorf)
 
 ## Background
 

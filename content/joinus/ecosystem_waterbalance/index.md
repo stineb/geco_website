@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Bachelor or Master thesis - Ecosystem water balance"
+title: "Bachelor thesis - Ecosystem water balance and subsurface hydrology"
 event:
 event_url:
 location: Institute of Geography, University of Bern
@@ -24,7 +24,7 @@ all_day: true
 publishDate: 2024-02-21T08:24:51+01:00
 
 authors: [Benjamin Stocker]
-tags: [Extreme event impacts, ET, FLUXNET, BSc, MSc]
+tags: [Extreme event impacts, ET, FLUXNET, BSc]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -76,8 +76,6 @@ Exchange fluxes of water vapour between ecosystems and the atmosphere are common
 ## Aim
 
 This thesis will perform data analyses to relate measured annual mean evapotranspiration to site characteristics. Additional data will be prepared for characterising sites in terms of hydrological, topographic, soil, vegetation, and other aspects. The hypothesis to be tested is that sites that exhibit a high ratio of mean annual evapotranspiration over precipitation are located in topographic depressions, where subsurface water flow supplies water for evapotranspiration.
-
-If addressed as a MSc topic, there is a clear possiblity for a publication as a thesis outcome.
 
 ## Requirements
 
