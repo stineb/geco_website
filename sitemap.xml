@@ -46,6 +46,10 @@
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://geco-group.org/joinus/lgmveg/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-group.org/joinus/treerings/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -54,11 +58,19 @@
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://geco-group.org/tag/paleo-climate/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-group.org/tags/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/tree-rings/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/vegetation-dynamics/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -154,15 +166,19 @@
     <lastmod>2024-04-05T08:57:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://geco-group.org/joinus/hires_cwd/</loc>
+    <lastmod>2024-02-21T08:46:40+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/bsc/</loc>
+    <lastmod>2024-02-21T08:46:40+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-group.org/tag/cumulative-water-deficit/</loc>
     <lastmod>2024-02-21T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/earth-observation/</loc>
-    <lastmod>2024-02-21T08:46:40+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/joinus/hires_cwd/</loc>
     <lastmod>2024-02-21T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -191,10 +207,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/joinus/gpp_extremes/</loc>
-    <lastmod>2024-02-21T08:32:52+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/bsc/</loc>
     <lastmod>2024-02-21T08:32:52+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
