@@ -23,38 +23,50 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-stocker/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/biomeep/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/growth-modelling/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/event/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/event/treerings/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/msc/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tags/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/tree-rings/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/event/sinksource/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/msc/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/sink-limitation/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tags/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -166,18 +178,6 @@
     <lastmod>2024-02-21T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/tree-rings/</loc>
-    <lastmod>2024-02-21T08:38:39+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event/cwd_trends/</loc>
-    <lastmod>2024-02-21T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/bsc/</loc>
-    <lastmod>2024-02-21T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/cmip6/</loc>
     <lastmod>2024-02-21T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,7 +186,15 @@
     <lastmod>2024-02-21T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://geco-group.org/event/cwd_trends/</loc>
+    <lastmod>2024-02-21T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-group.org/event/gpp_extremes/</loc>
+    <lastmod>2024-02-21T08:32:52+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/bsc/</loc>
     <lastmod>2024-02-21T08:32:52+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -198,11 +206,11 @@
     <lastmod>2024-02-21T08:32:52+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event/ecosystem_waterbalance/</loc>
+    <loc>https://geco-group.org/event/frost_gpp/</loc>
     <lastmod>2024-02-21T08:24:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event/frost_gpp/</loc>
+    <loc>https://geco-group.org/event/ecosystem_waterbalance/</loc>
     <lastmod>2024-02-21T08:24:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
