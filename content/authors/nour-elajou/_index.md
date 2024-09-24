@@ -24,7 +24,7 @@ email: "nour.el-ajou@students.unibe.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- Master Students
+- Alumni
 ---
 
 I am a student in the Master’s Program of Climate Sciences at the UniBern and currently, I’m writing my thesis, which is a shared project of GECO and EAWAG. For my project, I model access to safely managed drinking water services in different countries, such as Laos and Nigeria and check how well such models could replace on-the-ground surveys.
