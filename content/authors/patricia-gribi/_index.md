@@ -20,7 +20,7 @@ email: "mailto:patricia.gribi@students.unibe.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- Bachelor Students
+- Alumni
 ---
 
 TBC

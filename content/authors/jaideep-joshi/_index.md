@@ -38,7 +38,7 @@ email: "jaideep.joshi@giub.unibe.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- Researchers
+- Alumni
 ---
 
 I am a researcher based at the University of Bern, Switzerland, and a guest research scholar at the International Institute for Applied Systems Analysis (IIASA), Austria. As an undergraduate, I studied Electrical Engineering, but thereafterpursued a research path in Ecology. I did my PhD on “Spatial and coevolutionary dynamics of cooperation” at the Indian Institute of Science, Bengaluru, and then joined IIASA, Austria, as a Marie-Skłodowska Curie Individual Fellow. My research interests are in evolutionary theory, vegetation modelling, and climate change. My current work focuses on developing eco-evolutioanary vegetation models to understand the role of biodiversity and adaptation in forest responses to climate change.
