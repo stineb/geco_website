@@ -47,6 +47,10 @@ main:
     url: https://padasch.github.io/leaf_energy_balance_tutorial/
     parent: tutorials
     weight: 45
+  - name: Machine learning for Eddy Covariance data
+    url: https://geco-bern.github.io/ml4ec_workshop/
+    parent: tutorials
+    weight: 46
   - name: Blog
     url: post
     weight: 50
