@@ -14,14 +14,20 @@ main:
     url: teaching
     identifier: courses
     weight: 30
-  - name: Applied Geodata Science I
+  - name: Applied Geodata Science 1
     url: https://geco-bern.github.io/agds/
     parent: courses
-  - name: Applied Geodata Science II
+  - name: Applied Geodata Science 2
     url: https://geco-bern.github.io/agds2_course/
     parent: courses
   - name: Proseminar in Geocomputation and Earth Observation
     url: https://geco-bern.github.io/agds_proseminar/
+    parent: courses
+  - name: Land in the Earth System 1
+    url: https://geco-bern.github.io/les/part1.html
+    parent: courses
+  - name: Land in the Earth System 2
+    url: https://geco-bern.github.io/les2_course/
     parent: courses
   - name: Tutorials
     url: tutorials

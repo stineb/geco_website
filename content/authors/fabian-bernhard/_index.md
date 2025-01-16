@@ -13,7 +13,7 @@ interests:
 organizations:
 - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
   url: ""
-role: Scientific Collaborator
+role: Scientific Programmer
 social:
 - icon: envelope
   icon_pack: fas

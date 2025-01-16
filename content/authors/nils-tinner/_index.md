@@ -26,7 +26,7 @@ email: "nils.tinner@unibe.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- Staff
+- Alumni
 ---
 
 I am a master student doing the master program of Climate Sciences at the university of Bern and the Oeschgr Center. I am working in the group as a junior assistant. My background is in geography, informatics and biology.

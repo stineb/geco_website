@@ -1,7 +1,7 @@
 ---
 title: Laura Marqués
 weight: 12
-role: Postdoctoral Researcher
+role: Postdoc
 avatar_filename: avatar.jpg
 bio: []
 interests:

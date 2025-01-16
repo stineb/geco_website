@@ -22,7 +22,7 @@ email: "mailto:francesco.grossi@studenti.unimi.it"
 superuser: true
 highlight_name: true
 user_groups:
-- Master Students
+- Staff
 ---
 
 I am a visiting student from University of Milan. My thesis project involves the study of the ecosystem water balance using the P-model developed by the group and the Budyko curve.

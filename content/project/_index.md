@@ -18,6 +18,6 @@ Our development of mechanistic ecosystem and terrestrial carbon cycle models is 
 
 ----
 
-# Our projects
+# Some of our past and ongoing projects
 
 <br>

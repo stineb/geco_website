@@ -11,8 +11,8 @@ content:
   count: 3
   filters:
     author: ''
-    category: ''
-    exclude_featured: false
+    category: 'highlight'
+    exclude_featured: true
     publication_type: ''
     tag: ''
   offset: 0

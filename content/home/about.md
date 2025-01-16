@@ -12,7 +12,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 10
 
-title: Grüezi - Hi there - Bienvenidos
+title: Hi there
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

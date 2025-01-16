@@ -7,7 +7,7 @@ content:
     background:
       brightness: 0.7
       color: '#666'
-      media: needle_trees.jpeg
+      media: needle_trees_panorama_reduced_lores.jpg
       position: right
     content: "We are the research group for Geocomputation and Earth Observation (GECO) at the Institute of Geography, University of Bern, Switzerland."
     title: GECO
@@ -16,7 +16,7 @@ content:
     background:
       brightness: 0.7
       color: '#555'
-      media: welcome_2024.jpg
+      media: geco_group_jan25_lores.jpg
       position: center
     content: "... a team of researchers driven by our curiosity to understand how the terrestrial biosphere operates."
     title: We are

@@ -1,5 +1,5 @@
 ---
-title: Applied Geodata Science I
+title: Applied Geodata Science 1
 summary: ''
 authors: ['Benjamin Stocker', 'Koen Hufkens', 'Pepa Aran', 'Pascal Schneider']
 date: 2023-02-09
@@ -7,8 +7,5 @@ date: 2023-02-09
 
 <br>
 
-The sheer volume of data that is becoming available now bears a huge potential for answering long-standing questions in all fields of environmental and geo-sciences. This gives rise to a new set of tools that can be used and a new set of challenges when applying them. This course teaches you the basic concepts, methods, and tools for your future data science projects in environmental sciences - in academia and in the wild. The course thus prepares you to benefit from the general data richness in environmental and geo-sciences.
+for 2nd or 3rd-year Bachelor students in Geography, but also followed by MSc students in Geography and Climate Sciences. Teaches basic methods in data wrangling, data visualisation, code management, Open Science practices, and machine learning. Contents published as an online book (here)[https://geco-bern.github.io/agds/].  First run in spring semester 2023, planned next iterations in spring 2025 and 2027.
 
-The course introduces the typical data science workflow using various examples of geographical and environmental data. With a strong hands-on component and a series of input lectures, the course introduces the basic concepts of data science and teaches how to conduct each step of the data science workflow. This includes the handling of various data formats, the formulation and fitting of robust statistical models, including basic machine learning algorithms, the effective visualisation and communication of results, and the implementation of reproducible workflows, founded in Open Science principles. The overall course goal is to teach students to tell a story with data.
-
-All tutorials use the R programming language. Personal laptops are needed.
