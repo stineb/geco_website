@@ -1,10 +1,9 @@
 ---
 title: Francesco Grossi
-role: MSc Student, co-hosted Universita degli Studi Milano, Italy
+role: Scientific Collaborator
 avatar_filename: avatar.jpg
 bio: []
 interests:
-  - Interdisciplinarity
   - Modelling 
   - Plant physiology
   - Ecohydrology
@@ -12,17 +11,17 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:francesco.grossi@studenti.unimi.it
+    link: mailto:francesco.grossi@unibe.ch
 
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
     # url: https://geco-bern.ethz.ch/
 
-email: "mailto:francesco.grossi@studenti.unimi.it"
+email: "mailto:francesco.grossi@unibe.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- Staff
+- Researchers
 ---
 
 I am a visiting student from University of Milan. My thesis project involves the study of the ecosystem water balance using the P-model developed by the group and the Budyko curve.

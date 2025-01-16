@@ -60,6 +60,8 @@ Our work yields insights into climate change impacts on land ecosystems and prov
 
 We are motivated to gain a better understanding of issues that are becoming increasingly pressing to society and policy and that are key to creating a sustainable future.
 
+{{% cta cta_link="/files/cv.pdf" cta_text="Download my CV" %}}
+
 <!-- This is my g website. Head over [here](https://geco-bern.ethz.ch/) to find the website of my group for *Computational Ecosystem Science* at ETH Zürich. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}. -->

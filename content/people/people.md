@@ -7,7 +7,7 @@ content:
   - Co-hosted PhD Students
   - Master Students
   - Bachelor Students
-  - Staff
+  - Technical personnel
   - Visitors
   - Alumni
 design:
