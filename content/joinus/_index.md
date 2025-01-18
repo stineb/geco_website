@@ -2,6 +2,6 @@
 banner:
   caption: ""
   image: ""
-title: Join us
+title: Join us - Open positions and thesis topics
 view: compact
 ---

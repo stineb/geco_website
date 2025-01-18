@@ -4,7 +4,7 @@ content:
   - Principal Investigator
   - Researchers
   - PhD Students
-  - Co-hosted PhD Students
+  - Co-supervised PhD Students
   - Master Students
   - Bachelor Students
   - Technical personnel

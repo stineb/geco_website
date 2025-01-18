@@ -4,7 +4,7 @@
 title: "Master thesis - Hyperspectral imaging of vegetation"
 event:
 event_url:
-location: Institute of Geography, University of Bern
+location: Institute of Geography and Climate and Environmental Physics, University of Bern
 address:
   street:
   city:
@@ -16,15 +16,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-02-21T08:19:24+01:00
-date_end: 2024-02-21T08:19:24+01:00
+date: 2025-01-16T08:36:01+01:00
+date_end: 2025-01-16T08:36:01+01:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-02-21T08:19:24+01:00
+publishDate: 2025-01-16T08:36:01+01:00
 
-authors: [Benjamin Stocker]
-tags: [topography, Earth Observation, MSc, BSc]
+authors: [Yousra El-Mejjaouy]
+tags: [Drone, remote sensing, hyperspectral, water stress]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -67,11 +67,12 @@ slides: ""
 projects: []
 ---
 
-**Context:** Hyperspectral imaging of vegetation has the potential to identify plant stress, including water stress. Drone-based hyperspectral imaging thus enables the assessment of plant stress across the landscape. At this scale, plant water stress is not evenly distributed and potentially relates to gradients in topography and vegetation-groundwater connectivity. For instance, downslope positions retain more groundwater compared to upslope positions, while steeper slopes accelerate surface run-off and subsurface flow, reducing soil moisture retention. Consequently, groundwater tables and depths are often defined as subdued replicas of the overlying topography.
+
+**Context:** Drone-based yperspectral imaging of vegetation has the potential to identify plant water stress across the landscape. It is hypothesised that at this scale, effects by limited moisture availability in the rooting zone are not evenly distributed and potentially relate to topographic gradients and vegetation-groundwater connectivity.
 
 **Aim:** The aim of this thesis is to perform a pilot campaign for a one-time assessment of the spectral property of the surface reflectance in a forest near Bern, relating patterns to species identity and their position in the landscape.
 
-**Methods:** Drone-based hyperspectral images and LiDAR data processing and analysis. 
+**Methods:** Drone-based hyperspectral images and LiDAR data processing and analysis.
 
 **Requirements:**
 

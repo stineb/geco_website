@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT event date).
 publishDate: 2024-12-11T08:36:01+01:00
 
-authors: [Benjamin Stocker]
+authors: [Benjamin Stocker, Frerk Pöppelmeier]
 tags: [Earth system dynamics, Tipping points, Land-atmosphere coupling, postdoc]
 
 # Is this a featured event? (true/false)

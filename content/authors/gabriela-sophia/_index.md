@@ -23,7 +23,7 @@ email: "gsophia@bgc-jena.mpg.de"
 superuser: true
 highlight_name: true
 user_groups:
-- Co-hosted PhD Students
+- Co-supervised PhD Students
 ---
 
 I am a PhD student at the Max Planck Institute for Biogeochemistry and the Institute of Geography at the University of Bern. My research focuses on investigating the implications of a dynamic nutrient resorption scheme in the QUINCY model when we simulate biogeochemical cycles and future plant growth in the face of global changes. My approach includes global meta-analysis of nutrient resorption and ecosystem model development.
