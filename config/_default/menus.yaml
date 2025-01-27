@@ -15,7 +15,7 @@ main:
     identifier: courses
     weight: 30
   - name: Applied Geodata Science 1
-    url: https://geco-bern.github.io/agds/
+    url: https://geco-bern.github.io/agds_book/
     parent: courses
   - name: Applied Geodata Science 2
     url: https://geco-bern.github.io/agds2_course/
