@@ -1,6 +1,6 @@
 ---
 title: Lara Oxley
-role: Master Student
+role: PhD Student, main supervision by Fabrice Lacroix
 avatar_filename: avatar.jpg
 bio: []
 interests:
