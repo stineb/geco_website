@@ -3,7 +3,7 @@
 
 title: "Forest thickening trends"
 summary: "Evaluating growth-biomass links in unmanaged forests"
-authors: ["Laura Marques","Benjamin Stocker"]
+authors: ["Laura Marques"]
 tags: []
 categories: []
 date: 2025-01-30T11:57:12+02:00
