@@ -42,9 +42,9 @@ slides: ""
 
 Land processes governing global water cycling and energy fluxes play an integral role in land-climate interactions. By assessing temporal changes in atmospheric demand (potential evapotranspiration, PET) and supply (precipitation, P) over land, we can gain valuable insights into drought dynamics. Changes in past drought dynamics have previously been studied in specific regions as global observations and paleoclimate proxies are scarce. A global comprehension of the natural variability of droughts and the impacts of external forcings is largely missing. We aim to fill this gap by assessing the development of drought variability throughout the last millennium, including attributing changes to internal variability and external forcings and investigating changes in extreme event distribution.
 
-![Annual maximum potential cumulative water deficit in 30 years, starting in year 1420.](lastmillennium_drought.png)
+![Ensemble mean potential cumulative water deficit (PCWD) values for the year 1420.](lastmillennium_drought.png)
 
-*Annual maximum potential cumulative water deficit in 30 years, starting in year 1420.*
+*Ensemble mean potential cumulative water deficit (PCWD) values for the year 1420.*
 
 We use output from the medium sized ensemble Modern Era SIMulations (ModE-SIM), which simulate the past 600 years of global climate (Hand et al., 2023). The simulations, divided into two epochs (1420-1849, 1850-2009), are initialized separately to account for decreasing uncertainty in radiative forcings as we approach modern times. Potential cumulative water deficit (PCWD) is calculated from the model output and used as drought metric, as it incorporates atmospheric demand (PET) and supply (P). Daily precipitation is used for calculation so the timing of precipitation events can be included, which allows for drought event definition based on the water balance. The calculation follows the cumulative water deficit algorithm implemented in the cwd package for R (Stocker, 2021). 
 
