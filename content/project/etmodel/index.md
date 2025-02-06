@@ -42,6 +42,10 @@ slides: ""
 
 Evapotranspiration (ET) is the second-largest water flux on land and influences the carbon cycle. When the soil is dry, plants close their stomata to prevent water loss and the risk of hydraulic failure, thus limiting carbon assimilation.
 
+![Modeled and observed latent energy (LE) flux, after calibration at site FR-Pue.](etmodel.png)
+
+*Modeled and observed latent energy (LE) flux, after calibration at site FR-Pue.*
+
 ET can be calculated on daily scale using the Priestly-Taylor (PT) equation (Priestley & Taylor, 1972). However, the PT equation assumes plants' stomata to be always open. This leads to an unrealistic representation of the water cycle. The Penmann-Monteith (PM) equation overcomes this problem by explicitly considering vegetation structural properties and how the vegetation activity and stomatal conductance affect ET (Monteith, 1972). This provides a link for using an eco-evolutionary optimality model (the P-model, Stocker et al., 2020) for stomatal regulation and photosynthesis for modelling ET and thus coupling water and carbon fluxes around the dynamic response of plants to the environment.
 
 In this project, we incorporate a representation of ecosystem water fluxes based on the PM equation into the P-model for simulating coupled gross primary production (GPP) and ET. We quantify how the coupled treatment of water and carbon fluxes improves the simulation of daily ET and GPP, by comparing to measurements from a worldwide network of eddy-covariance flux towers (FLUXNET) (Pastorello et al., 2020).
