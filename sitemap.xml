@@ -23,14 +23,42 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2025-02-06T11:57:12+02:00</lastmod>
+    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/project/lastmillennium_drought/</loc>
-    <lastmod>2025-02-06T11:57:12+02:00</lastmod>
+    <loc>https://geco-group.org/joinus/gpp_iav/</loc>
+    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
+    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/bsc/</loc>
+    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/</loc>
+    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/</loc>
+    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/satellite-remote-sensing/</loc>
+    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tags/</loc>
+    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/vegetation-models/</loc>
+    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/project/lastmillennium_drought/</loc>
     <lastmod>2025-02-06T11:57:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -74,20 +102,16 @@
     <lastmod>2025-01-16T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/joinus/</loc>
+    <loc>https://geco-group.org/joinus/hyperspec/</loc>
     <lastmod>2025-01-16T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/joinus/hyperspec/</loc>
+    <loc>https://geco-group.org/tag/msc/</loc>
     <lastmod>2025-01-16T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/remote-sensing/</loc>
     <lastmod>2025-01-16T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tags/</loc>
-    <lastmod>2025-01-31T10:57:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/water-stress/</loc>
@@ -99,10 +123,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/arthur-gessler/</loc>
-    <lastmod>2025-01-31T10:57:39+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -322,10 +342,6 @@
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/msc/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/paleo-climate/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -499,10 +515,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/joinus/hires_cwd/</loc>
-    <lastmod>2024-02-21T08:46:40+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/bsc/</loc>
     <lastmod>2024-02-21T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1795,10 +1807,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/vapor-pressure-deficit/</loc>
-    <lastmod>2023-11-26T22:06:06+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/vegetation-models/</loc>
     <lastmod>2023-11-26T22:06:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

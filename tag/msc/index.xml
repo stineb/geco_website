@@ -5,12 +5,30 @@
     <link>https://geco-group.org/tag/msc/</link>
       <atom:link href="https://geco-group.org/tag/msc/index.xml" rel="self" type="application/rss+xml" />
     <description>MSc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jan 2025 08:36:01 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>MSc</title>
       <link>https://geco-group.org/tag/msc/</link>
     </image>
+    
+    <item>
+      <title>Master thesis - Hyperspectral imaging of vegetation</title>
+      <link>https://geco-group.org/joinus/hyperspec/</link>
+      <pubDate>Thu, 16 Jan 2025 08:36:01 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/hyperspec/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Drone-based yperspectral imaging of vegetation has the potential to identify plant water stress across the landscape. It is hypothesised that at this scale, effects by limited moisture availability in the rooting zone are not evenly distributed and potentially relate to topographic gradients and vegetation-groundwater connectivity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim:&lt;/strong&gt; The aim of this thesis is to perform a pilot campaign for a one-time assessment of the spectral property of the surface reflectance in a forest near Bern, relating patterns to species identity and their position in the landscape.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; Drone-based hyperspectral images and LiDAR data processing and analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic understanding of remote sensing.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools is a prerequisite.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Yousra El-Mejjaouy and Prof. Benjamin Stocker&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Master thesis - LGM-Holocene vegetation dynamics</title>
@@ -159,6 +177,33 @@
 &lt;ul&gt;
 &lt;li&gt;Dr. Laura Marqués&lt;/li&gt;
 &lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor or Master thesis - Indentifying frost events and impacts in ecosystem flux measurements</title>
+      <link>https://geco-group.org/joinus/frost_gpp/</link>
+      <pubDate>Wed, 21 Feb 2024 08:24:51 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/frost_gpp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker, &lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Laura Marqués, Dr. Yann Vitasse (WSL Birmensdorf)&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Climate warming is driving an advance of leaf unfolding in trees, promoting longer growing seasons. However, the advance of the start-of-the-season (SOS) can induce &lt;em&gt;false springs&lt;/em&gt;, i.e., a stretch of unexpectedly warmer temperatures in late winter/early spring followed by sudden freezing events. These frost events after the SOS can affect the structure and function of terrestrial ecosystems and have important environmental and economic consequences. Still, there is little consensus on how frost events change under global warming and the implications. Therefore, it is relevant to understand the occurrence of frost events once the growing season has started and how they change among regions in temperate and boreal forests.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The goal of this project is to identify when the frost events happen after the SOS and quantify their impact on carbon fluxes. The student will characterize the SOS using phenological measurements and ecosystem-level photosynthesis (gross primary production, GPP). Daily minimum temperatures will be used to calculate the number of frost events. The project design includes combining ground observations, eddy covariance flux measurements, remote sensing data and global climate datasets.&lt;/p&gt;
+&lt;p&gt;If addressed as a MSc topic, there is a possiblity for a publication as a thesis outcome.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chamberlain,  C.J., Cook, B.I., Morales-Castilla, I. and Wolkovich, E.M. (2021).  Climate change reshapes the drivers of false spring risk across European trees. New Phytol, 229: 323-334.&lt;/li&gt;
+&lt;li&gt;Liu,  Q., Piao, S., Janssens, I.A. et al. (2018). Extension of the growing season increases vegetation exposure to frost. Nat Commun 9, 426 .&lt;/li&gt;
+&lt;li&gt;Hufkens,  K., Friedl, M.A., Keenan, T.F., Sonnentag, O., Bailey, A., O&amp;rsquo;Keefe, J. and Richardson, A.D. (2012). Ecological impacts of a widespread frost event following early spring leaf-out. Glob Change Biol, 18: 2365-2377.&lt;/li&gt;
+&lt;li&gt;Piao, S, Liu, Q, Chen, A, et al. (2019). Plant phenology and global climate change: Current progresses and challenges. Glob Change Biol. 25: 1922– 1940.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

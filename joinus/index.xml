@@ -5,12 +5,38 @@
     <link>https://geco-group.org/joinus/</link>
       <atom:link href="https://geco-group.org/joinus/index.xml" rel="self" type="application/rss+xml" />
     <description>Join us - Open positions and thesis topics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jan 2025 08:36:01 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2025 08:38:39 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Join us - Open positions and thesis topics</title>
       <link>https://geco-group.org/joinus/</link>
     </image>
+    
+    <item>
+      <title>Bachelor thesis - Interannual variability of terrestrial photosynthesis</title>
+      <link>https://geco-group.org/joinus/gpp_iav/</link>
+      <pubDate>Mon, 10 Feb 2025 08:38:39 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/gpp_iav/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Terrestrial photosynthesis (gross primary production, GPP) is the &amp;ldquo;engine&amp;rdquo; of the global land carbon cycle. Its variabililty between years (interannual variability) is substantial and is responsible for variable rates of accumulation of CO&lt;sub&gt;2&lt;/sub&gt; in the atmosphere. However, there is substantial uncertainty in the magnitude of this variability. While global vegetation models simulate a large interannual variability, satellite data-driven models suggest a much lower variability. Determining empirical support for these contrasting (if not conflicting) estimates of the GPP interannual variability is challenging because no direct measurements of the photosynthetic CO&lt;sub&gt;2&lt;/sub&gt; uptake flux exists at the global scale.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This project will lay the groundwork for addressing this gap. Relationships between the GPP interannual variability and other land carbon cycle quantities will be evaluated with the aim to narrow uncertainty in the former.&lt;/p&gt;
+&lt;p&gt;You will collect updated simulation outputs of terrestrial GPP and process files for a scalable analysis. The outcome of the thesis is a quantification of the global GPP interannual variability from a range of vegetation models and satellite data-based products.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Interest in large data analysis.&lt;/li&gt;
+&lt;li&gt;Familiarity with methods taught in (Applied Geodata Science)[https://geco-bern.github.io/agds_book/], Chapters 1-8. If this course has not been followed, the student will start the thesis with a self-study of respective contents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Stocker, B. D., Zscheischler, J., Keenan, T. F., Prentice, I. C., Seneviratne, S. I., and Peñuelas, J.: Drought impacts on terrestrial primary production underestimated by satellite monitoring, Nature Geoscience, 12, 264–270, &lt;a href=&#34;https://doi.org/10.1038/s41561-019-0318-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41561-019-0318-6&lt;/a&gt;, 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Master thesis - Hyperspectral imaging of vegetation</title>
