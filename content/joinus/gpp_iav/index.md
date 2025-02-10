@@ -80,7 +80,7 @@ You will collect updated simulation outputs of terrestrial GPP and process files
 ## Requirements
 
 - Interest in large data analysis.
-- Familiarity with methods taught in (Applied Geodata Science)[https://geco-bern.github.io/agds_book/], Chapters 1-8. If this course has not been followed, the student will start the thesis with a self-study of respective contents.
+- Familiarity with methods taught in [Applied Geodata Science](https://geco-bern.github.io/agds_book/), Chapters 1-8. If this course has not been followed, the student will start the thesis with a self-study of respective contents.
 
 ## Literature
 
