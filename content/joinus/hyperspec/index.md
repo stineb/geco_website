@@ -24,7 +24,7 @@ all_day: true
 publishDate: 2025-01-16T08:36:01+01:00
 
 authors: [Yousra El-Mejjaouy]
-tags: [Drone, remote sensing, hyperspectral, water stress]
+tags: [Drone, remote sensing, hyperspectral, water stress, MSc]
 
 # Is this a featured event? (true/false)
 featured: false
