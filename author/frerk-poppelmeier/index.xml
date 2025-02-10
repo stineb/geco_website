@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frerk Pöppelmeier | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/frerk-poppelmeier/</link>
+      <atom:link href="https://geco-group.org/author/frerk-poppelmeier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frerk Pöppelmeier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 08:36:01 +0100</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>Frerk Pöppelmeier</title>
+      <link>https://geco-group.org/author/frerk-poppelmeier/</link>
+    </image>
+    
+    <item>
+      <title>Postdoc - Next Generation Bern Earth System Model</title>
+      <link>https://geco-group.org/joinus/postdoc_bern3dlpx/</link>
+      <pubDate>Wed, 11 Dec 2024 08:36:01 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/postdoc_bern3dlpx/</guid>
+      <description>&lt;p&gt;The University of Bern is seeking a highly motivated postdoctoral researcher for a two-year position in Earth System Modeling with a focus on land vegetation dynamics, jointly hosted by the Climate and Environmental Physics division at the Institute of Physics and the Institute of Geography and affiliated with the Oeschger Centre for Climate Change Research.&lt;/p&gt;
+&lt;p&gt;This exciting opportunity focuses on the coupling and development of the Earth System Model of Intermediate Complexity Bern3D and the Dynamic Global Vegetation Model LPX-Bern. The successful candidate will play a crucial role in advancing the models and our understanding of Earth system processes and their interactions.&lt;/p&gt;
+&lt;h2 id=&#34;tasks&#34;&gt;Tasks&lt;/h2&gt;
+&lt;p&gt;Improve integration between Bern3D and LPX-Bern models to simulate fully coupled feedbacks between land, atmosphere, ocean, and ice sheets.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantify and identify feedbacks and tipping points in the climate system.&lt;/li&gt;
+&lt;li&gt;Validate model results against paleoclimate data and perform simulations of future climate scenarios.&lt;/li&gt;
+&lt;li&gt;Contribute to ongoing international collaborations, including the Tipping Point Model Intercomparison project (TIPMIP).&lt;/li&gt;
+&lt;li&gt;Produce high-quality scientific publications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will actively contribute to the new groups on Global Biogeochemical Modeling (Dr. Frerk Pöppelmeier) and Geocomputation and Earth Observation (Prof. Benjamin Stocker), presenting results at international scientific conferences and publishing in the peer-reviewed literature.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;The successful candidate holds a PhD degree in Climate or Earth Science, Physics, or a related field, or will have obtained the degree before the start of the project. The candidate should have a deep interest in climate modeling and possess advanced programming skills (e.g., in Python, Fortran, R, Julia) and data handling skills. Additionally, the candidate should have a passion for interdisciplinary and collaborative research and be proficient in both written and spoken English. Knowledge of dynamical vegetation modeling is an advantage.&lt;/p&gt;
+&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
+&lt;p&gt;This project offers the opportunity to work with experts in past and future climate modeling, proxy reconstructions, and land vegetation dynamics, providing an inspiring environment for Early Career Scientists in this field. The candidate will be part of a network of climate scientists across institutes and departments within the Oeschger Centre for Climate Change Research.&lt;/p&gt;
+&lt;p&gt;The envisaged starting date is 1st March 2025 or upon agreement. Employment conditions and remuneration are in accordance with the standards of the University of Bern, Switzerland. The initial appointment is for two years, with the potential for extension.
+For further information please contact Dr. Frerk Pöppelmeier (&lt;a href=&#34;mailto:frerk.poeppelmeier@unibe.ch&#34;&gt;frerk.poeppelmeier@unibe.ch&lt;/a&gt;) and/or Prof. Benjamin Stocker (&lt;a href=&#34;mailto:benjamin.stocker@unibe.ch&#34;&gt;benjamin.stocker@unibe.ch&lt;/a&gt;).
+All applications received before 14th January 2025 will be reviewed, and further applications will be considered until the position is filled. Please send your application documents in a single PDF-file including a motivation letter, CV, degree certificates, and contact information for two references by e-mail to Dr. Frerk Pöppelmeier (&lt;a href=&#34;mailto:frerk.poeppelmeier@unibe.ch&#34;&gt;frerk.poeppelmeier@unibe.ch&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

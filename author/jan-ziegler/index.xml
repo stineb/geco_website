@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Ziegler | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/jan-ziegler/</link>
+      <atom:link href="https://geco-group.org/author/jan-ziegler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Ziegler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/jan-ziegler/avatar_hu5a47a756d0de2dc341ef3a0d05b14396_1156421_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jan Ziegler</title>
+      <link>https://geco-group.org/author/jan-ziegler/</link>
+    </image>
+    
+  </channel>
+</rss>

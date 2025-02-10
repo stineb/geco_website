@@ -5,12 +5,36 @@
     <link>https://geco-group.org/author/laura-marques/</link>
       <atom:link href="https://geco-group.org/author/laura-marques/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura Marqués</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2024 08:38:39 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2025 11:57:12 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/laura-marques/avatar_hub82fa3e2085cd91083ac779fea87797b_427524_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Laura Marqués</title>
       <link>https://geco-group.org/author/laura-marques/</link>
     </image>
+    
+    <item>
+      <title>Forest thickening trends</title>
+      <link>https://geco-group.org/project/stl/</link>
+      <pubDate>Thu, 30 Jan 2025 11:57:12 +0200</pubDate>
+      <guid>https://geco-group.org/project/stl/</guid>
+      <description>&lt;p&gt;Tree growth has increased globally over the last decades but the implications for long-term carbon storage in forests remain unknown. This project aims to investigate whether enhanced tree growth drives persistent biomass increases in different regions, particularly in mature forests.&lt;/p&gt;
+&lt;p&gt;Enhanced tree growth and stand-level biomass are often linked with a simultaneous increase in density-driven mortality and a reduction in tree longevity. Identifying empirical evidence regarding the balance between these processes is challenging due to the confounding effects of stand history, management, and environmental changes. In this project, we evaluate the link between growth and biomass via the negative relationship between average tree size and stand density (tree number per area).&lt;/p&gt;
+&lt;p&gt;We find increasing stand density for a given mean tree size in unmanaged closed-canopy forests in Switzerland over the past six decades and a positive relationship between tree growth and stand density across forest plots—qualitatively consistent with our simulations using a mechanistic, cohort-resolving ecosystem model (BiomeE). Model simulations show that, in the absence of other disturbances, enhanced tree growth persistently increases biomass stocks despite simultaneous decreases in carbon residence time and tree longevity. Our analyses reconcile reports of growth-induced reductions of tree longevity with model predictions of persistent biomass increases, and with our finding of trends toward denser forests in response to growth—also in mature stands.&lt;/p&gt;
+&lt;p&gt;This project has been published in &lt;em&gt;AGU Advances&lt;/em&gt; &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022AV000859&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marqués et al. (2023)&lt;/a&gt;. After having established methods in Swiss forests, we are currently working to expand the research to other regions and forest biomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phenology and photosynthesis</title>
+      <link>https://geco-group.org/project/pheno/</link>
+      <pubDate>Thu, 30 Jan 2025 11:57:12 +0200</pubDate>
+      <guid>https://geco-group.org/project/pheno/</guid>
+      <description>&lt;p&gt;Compared to spring phenology, autumn phenology trends are less distinct, and the magnitude of changes is smaller. This is partly due to multiple confounding factors influencing end-of-season (EOS) dynamics. This project investigates the relationship between autumn phenology and photosynthesis.&lt;/p&gt;
+&lt;p&gt;Our findings show that increased photosynthesis does &lt;em&gt;not&lt;/em&gt; lead to earlier leaf shedding in autumn. While a short-term (inter-annual) relationship exists—likely driven by variations in spring phenology and constrained leaf longevity—this pattern does not hold at decadal scales or across spatial gradients. This challenges the interpretation of a recent study by &lt;a href=&#34;https://www.science.org/doi/10.1126/science.abd8911&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zani et al. (2020)&lt;/a&gt; on the drivers of autumn phenology.&lt;/p&gt;
+&lt;p&gt;Rather than being driven by carbon sink saturation (i.e., plants ceasing activity once sufficient carbon has been assimilated), long-term trends in climate and rising CO2 levels enable plants to extend their growing season. This allows them to overcome leaf-longevity constraints, meaning that an earlier leaf-out trend does not necessarily result in earlier leaf-off. Instead, the opposite is observed—both in long-term temporal trends and spatial patterns.&lt;/p&gt;
+&lt;p&gt;This project has been published in &lt;em&gt;Nature Ecology and Evolution&lt;/em&gt; &lt;a href=&#34;https://www.nature.com/articles/s41559-022-01946-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marqués et al. (2023)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Master thesis - Global land carbon cycle modelling</title>

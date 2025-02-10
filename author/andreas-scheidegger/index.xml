@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Scheidegger | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/andreas-scheidegger/</link>
+      <atom:link href="https://geco-group.org/author/andreas-scheidegger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Scheidegger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>Andreas Scheidegger</title>
+      <link>https://geco-group.org/author/andreas-scheidegger/</link>
+    </image>
+    
+    <item>
+      <title>How to use the power of AI to reduce the impact of climate change on Switzerland</title>
+      <link>https://geco-group.org/publication/holzner-how-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/holzner-how-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

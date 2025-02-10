@@ -5,12 +5,46 @@
     <link>https://geco-group.org/author/benjamin-stocker/</link>
       <atom:link href="https://geco-group.org/author/benjamin-stocker/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Stocker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/benjamin-stocker/avatar_hub22ab3715787c0675119095230c99362_4135958_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Benjamin Stocker</title>
       <link>https://geco-group.org/author/benjamin-stocker/</link>
     </image>
+    
+    <item>
+      <title>Global increase in the occurrence and impact of multiyear droughts</title>
+      <link>https://geco-group.org/publication/chen-25-sci/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/chen-25-sci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postdoc - Next Generation Bern Earth System Model</title>
+      <link>https://geco-group.org/joinus/postdoc_bern3dlpx/</link>
+      <pubDate>Wed, 11 Dec 2024 08:36:01 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/postdoc_bern3dlpx/</guid>
+      <description>&lt;p&gt;The University of Bern is seeking a highly motivated postdoctoral researcher for a two-year position in Earth System Modeling with a focus on land vegetation dynamics, jointly hosted by the Climate and Environmental Physics division at the Institute of Physics and the Institute of Geography and affiliated with the Oeschger Centre for Climate Change Research.&lt;/p&gt;
+&lt;p&gt;This exciting opportunity focuses on the coupling and development of the Earth System Model of Intermediate Complexity Bern3D and the Dynamic Global Vegetation Model LPX-Bern. The successful candidate will play a crucial role in advancing the models and our understanding of Earth system processes and their interactions.&lt;/p&gt;
+&lt;h2 id=&#34;tasks&#34;&gt;Tasks&lt;/h2&gt;
+&lt;p&gt;Improve integration between Bern3D and LPX-Bern models to simulate fully coupled feedbacks between land, atmosphere, ocean, and ice sheets.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantify and identify feedbacks and tipping points in the climate system.&lt;/li&gt;
+&lt;li&gt;Validate model results against paleoclimate data and perform simulations of future climate scenarios.&lt;/li&gt;
+&lt;li&gt;Contribute to ongoing international collaborations, including the Tipping Point Model Intercomparison project (TIPMIP).&lt;/li&gt;
+&lt;li&gt;Produce high-quality scientific publications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will actively contribute to the new groups on Global Biogeochemical Modeling (Dr. Frerk Pöppelmeier) and Geocomputation and Earth Observation (Prof. Benjamin Stocker), presenting results at international scientific conferences and publishing in the peer-reviewed literature.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;The successful candidate holds a PhD degree in Climate or Earth Science, Physics, or a related field, or will have obtained the degree before the start of the project. The candidate should have a deep interest in climate modeling and possess advanced programming skills (e.g., in Python, Fortran, R, Julia) and data handling skills. Additionally, the candidate should have a passion for interdisciplinary and collaborative research and be proficient in both written and spoken English. Knowledge of dynamical vegetation modeling is an advantage.&lt;/p&gt;
+&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
+&lt;p&gt;This project offers the opportunity to work with experts in past and future climate modeling, proxy reconstructions, and land vegetation dynamics, providing an inspiring environment for Early Career Scientists in this field. The candidate will be part of a network of climate scientists across institutes and departments within the Oeschger Centre for Climate Change Research.&lt;/p&gt;
+&lt;p&gt;The envisaged starting date is 1st March 2025 or upon agreement. Employment conditions and remuneration are in accordance with the standards of the University of Bern, Switzerland. The initial appointment is for two years, with the potential for extension.
+For further information please contact Dr. Frerk Pöppelmeier (&lt;a href=&#34;mailto:frerk.poeppelmeier@unibe.ch&#34;&gt;frerk.poeppelmeier@unibe.ch&lt;/a&gt;) and/or Prof. Benjamin Stocker (&lt;a href=&#34;mailto:benjamin.stocker@unibe.ch&#34;&gt;benjamin.stocker@unibe.ch&lt;/a&gt;).
+All applications received before 14th January 2025 will be reviewed, and further applications will be considered until the position is filled. Please send your application documents in a single PDF-file including a motivation letter, CV, degree certificates, and contact information for two references by e-mail to Dr. Frerk Pöppelmeier (&lt;a href=&#34;mailto:frerk.poeppelmeier@unibe.ch&#34;&gt;frerk.poeppelmeier@unibe.ch&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Master thesis - LGM-Holocene vegetation dynamics</title>
@@ -118,34 +152,10 @@
     </item>
     
     <item>
-      <title>Master thesis - Trends in seasonal water deficits</title>
-      <link>https://geco-group.org/joinus/cwd_trends/</link>
-      <pubDate>Wed, 21 Feb 2024 08:36:01 +0100</pubDate>
-      <guid>https://geco-group.org/joinus/cwd_trends/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Droughts have major impacts on fluxes between land and the atmosphere, agricultural production, and the carbon cycle. Future projections of drought magnitude and frequencies are surprisingly divergent and interpretations of trends from Earth System Model outputs have drawn conflicting pictures of drought impact trends in a heating climate. Trends in precipitation, evapotranspiration, soil moisture, and runoff often point in different directions and are relevant for different aspects of what may be referred to as a “droughts”.&lt;/p&gt;
-&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;You will target seasonal water deficits as an impact-relevant quantity measuring the severity of droughts. Using outputs from multiple models, scenarios, and model ensemble members of the the Climate Model Intercomparison Project Phase 6 (CMIP6), you will derive simulated cumulative water deficit (CWD) time series across the globe and investigate their long-term trends and differences between model projections.&lt;/p&gt;
-&lt;p&gt;This project builds on a completed BSc thesis and extends its focus to a larger set of model outputs and scenarios. Addressed as a MSc topic, there is a clear possiblity for a publication as a thesis outcome.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the water cycle - everything else can be learned!&lt;/li&gt;
-&lt;li&gt;Interest in working with large datasets from Earth System Model outputs.&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Bachelor thesis - Importance of GPP extremes in eddy covariance data</title>
-      <link>https://geco-group.org/joinus/gpp_extremes/</link>
+      <link>https://geco-group.org/joinus_old/gpp_extremes/</link>
       <pubDate>Wed, 21 Feb 2024 08:32:52 +0100</pubDate>
-      <guid>https://geco-group.org/joinus/gpp_extremes/</guid>
+      <guid>https://geco-group.org/joinus_old/gpp_extremes/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The gross primary production (GPP) of an ecosystem, that is, the carbon it assimilates via photosynthesis, differs strongly from one year to the next. This variability between years is called the interannual variability (IAV) of GPP and the reasons for why GPP can change substantially from year to year are unclear. From a global scale analysis, we know that the seasonal cycles in precipitation and temperature in semi-arid ecoystems contribute substantially to the global IAV of GPP, highlighting the role of water and heat. We also know that even a few unusual hours in a total year can contribute disproportionately more to an ecosystems annual carbon uptake. For example, just 2% of unusually hot hours can account for ca. 10% of an ecosystems’ total annual GPP. Considering an increase in frequency and intensity of extreme events under climate change, a better quantification and characterisation of GPP extremes is crucial to estimate the future global carbon balance.&lt;/p&gt;
 &lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
@@ -172,35 +182,10 @@
     </item>
     
     <item>
-      <title>Bachelor thesis - Ecosystem water balance and subsurface hydrology</title>
-      <link>https://geco-group.org/joinus/ecosystem_waterbalance/</link>
-      <pubDate>Wed, 21 Feb 2024 08:24:51 +0100</pubDate>
-      <guid>https://geco-group.org/joinus/ecosystem_waterbalance/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker&lt;/p&gt;
-&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Exchange fluxes of water vapour between ecosystems and the atmosphere are commonly measured using eddy-covariance technique. This gives information about how much water is transpired by plants and evaporated from soil and plant surfaces. Such fluxes are measured across a hundreds of sites globally, data is available and regularly used in our group, and interesting patterns emerge. For example, some sites appear to evaporate a large fraction of annual precipitation. Some even more than annual precipitation. This raises important questions: Is this a data artefact? Or are there topographic and hydrological patterns that can explain differences between sites?&lt;/p&gt;
-&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;This thesis will perform data analyses to relate measured annual mean evapotranspiration to site characteristics. Additional data will be prepared for characterising sites in terms of hydrological, topographic, soil, vegetation, and other aspects. The hypothesis to be tested is that sites that exhibit a high ratio of mean annual evapotranspiration over precipitation are located in topographic depressions, where subsurface water flow supplies water for evapotranspiration.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;The student is motivated to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://geco-bern.github.io/les/ecohydrology.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Land in the Earth System Chapter Ecohydrology&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Williams, C. A., Reichstein, M., Buchmann, N., Baldocchi, D., Beer, C., Schwalm, C., Wohlfahrt, G., Hasler, N., Bernhofer, C., Foken, T., Papale, D., Schymanski, S., and Schaefer, K.: Climate and vegetation controls on the surface water balance: Synthesis of evapotranspiration measured across a global network of flux towers, Water Resources Research, 48, &lt;a href=&#34;https://doi.org/10.1029/2011WR011586&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2011WR011586&lt;/a&gt;, 2012.&lt;/li&gt;
-&lt;li&gt;Thompson, S. E., Harman, C. J., Konings, A. G., Sivapalan, M., Neal, A., and Troch, P. A.: Comparative hydrology across AmeriFlux sites: The variable roles of climate, vegetation, and groundwater, Water Resources Research, 47, &lt;a href=&#34;https://doi.org/10.1029/2010WR009797&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2010WR009797&lt;/a&gt;, 2011.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Master and Bachelor theses - Topographic controls on vegetation patterns</title>
-      <link>https://geco-group.org/joinus/topo_veg/</link>
+      <link>https://geco-group.org/joinus_old/topo_veg/</link>
       <pubDate>Wed, 21 Feb 2024 08:19:24 +0100</pubDate>
-      <guid>https://geco-group.org/joinus/topo_veg/</guid>
+      <guid>https://geco-group.org/joinus_old/topo_veg/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Koen Hufkens and Prof. Benjamin Stocker&lt;/p&gt;
 &lt;p&gt;We call on students to determine the importance of topographic and soil factors on natural vegetative landscape components (forest cover fraction, vegetation height, woody fraction).&lt;/p&gt;
 &lt;p&gt;
@@ -245,6 +230,14 @@
       <description>&lt;p&gt;We will develop an anomaly detection of the “greenness” of forests in Switzerland. Greenness is monitored by satellites and reflects the impacts of climate extremes (droughts, frost, storm, etc.). Detecting where and when climate extremes lead to vegetation stress and anomalous leaf senescence (browning) is challenging. Earth observation data captures these effects, but extracting information from the large and noisy data is challenging. However, the sheer volume of the data, combined with complementary geodata, enables novel machine learning-based methods to be applied for the task. This project explores new solutions and find answers for an important task - mapping and quantifying impacts by climate extremes.&lt;/p&gt;
 &lt;p&gt;This project is funded as a &lt;em&gt;Swiss Data Science Center-University of Bern Pilot Project&lt;/em&gt; and is supported by Dr. Michele Volpi (SDSC) and David Brüggemann (SDSC).&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>How to use the power of AI to reduce the impact of climate change on Switzerland</title>
+      <link>https://geco-group.org/publication/holzner-how-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/holzner-how-2024/</guid>
+      <description></description>
     </item>
     
     <item>

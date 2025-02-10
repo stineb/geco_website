@@ -5,12 +5,57 @@
     <link>https://geco-group.org/author/patricia-helpap/</link>
       <atom:link href="https://geco-group.org/author/patricia-helpap/index.xml" rel="self" type="application/rss+xml" />
     <description>Patricia Helpap</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2025 11:57:12 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/patricia-helpap/avatar_hue9f2975f11ab1bbd14e108834489b270_177364_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Patricia Helpap</title>
       <link>https://geco-group.org/author/patricia-helpap/</link>
     </image>
+    
+    <item>
+      <title>Droughts in the last millennium</title>
+      <link>https://geco-group.org/project/lastmillennium_drought/</link>
+      <pubDate>Thu, 06 Feb 2025 11:57:12 +0200</pubDate>
+      <guid>https://geco-group.org/project/lastmillennium_drought/</guid>
+      <description>&lt;p&gt;Land processes governing global water cycling and energy fluxes play an integral role in land-climate interactions. By assessing temporal changes in atmospheric demand (potential evapotranspiration, PET) and supply (precipitation, P) over land, we can gain valuable insights into drought dynamics. Changes in past drought dynamics have previously been studied in specific regions as global observations and paleoclimate proxies are scarce. A global comprehension of the natural variability of droughts and the impacts of external forcings is largely missing. We aim to fill this gap by assessing the development of drought variability throughout the last millennium, including attributing changes to internal variability and external forcings and investigating changes in extreme event distribution.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Ensemble mean potential cumulative water deficit (PCWD) values for the year 1420.&#34; srcset=&#34;
+               /media/lastmillennium_drought_hu401a14fdcee016c423edcd5fa5f4f287_394244_298a70424b6d2d7176ed2e92cf342de6.webp 400w,
+               /media/lastmillennium_drought_hu401a14fdcee016c423edcd5fa5f4f287_394244_ca05eecb8f7a2d2c51b9359bf84d7151.webp 760w,
+               /media/lastmillennium_drought_hu401a14fdcee016c423edcd5fa5f4f287_394244_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/lastmillennium_drought_hu401a14fdcee016c423edcd5fa5f4f287_394244_298a70424b6d2d7176ed2e92cf342de6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;456&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ensemble mean potential cumulative water deficit (PCWD) values for the year 1420.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We use output from the medium sized ensemble Modern Era SIMulations (ModE-SIM), which simulate the past 600 years of global climate (Hand et al., 2023). The simulations, divided into two epochs (1420-1849, 1850-2009), are initialized separately to account for decreasing uncertainty in radiative forcings as we approach modern times. Potential cumulative water deficit (PCWD) is calculated from the model output and used as drought metric, as it incorporates atmospheric demand (PET) and supply (P). Daily precipitation is used for calculation so the timing of precipitation events can be included, which allows for drought event definition based on the water balance. The calculation follows the cumulative water deficit algorithm implemented in the cwd package for R (Stocker, 2021).&lt;/p&gt;
+&lt;p&gt;For analysis, global PCWD and annual maximum PCWD time series are calculated by gridcell for all 60 ensemble members. To investigate changes over the simulated period, trend and low-frequency variability are assessed. Further, forced versus unforced variability are separated and analysed. Extreme value analysis of PCWD annual maxima is carried out for each gridcell, globally. This also allows us to situate recent droughts in the statistical context established from large ensemble simulations covering 600 years.&lt;/p&gt;
+&lt;p&gt;Ultimately, this research hopes to enhance our understanding of global preindustrial drought characteristics, including its simulated natural variability and developments in a warming world.&lt;/p&gt;
+&lt;p&gt;This project is carried out as part of a MSc thesis and early results will be presented at the ZHydro – “Missing links in drought research” conference in early March 2025.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Hand, R. et al. (2023) ‘ModE-Sim – a medium-sized atmospheric general circulation model (AGCM) ensemble to study climate variability during the modern era (1420 to 2009)’, Geoscientific Model Development, 16(16), pp. 4853–4866. Available at: &lt;a href=&#34;https://doi.org/10.5194/gmd-16-4853-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-16-4853-2023&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Benjamin Stocker. (2021). cwd v1.0: R package for cumulative water deficit calculation (v1.0). Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.5359053&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.5359053&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -31,6 +31,77 @@
     </item>
     
     <item>
+      <title>Bachelor thesis - Importance of GPP extremes in eddy covariance data</title>
+      <link>https://geco-group.org/joinus_old/gpp_extremes/</link>
+      <pubDate>Wed, 21 Feb 2024 08:32:52 +0100</pubDate>
+      <guid>https://geco-group.org/joinus_old/gpp_extremes/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The gross primary production (GPP) of an ecosystem, that is, the carbon it assimilates via photosynthesis, differs strongly from one year to the next. This variability between years is called the interannual variability (IAV) of GPP and the reasons for why GPP can change substantially from year to year are unclear. From a global scale analysis, we know that the seasonal cycles in precipitation and temperature in semi-arid ecoystems contribute substantially to the global IAV of GPP, highlighting the role of water and heat. We also know that even a few unusual hours in a total year can contribute disproportionately more to an ecosystems annual carbon uptake. For example, just 2% of unusually hot hours can account for ca. 10% of an ecosystems’ total annual GPP. Considering an increase in frequency and intensity of extreme events under climate change, a better quantification and characterisation of GPP extremes is crucial to estimate the future global carbon balance.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The goal of this project is to quantify the role of GPP extremes on an ecosystem’s carbon uptake, using FLUXNET data (half-hourly measured land-atmosphere exchange of carbon dioxide). The first aim is to identify years that show GPP extremes, that is, anomalies in their annual total GPP. Then, a suitable method to assess the effect of extreme days within these anomalous years on the year’s total GPP is explored by (e.g., using a Gini index). Further questions may cover investigating the difference across globally distributed sites or comparing observed against modelled GPP to identify the drivers of GPP extremes.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!&lt;/li&gt;
+&lt;li&gt;Confidence to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ahlström A, Raupach MR, Schurgers G, Smith B, Arneth A, Jung M, Reichstein M, Canadell JG, Friedlingstein P, Jain AK, &lt;em&gt;et al.&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;2015&lt;/strong&gt;. The dominant role of semi-arid ecosystems in the trend and variability of the land CO 2 sink. &lt;em&gt;Science&lt;/em&gt; &lt;strong&gt;348&lt;/strong&gt;: 895–899.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kannenberg SA, Bowling DR, Anderegg WRL&lt;/strong&gt;. &lt;strong&gt;2020&lt;/strong&gt;. Hot moments in ecosystem fluxes: High GPP anomalies exert outsized influence on the carbon cycle and are differentially driven by moisture availability across biomes. &lt;em&gt;Environmental Research Letters&lt;/em&gt; &lt;strong&gt;15&lt;/strong&gt;: 054004.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Launiainen S, Katul GG, Leppä K, Kolari P, Aslan T, Grönholm T, Korhonen L, Mammarella I, Vesala T&lt;/strong&gt;. &lt;strong&gt;2022&lt;/strong&gt;. Does growing atmospheric CO 2 explain increasing carbon sink in a boreal coniferous forest? &lt;em&gt;Global Change Biology&lt;/em&gt; &lt;strong&gt;28&lt;/strong&gt;: 2910–2929.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wieder WR, Butterfield Z, Lindsay K, Lombardozzi DL, Keppel‐Aleks G&lt;/strong&gt;. &lt;strong&gt;2021&lt;/strong&gt;. Interannual and Seasonal Drivers of Carbon Cycle Variability Represented by the Community Earth System Model (CESM2). &lt;em&gt;Global Biogeochemical Cycles&lt;/em&gt; &lt;strong&gt;35&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master and Bachelor theses - Topographic controls on vegetation patterns</title>
+      <link>https://geco-group.org/joinus_old/topo_veg/</link>
+      <pubDate>Wed, 21 Feb 2024 08:19:24 +0100</pubDate>
+      <guid>https://geco-group.org/joinus_old/topo_veg/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Koen Hufkens and Prof. Benjamin Stocker&lt;/p&gt;
+&lt;p&gt;We call on students to determine the importance of topographic and soil factors on natural vegetative landscape components (forest cover fraction, vegetation height, woody fraction).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_2bf19d0f703817b555b0eb7e38ac385c.webp 400w,
+               /media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_f739eef616b39c6a7a9421f644d9bab8.webp 760w,
+               /media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_2bf19d0f703817b555b0eb7e38ac385c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;562&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Above: Images from Fan et al., 2019 &lt;a href=&#34;https://doi.org/10.1029/2018WR023903&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2018WR023903&lt;/a&gt;, (a) (&lt;a href=&#34;https://en.wikipedia.org/wiki/Desert_riparian;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Desert_riparian;&lt;/a&gt; (b) GoogleEarth; (c) photo by Andrew Plumptre/WCS, &lt;a href=&#34;https://news.mongabay.com/2014/11/mapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.mongabay.com/2014/11/mapping&lt;/a&gt;‐mistake‐leaves‐wildlife‐at‐risk/; (d) &lt;a href=&#34;http://wikimapia.org/8582923/Pantanal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wikimapia.org/8582923/Pantanal&lt;/a&gt;‐Mato‐Grossense‐NationalPark&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Topographic features induce strong differences in the local micro-climate due to varying degrees of water availability (drainage) and insolation. Although these patterns are intuitive and readily visible in the landscape they are not considered in vegetation modelling due to scale issues. As a first step in improving vegetation modelling a deeper understanding of these patterns is required.&lt;/p&gt;
+&lt;p&gt;We invite students to model remote sensing based metrics of vegetation responses (e.g. vegetation greenness) in relation to different topographic predictors. There will be a strong focus on both the scientific component as well as the implementation, for which students will be required to use the Microsoft Planetary Computer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Postdoc in drone-based vegetation water stress monitoring</title>
       <link>https://geco-group.org/joinus_old/postdoc_uav/</link>
       <pubDate>Mon, 01 May 2023 08:46:40 +0100</pubDate>

@@ -5,7 +5,7 @@
     <link>https://geco-group.org/author/benjamin-d.-stocker/</link>
       <atom:link href="https://geco-group.org/author/benjamin-d.-stocker/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin D. Stocker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Benjamin D. Stocker</title>
@@ -13,10 +13,66 @@
     </image>
     
     <item>
+      <title>Evidence for widespread thermal acclimation of canopy photosynthesis</title>
+      <link>https://geco-group.org/publication/liu-24-natplants/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/liu-24-natplants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why models underestimate West African tropical forest primary productivity</title>
+      <link>https://geco-group.org/publication/zhang-24-natcomm/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/zhang-24-natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations in vascular plants</title>
+      <link>https://geco-group.org/publication/tian-24-natcomm/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/tian-24-natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Enhanced prediction of vegetation responses to extreme drought using deep learning and Earth observation data</title>
       <link>https://geco-group.org/publication/kladny-24-ecolinf/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/kladny-24-ecolinf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CN-model: A dynamic model for the coupled carbon and nitrogen cycles in terrestrial ecosystems</title>
+      <link>https://geco-group.org/publication/stockerprentice-24/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/stockerprentice-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groundwater rivals aridity in determining global photosynthesis</title>
+      <link>https://geco-group.org/publication/giardina-groundwater-2024/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/giardina-groundwater-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions</title>
+      <link>https://geco-group.org/publication/stocker-24-newphyt/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/stocker-24-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree water uptake patterns across the globe</title>
+      <link>https://geco-group.org/publication/bachofen-24-newphyt/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/bachofen-24-newphyt/</guid>
       <description></description>
     </item>
     

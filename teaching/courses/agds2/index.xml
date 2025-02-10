@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Applied Geodata Science II | Geocomputation and Earth Observation</title>
+    <title>Applied Geodata Science 2 | Geocomputation and Earth Observation</title>
     <link>https://geco-group.org/teaching/courses/agds2/</link>
       <atom:link href="https://geco-group.org/teaching/courses/agds2/index.xml" rel="self" type="application/rss+xml" />
-    <description>Applied Geodata Science II</description>
+    <description>Applied Geodata Science 2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
-      <title>Applied Geodata Science II</title>
+      <title>Applied Geodata Science 2</title>
       <link>https://geco-group.org/teaching/courses/agds2/</link>
     </image>
     

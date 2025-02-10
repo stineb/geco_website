@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>highlight | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/category/highlight/</link>
+      <atom:link href="https://geco-group.org/category/highlight/index.xml" rel="self" type="application/rss+xml" />
+    <description>highlight</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>highlight</title>
+      <link>https://geco-group.org/category/highlight/</link>
+    </image>
+    
+    <item>
+      <title>Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations in vascular plants</title>
+      <link>https://geco-group.org/publication/tian-24-natcomm/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/tian-24-natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions</title>
+      <link>https://geco-group.org/publication/stocker-24-newphyt/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/stocker-24-newphyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global patterns of water storage in the rooting zones of vegetation</title>
+      <link>https://geco-group.org/publication/stocker-23-natgeo/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/stocker-23-natgeo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

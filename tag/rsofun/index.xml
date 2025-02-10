@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rsofun | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/rsofun/</link>
+      <atom:link href="https://geco-group.org/tag/rsofun/index.xml" rel="self" type="application/rss+xml" />
+    <description>rsofun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>rsofun</title>
+      <link>https://geco-group.org/tag/rsofun/</link>
+    </image>
+    
+    <item>
+      <title>CN-model: A dynamic model for the coupled carbon and nitrogen cycles in terrestrial ecosystems</title>
+      <link>https://geco-group.org/publication/stockerprentice-24/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/stockerprentice-24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

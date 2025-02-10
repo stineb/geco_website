@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ning Dong | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/ning-dong/</link>
+      <atom:link href="https://geco-group.org/author/ning-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ning Dong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>Ning Dong</title>
+      <link>https://geco-group.org/author/ning-dong/</link>
+    </image>
+    
+    <item>
+      <title>Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions</title>
+      <link>https://geco-group.org/publication/stocker-24-newphyt/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/stocker-24-newphyt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
